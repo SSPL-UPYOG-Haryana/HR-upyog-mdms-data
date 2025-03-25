@@ -3387,7 +3387,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Expense Bill"
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Expense Bill"
     },
     {
       "id": 1610,
@@ -3400,7 +3400,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Create Voucher",
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Create Voucher",
       "navigationURL": "services/EGF/voucher/billVoucher-newForm.action"
     },
     {
@@ -3414,7 +3414,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Administration.Cancel Voucher",
+      "path": "Finance.General.Cancel Voucher",
       "navigationURL": "services/EGF/voucher/cancelVoucher-beforeSearch.action"
     },
     {
@@ -3428,7 +3428,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year",
+      "path": "Finance.Year End Activities.Financial Year",
       "navigationURL": "services/EGF/HTML/FinancialYearEnq.htm"
     },
     {
@@ -3442,7 +3442,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Direct Bank Payments",
+      "path": "Finance.Expenditure Accounting.Payments.Direct Bank Payments",
       "navigationURL": "services/EGF/payment/directBankPayment-newform.action"
     },
     {
@@ -3456,7 +3456,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Journal Voucher",
+      "path": "Finance.Journal Voucher",
       "navigationURL": "services/EGF/voucher/journalVoucher-newForm.action"
     },
     {
@@ -3498,7 +3498,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Bank book",
+      "path": "Finance.Report Generation.Accounting Records.Bank book",
       "navigationURL": "services/EGF/report/bankBookReport.action"
     },
     {
@@ -3512,7 +3512,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Cheque Issue Register",
+      "path": "Finance.Report Generation.MIS Reports.Cheque Issue Register",
       "navigationURL": "services/EGF/report/chequeIssueRegisterReport.action"
     },
     {
@@ -3526,7 +3526,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.View Bills",
+      "path": "Finance.Expenditure Accounting.Bills Accounting.View Bills",
       "navigationURL": "services/EGF/bill/billRegisterSearch-newform.action"
     },
     {
@@ -3652,7 +3652,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Voucher Status Report",
+      "path": "Finance.Report Generation.MIS Reports.Voucher Status Report",
       "navigationURL": "services/EGF/report/voucherStatusReport-beforeSearch.action"
     },
     {
@@ -3680,7 +3680,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.RTGS Assignment",
+      "path": "Finance.Expenditure Accounting.Payments.RTGS Assignment",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeRtgsSearch.action"
     },
     {
@@ -3694,7 +3694,7 @@
       "serviceCode": "FinanceGeneral",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.View Vouchers",
+      "path": "Finance.General.View Vouchers",
       "navigationURL": "services/EGF/voucher/voucherSearch-beforesearch.action"
     },
     {
@@ -3708,7 +3708,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Bill Payment",
+      "path": "Finance.Expenditure Accounting.Payments.Bill Payment",
       "navigationURL": "services/EGF/payment/payment-beforeSearch.action"
     },
     {
@@ -3722,7 +3722,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Cheque Assignment",
+      "path": "Finance.Expenditure Accounting.Payments.Cheque Assignment",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearch.action"
     },
     {
@@ -3736,7 +3736,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Surrender/Reassign Cheque",
+      "path": "Finance.Expenditure Accounting.Payments.Surrender/Reassign Cheque",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForSurrender.action"
     },
     {
@@ -3890,7 +3890,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Trial Balance",
+      "path": "Finance.Report Generation.Accounting Records.Trial Balance",
       "navigationURL": "services/EGF/report/trialBalance-newForm.action"
     },
     {
@@ -3918,7 +3918,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Bill Register Detailed Report",
+      "path": "Finance.Report Generation.MIS Reports.Bill Register Detailed Report",
       "navigationURL": "services/EGF/report/billRegisterReport-searchform.action"
     },
     {
@@ -3932,7 +3932,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Bank Advice Report(RTGS)",
+      "path": "Finance.Report Generation.MIS Reports.Bank Advice Report(RTGS)",
       "navigationURL": "services/EGF/report/bankAdviceReport-newForm.action"
     },
     {
@@ -3974,7 +3974,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.RTGS Register",
+      "path": "Finance.Report Generation.MIS Reports.RTGS Register",
       "navigationURL": "services/EGF/report/rtgsIssueRegisterReport-newForm.action"
     },
     {
@@ -3988,7 +3988,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.General Ledger",
+      "path": "Finance.Report Generation.Accounting Records.General Ledger",
       "navigationURL": "services/EGF/report/generalLedgerReport-newForm.action"
     },
     {
@@ -4002,7 +4002,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Subledger Schedule",
+      "path": "Finance.Report Generation.Accounting Records.Subledger Schedule",
       "navigationURL": "services/EGF/report/subLedgerScheduleReport-newForm.action"
     },
     {
@@ -4016,7 +4016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Sub Ledger",
+      "path": "Finance.Report Generation.Accounting Records.Sub Ledger",
       "navigationURL": "services/EGF/report/subLedgerReport-newForm.action"
     },
     {
@@ -4030,7 +4030,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Day Book",
+      "path": "Finance.Report Generation.Accounting Records.Day Book",
       "navigationURL": "services/EGF/report/dayBookReport-newForm.action"
     },
     {
@@ -4044,7 +4044,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Journal Book",
+      "path": "Finance.Report Generation.Accounting Records.Journal Book",
       "navigationURL": "services/EGF/report/journalBookReport-newForm.action"
     },
     {
@@ -4058,7 +4058,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Accounting Records.Opening Balance",
+      "path": "Finance.Report Generation.Accounting Records.Opening Balance",
       "navigationURL": "services/EGF/report/openingBalanceReport-newForm.action"
     },
     {
@@ -4072,7 +4072,7 @@
       "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Payments.Surrender RTGS",
+      "path": "Finance.Expenditure Accounting.Payments.Surrender RTGS",
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRTGSSurrender.action"
     },
     {
@@ -4296,7 +4296,7 @@
       "serviceCode": "FinanceAdmin",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Opening Balance Entry",
+      "path": "Finance.Year End Activities.Opening Balance Entry",
       "navigationURL": "services/EGF/transactionsummary/new"
     },
     {
@@ -4518,7 +4518,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/receipt-newform.action?Receipt=Misc#no-back-button",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Miscellaneous Receipts"
+      "path": "Finance.Revenue Accounting.Miscellaneous Receipts"
     },
     {
       "id": 1692,
@@ -4544,7 +4544,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/searchReceipt.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Search Receipts"
+      "path": "Finance.Revenue Accounting.Search Receipts"
     },
     {
       "id": 1694,
@@ -4606,7 +4606,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/bankRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cash Remittance"
+      "path": "Finance.Revenue Accounting.Cash Remittance"
     },
     {
       "id": 1699,
@@ -4643,7 +4643,7 @@
       "code": "null",
       "navigationURL": "services/collection/receipts/chequeRemittance-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Revenue/Collections.Cheque Remittance"
+      "path": "Finance.Revenue Accounting.Cheque Remittance"
     },
     {
       "id": 1704,
@@ -4657,7 +4657,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Set-up.Create Bankaccount Mapping"
+      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
     },
     {
       "id": 1705,
@@ -4671,7 +4671,7 @@
       "code": "null",
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
       "leftIcon": "image:collections",
-      "path": "Finance.Set-up.View Bankaccount Mapping"
+      "path": "Finance.Masters.Bank Account Mapping.View Bankaccount Mapping"
     },
     {
       "id": 1706,
@@ -4847,7 +4847,7 @@
       "navigationURL": "services/EGF/deduction/remitRecovery-newform.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Deductions.Deduction Payments"
+      "path": "Finance.Expenditure Accounting.Deductions.Deduction Payments"
     },
     {
       "id": 1722,
@@ -4874,7 +4874,7 @@
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeSearchForRemittance.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Deductions.Deductions Cheque Assignment"
+      "path": "Finance.Expenditure Accounting.Deductions.Deductions Cheque Assignment"
     },
     {
       "id": 1724,
@@ -4899,7 +4899,7 @@
       "navigationURL": "services/EGF/purchaseorder/newform",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Purchase Order.Create Purchase Order"
+      "path": "Finance.Expenditure Accounting.Purchase Order.Create Purchase Order"
     },
     {
       "id": 1726,
@@ -4913,7 +4913,7 @@
       "navigationURL": "services/EGF/purchaseorder/search/view",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Purchase Order.View Purchase Order"
+      "path": "Finance.Expenditure Accounting.Purchase Order.View Purchase Order"
     },
     {
       "id": 1727,
@@ -4927,7 +4927,7 @@
       "navigationURL": "services/EGF/purchaseorder/search/edit",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Purchase Order.Modify Purchase Order"
+      "path": "Finance.Expenditure Accounting.Purchase Order.Modify Purchase Order"
     },
     {
       "id": 1728,
@@ -4981,7 +4981,7 @@
       "navigationURL": "services/EGF/workorder/newform",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Work Order.Create Work Order"
+      "path": "Finance.Expenditure Accounting.Work Order.Create Work Order"
     },
     {
       "id": 1732,
@@ -4995,7 +4995,7 @@
       "navigationURL": "services/EGF/workorder/search/view",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Work Order.View Work Order"
+      "path": "Finance.Expenditure Accounting.Work Order.View Work Order"
     },
     {
       "id": 1733,
@@ -5009,7 +5009,7 @@
       "navigationURL": "services/EGF/workorder/search/edit",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Work Order.Modify Work Order"
+      "path": "Finance.Expenditure Accounting.Work Order.Modify Work Order"
     },
     {
       "id": 1734,
@@ -5034,7 +5034,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Deduction Reports.Remittance Pending "
+      "path": "Finance.Report Generation.Deduction Reports.Remittance Pending "
     },
     {
       "id": 1736,
@@ -5047,7 +5047,7 @@
       "code": "null",
       "navigationURL": "services/EGF/report/pendingTDSReport-summaryReport.action",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Deduction Reports.Deductions Summary "
+      "path": "Finance.Report Generation.Deduction Reports.Deductions Summary "
     },
     {
       "id": 1737,
@@ -5150,7 +5150,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Contractor Bill"
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Contractor Bill"
     },
     {
       "id": 1745,
@@ -5164,7 +5164,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bills Accounting.Supplier Bill"
+      "path": "Finance.Expenditure Accounting.Bills Accounting.Supplier Bill"
     },
     {
       "id": 1746,
@@ -5190,7 +5190,7 @@
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Contra Entries.Bank to Bank Transfer"
+      "path": "Finance.Expenditure Accounting.Contra Entries.Bank to Bank Transfer"
     },
     {
       "id": 1748,
@@ -5270,7 +5270,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Financial Statements.Income - Expenditures Statement"
+      "path": "Finance.Report Generation.Financial Statements.Income - Expenditures Statement"
     },
     {
       "id": 1754,
@@ -5284,7 +5284,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Financial Statements.Balance Sheet"
+      "path": "Finance.Report Generation.Financial Statements.Balance Sheet"
     },
     {
       "id": 1755,
@@ -5298,7 +5298,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.createBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.createBudgetGroup_Master"
     },
     {
       "id": 1756,
@@ -5312,7 +5312,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.viewBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.viewBudgetGroup_Master"
     },
     {
       "id": 1757,
@@ -5326,7 +5326,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Group.updateBudgetGroup_Master"
+      "path": "Finance.Budget and Controls.Budget Group.updateBudgetGroup_Master"
     },
     {
       "id": 1758,
@@ -5340,7 +5340,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.createBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.createBudgetDefinition_Master"
     },
     {
       "id": 1759,
@@ -5354,7 +5354,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.viewBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.viewBudgetDefinition_Master"
     },
     {
       "id": 1760,
@@ -5368,7 +5368,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Definition.updateBudgetDefinition_Master"
+      "path": "Finance.Budget and Controls.Budget Definition.updateBudgetDefinition_Master"
     },
     {
       "id": 1761,
@@ -5382,7 +5382,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.Budget Additional Appropriation"
+      "path": "Finance.Budget and Controls.Budget Additional Appropriation"
     },
     {
       "id": 1762,
@@ -5396,7 +5396,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.uploadBudgetMaster"
+      "path": "Finance.Budget and Controls.uploadBudgetMaster"
     },
     {
       "id": 1763,
@@ -5410,7 +5410,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.approveBudgetMaster"
+      "path": "Finance.Budget and Controls.approveBudgetMaster"
     },
     {
       "id": 1764,
@@ -5424,7 +5424,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budgeting.searchBudgetMaster"
+      "path": "Finance.Budget and Controls.searchBudgetMaster"
     },
     {
       "id": 1765,
@@ -5438,7 +5438,7 @@
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Set-up.Budget Control Type.Create/Update-Budget Control Type"
+      "path": "Finance.Masters.Budget Control Type.Create/Update-Budget Control Type"
     },
     {
       "id": 1766,
@@ -5466,7 +5466,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Departmentwise Budget",
+      "path": "Finance.Report Generation.Budget Reports.Departmentwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-departmentWiseReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5480,7 +5480,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Functionwise Budget",
+      "path": "Finance.Report Generation.Budget Reports.Functionwise Budget",
       "navigationURL": "services/EGF/budget/budgetReport-functionwise.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5494,7 +5494,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Watch Register",
+      "path": "Finance.Report Generation.Budget Reports.Budget Watch Register",
       "navigationURL": "services/EGF/report/budgetAppropriationRegisterReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5508,7 +5508,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Variance Report",
+      "path": "Finance.Report Generation.Budget Reports.Budget Variance Report",
       "navigationURL": "services/EGF/report/budgetVarianceReport.action",
       "leftIcon": "editor:insert-chart"
     },
@@ -5522,7 +5522,7 @@
       "enabled": true,
       "serviceCode": "FinanceReport",
       "code": "null",
-      "path": "Finance.Reports.Budget Reports.Budget Upload Report",
+      "path": "Finance.Report Generation.Budget Reports.Budget Upload Report",
       "navigationURL": "services/EGF/budgetuploadreport/search",
       "leftIcon": "editor:insert-chart"
     },
@@ -5751,7 +5751,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.View Financial Year",
+      "path": "Finance.Masters.Financial Year.View Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/view"
     },
     {
@@ -5765,7 +5765,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.Edit Financial Year",
+      "path": "Finance.Masters.Financial Year.Edit Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/edit"
     },
     {
@@ -5779,7 +5779,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Transfer Closing Balance",
+      "path": "Finance.Year End Activities.Transfer Closing Balance",
       "navigationURL": "services/EGF/pea/transferClosingBalance-new.action"
     },
     {
@@ -5793,7 +5793,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/edit"
     },
     {
@@ -5807,7 +5807,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Financial Year.Create Financial Year",
+      "path": "Finance.Masters.Financial Year.Create Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/new"
     },
     {
@@ -6284,7 +6284,7 @@
       "navigationURL": "services/EGF/payment/chequeAssignment-beforeRemittanceRtgsSearch.action",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Deductions.Deductions RTGS Assignment"
+      "path": "Finance.Expenditure Accounting.Deductions.Deductions RTGS Assignment"
     },
     {
       "id": 1837,
@@ -6298,7 +6298,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Reconcile with Bank-Manual"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Reconcile with Bank-Manual"
     },
     {
       "id": 1838,
@@ -6312,7 +6312,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Bank Statement Entries - Not In Bank Book"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Bank Statement Entries - Not In Bank Book"
     },
     {
       "id": 1839,
@@ -6326,7 +6326,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Reconciliation Summary Report"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Reconciliation Summary Report"
     },
     {
       "id": 1840,
@@ -6629,7 +6629,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Auto reconcile Statement Upload"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Auto reconcile Statement Upload"
     },
     {
       "id": 1868,
@@ -6643,7 +6643,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.Reconcile Uploaded Statement"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.Reconcile Uploaded Statement"
     },
     {
       "id": 1869,
@@ -6681,7 +6681,7 @@
       "serviceCode": "FinanceReconcile",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Bank Reconciliation.View Bank Statement Uploaded Files"
+      "path": "Finance.Expenditure Accounting.Bank Reconciliation.View Bank Statement Uploaded Files"
     },
     {
       "id": 1872,
@@ -6705,7 +6705,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Financial Year",
+      "path": "Finance.Year End Activities.Close Financial Year",
       "navigationURL": "services/EGF/cfinancialyear/search/close"
     },
     {
@@ -6956,7 +6956,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/view"
     },
     {
@@ -7748,7 +7748,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Surrendered Cheque",
+      "path": "Finance.Report Generation.MIS Reports.Surrendered Cheque",
       "navigationURL": "services/EGF/report/cheque/surrendered/form"
     },
     {
@@ -7888,7 +7888,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Period End Activities.Close Period",
+      "path": "Finance.Year End Activities.Close Period",
       "navigationURL": "services/EGF/closedperiod/search/reopen"
     },
     {
@@ -7958,7 +7958,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Collection Report",
+      "path": "Finance.Report Generation.Revenue Reports.Remittance Collection Report",
       "navigationURL": "services/EGF/report/remittance/collection/form"
     },
     {
@@ -8002,7 +8002,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.MIS Reports.Dishonored Cheque Report",
+      "path": "Finance.Report Generation.MIS Reports.Dishonored Cheque Report",
       "navigationURL": "services/collection/report/dishonouredcheque/searchform"
     },
     {
@@ -8016,7 +8016,7 @@
       "serviceCode": "FinanceReport",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Reports.Revenue Reports.Remittance Pending Report",
+      "path": "Finance.Report Generation.Revenue Reports.Remittance Pending Report",
       "navigationURL": "services/EGF/report/remittance/pending/form"
     },
     {
@@ -15557,7 +15557,7 @@
     {
       "id": 2587,
       "name": "Get Authorization URL",
-      "url": "/requester-services-dx/digilocker/authorization/url",
+      "url": "/requester-services-dx/user/authorization/url",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15570,7 +15570,7 @@
     {
       "id": 2588,
       "name": "Get Access Token",
-      "url": "/requester-services-dx/digilocker/token",
+      "url": "/requester-services-dx/user/token",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15583,7 +15583,7 @@
     {
       "id": 2589,
       "name": "Get User Details",
-      "url": "/requester-services-dx/digilocker/details",
+      "url": "/requester-services-dx/user/details",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15596,7 +15596,7 @@
     {
       "id": 2590,
       "name": "Get Issued Files",
-      "url": "/requester-services-dx/digilocker/issuedfiles",
+      "url": "/requester-services-dx/user/issuedfiles",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15609,7 +15609,7 @@
     {
       "id": 2591,
       "name": "Get File",
-      "url": "/requester-services-dx/digilocker/file",
+      "url": "/requester-services-dx/user/file",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15622,7 +15622,7 @@
     {
       "id": 2592,
       "name": "Get Authorization URL",
-      "url": "/requester-services-dx/digilocker/authorization/url",
+      "url": "/requester-services-dx/user/authorization/url",
       "parentModule": "",
       "displayName": "",
       "orderNumber": 0,
@@ -15631,7 +15631,8 @@
       "code": "null",
       "path": "",
       "navigationURL": ""
-    },  
+    },
+    
     {
       "id": 2595,
       "name": "CitizenGrievanceFeedback",
@@ -15771,11 +15772,11 @@
     {
       "id": 2606,
       "name": "TL Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
+      "url": "egov-workflow-v2/egov-wf/auto/NewTL/_escalate",
       "parentModule": "",
       "displayName": "TL Workflow Escalation Update",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "egov-workflow-v2",
       "code": "null",
       "path": ""
@@ -15783,7 +15784,7 @@
     {
       "id": 2607,
       "name": "OBPS Workflow Escalation Update",
-      "url": "/egov-workflow-v2/egov-wf/auto/BPA/_escalate",
+      "url": "egov-workflow-v2/egov-wf/auto/BPA/_escalate",
       "parentModule": "",
       "displayName": "OBPS Workflow Escalation Update",
       "orderNumber": 0,
@@ -15911,7 +15912,7 @@
     {
       "id": 2617,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/egf-master.FinancialYear",
+      "url":"/mdms-v2/v2/_create/egf-master.FinancialYear",
       "displayName": "Create egf-master FinancialYear",
       "orderNumber": 1,
       "parentModule": "",
@@ -15923,7 +15924,7 @@
     {
       "id": 2618,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/egf-master.FinancialYear",
+      "url":"/mdms-v2/v2/_update/egf-master.FinancialYear",
       "displayName": "Update egf-master FinancialYear",
       "orderNumber": 1,
       "parentModule": "",
@@ -15935,7 +15936,7 @@
     {
       "id": 2619,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/common-masters.Department",
+      "url":"/mdms-v2/v2/_create/common-masters.Department",
       "displayName": "Create common-masters.Department",
       "orderNumber": 1,
       "parentModule": "",
@@ -15947,7 +15948,7 @@
     {
       "id": 2620,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/common-masters.Department",
+      "url":"/mdms-v2/v2/_update/common-masters.Department",
       "displayName": "Update common-masters.Department",
       "orderNumber": 1,
       "parentModule": "",
@@ -15959,7 +15960,7 @@
     {
       "id": 2621,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/RAINMAKER-PGR.UIConstants",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.UIConstants",
       "displayName": "Create RAINMAKER-PGR.UIConstants",
       "orderNumber": 1,
       "parentModule": "",
@@ -15971,7 +15972,7 @@
     {
       "id": 2622,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/RAINMAKER-PGR.UIConstants",
+      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.UIConstants",
       "displayName": "Update RAINMAKER-PGR.UIConstants",
       "orderNumber": 1,
       "parentModule": "",
@@ -15983,7 +15984,7 @@
     {
       "id": 2623,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/RAINMAKER-PGR.ComplainClosingTime",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ComplainClosingTime",
       "displayName": "Create RAINMAKER-PGR.ComplainClosingTime",
       "orderNumber": 1,
       "parentModule": "",
@@ -15995,7 +15996,7 @@
     {
       "id": 2624,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/RAINMAKER-PGR.ComplainClosingTime",
+      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.ComplainClosingTime",
       "displayName": "Update RAINMAKER-PGR.ComplainClosingTime",
       "orderNumber": 1,
       "parentModule": "",
@@ -16007,7 +16008,7 @@
     {
       "id": 2625,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/RAINMAKER-PGR.ServiceDefs",
+      "url":"/mdms-v2/v2/_create/RAINMAKER-PGR.ServiceDefs",
       "displayName": "Create RAINMAKER-PGR.ServiceDefs",
       "orderNumber": 1,
       "parentModule": "",
@@ -16019,7 +16020,7 @@
     {
       "id": 2626,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/RAINMAKER-PGR.ServiceDefs",
+      "url":"/mdms-v2/v2/_update/RAINMAKER-PGR.ServiceDefs",
       "displayName": "Update RAINMAKER-PGR.ServiceDefs",
       "orderNumber": 1,
       "parentModule": "",
@@ -16051,7 +16052,7 @@
       "code": "null",
       "path": ""
     },
-    {
+{
       "id": 2629,
       "name": "rainmaker-common-dashboard",
       "url": "card",
@@ -16067,7 +16068,7 @@
       "leftIcon": "custom:publicIcon",
       "rightIcon": ""
     },
-    {
+{
       "id": 2630,
       "name": "Search FSM Application",
       "url": "/fsm/v1/_plainsearch",
@@ -16097,7 +16098,7 @@
     {
       "id": 2632,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PropertyTax.PropertyType",
+      "url":"/mdms-v2/v2/_update/PropertyTax.PropertyType",
       "displayName": "Update RAINMAKER-PGR.ComplainClosingTime",
       "orderNumber": 1,
       "parentModule": "",
@@ -16109,7 +16110,7 @@
     {
       "id": 2633,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PropertyTax.PropertyType",
+      "url":"/mdms-v2/v2/_create/PropertyTax.PropertyType",
       "displayName": "Create RAINMAKER-PGR.ServiceDefs",
       "orderNumber": 1,
       "parentModule": "",
@@ -16135,7 +16136,7 @@
     {
       "id": 2636,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/common-masters.StructureType",
+      "url":"/mdms-v2/v2/_update/common-masters.StructureType",
       "displayName": "Update common-masters.StructureType",
       "orderNumber": 1,
       "parentModule": "",
@@ -16349,22 +16350,22 @@
       "path": ""
     },
     {
-      "id": 2656,
-      "name": "Firenoc Citizen Home",
-      "url": "digit-ui-card",
-      "displayName": "FireNoc Search",
-      "orderNumber": 1,
-      "parentModule": "FireNoc",
-      "enabled": true,
-      "serviceCode": "",
-      "code": "",
-      "path": "fire-noc",
-      "navigationURL": "/citizen/fire-noc/home",
-      "leftIcon": "FirenocIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links",
-      "sidebarURL": "/citizen/fire-noc/home"
+       "id": 2656,
+       "name": "Firenoc Citizen Home",
+       "url": "digit-ui-card",
+       "displayName": "FireNoc Search",
+       "orderNumber": 1,
+       "parentModule": "FireNoc",
+       "enabled": true,
+       "serviceCode": "",
+       "code": "",
+       "path": "fire-noc",
+       "navigationURL": "/citizen/fire-noc/home",
+       "leftIcon": "FirenocIcon",
+       "rightIcon": "",
+       "queryParams": "",
+       "sidebar": "digit-ui-links",
+       "sidebarURL": "/citizen/fire-noc/home"
     },
     {
       "id": 2657,
@@ -16398,8 +16399,8 @@
       "serviceCode": "pt-services-v2",
       "code": "null",
       "path": ""
-    },
-    {
+	},
+   {
       "id": 2660,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/BillingService.BusinessService",
@@ -18247,10 +18248,10 @@
       "code": "null",
       "path": ""
     },
-    {
+	{
       "id": 2814,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/StakeholderRegistraition.TradeTypetoRoleMapping",
+      "url":"/mdms-v2/v2/_create/StakeholderRegistraition.TradeTypetoRoleMapping",
       "displayName": "Create StakeholderRegistraition.TradeTypetoRoleMapping ",
       "orderNumber": 1,
       "parentModule": "",
@@ -18259,7 +18260,7 @@
       "code": "null",
       "path": ""
     },
-    {
+{
       "id": 2815,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_update/StakeholderRegistraition.TradeTypetoRoleMapping",
@@ -18271,10 +18272,10 @@
       "code": "null",
       "path": ""
     },
-    {
+	    {
       "id": 2816,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/common-masters.PaymentChannel",
+      "url":"/mdms-v2/v2/_create/common-masters.PaymentChannel",
       "displayName": "Create common-masters.Department",
       "orderNumber": 1,
       "parentModule": "",
@@ -18283,7 +18284,8 @@
       "code": "null",
       "path": ""
     },
-    {
+	
+	 {
       "id": 2817,
       "name": "MDMS",
       "url": "/mdms-v2/v2/_create/tenant.propertyType",
@@ -18310,7 +18312,7 @@
       "leftIcon": "custom:water-tap",
       "rightIcon": ""
     },
-    {
+		{
       "id": 2819,
       "name": "WS Integrated Bill",
       "url": "url",
@@ -18601,16 +18603,16 @@
       "path": ""
     },
     {
-      "id": 2841,
-      "name": "Street Vending Payment search",
-      "url": "/collection-services/payments/sv-services/_search",
-      "displayName": "Street Vending Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
+        "id": 2841,
+        "name": "Street Vending Payment search",
+        "url": "/collection-services/payments/sv-services/_search",
+        "displayName": "Street Vending Payment search",
+        "orderNumber": 1,
+        "parentModule": "",
+        "enabled": false,
+        "serviceCode": "",
+        "code": "null",
+        "path": ""
     },
     {
       "id": 2842,
@@ -18720,7 +18722,7 @@
       "queryParams": "",
       "sidebar": "digit-ui-links",
       "sidebarURL": "/digit-ui/citizen/ew-home"
-    },
+    },    
     {
       "id": 2849,
       "name": "Create Ewaste application",
@@ -18772,214 +18774,214 @@
       "sidebarURL": "/digit-ui/citizen/verificationsearch-home"
     },
     {
-      "id": 2853,
-      "name": "AST_NEW_ASSET_HEADER",
-      "url": "card",
-      "displayName": "New Asset",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "ASSET",
-      "code": "null",
-      "path": "",
-      "parentModule": "ASSET",
-      "navigationURL": "/digit-ui/employee/asset/assetservice/new-asset",
-      "leftIcon": "OBPSIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links"
-    },
-    {
-      "id": 2854,
-      "name": "AST_MY_ASSETS_HEADER",
-      "url": "card",
-      "displayName": "My Assets",
-      "orderNumber": 2,
-      "enabled": true,
-      "serviceCode": "ASSET",
-      "code": "null",
-      "path": "",
-      "parentModule": "ASSET",
-      "navigationURL": "/digit-ui/employee/asset/assetservice/my-asset",
-      "leftIcon": "OBPSIcon",
-      "rightIcon": "",
-      "queryParams": "",
-      "sidebar": "digit-ui-links"
-    },
-    {
-      "id": 2855,
-      "name": "Asset Report",
-      "url": "url",
-      "displayName": "Asset Application Report",
-      "orderNumber": 2,
-      "enabled": true,
-      "serviceCode": "ASSET",
-      "code": "null",
-      "path": "Asset.Reports.AssetapplicationReport",
-      "parentModule": "asset-services-masters",
-      "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
-      "id": 2856,
-      "name": "Asset Report",
-      "url": "url",
-      "displayName": "Asset State Wise Report",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "ASSET",
-      "code": "null",
-      "path": "Asset.Reports.AssetapplicationReportULBwise",
-      "parentModule": "asset-services-masters",
-      "navigationURL": "report/rainmaker-asset/AssetapplicationReportULBwise",
-      "leftIcon": "places:business-center",
-      "rightIcon": ""
-    },
-    {
-      "id": 2857,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategoryFields",
-      "displayName": "Create ASSET.AssetParentCategoryFields",
-      "orderNumber": "1",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2858,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategory",
-      "displayName": "Create ASSET.AssetParentCategory",
-      "orderNumber": "1",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2859,
-      "name": "Create Asset registration",
-      "url": "/asset-services/v1/assets/_create",
-      "displayName": "Create Asset Registration",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2860,
-      "name": "Update Asset registration",
-      "url": "/asset-services/v1/assets/_update",
-      "displayName": "Update Asset Application",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2861,
-      "name": "Search Assets",
-      "url": "/asset-services/v1/assets/_search",
-      "displayName": "Search Assets",
-      "orderNumber": 3,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2862,
-      "name": "Create Asset registration",
-      "url": "/asset-services/v1/assets/assignment/_create",
-      "displayName": "Create Asset Registration",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2863,
-      "name": "Update Asset registration",
-      "url": "/asset-services/v1/assets/assignment/_update",
-      "displayName": "Update Asset Application",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2864,
-      "name": "AssetapplicationReport",
-      "url": "/report/rainmaker-asset/AssetapplicationReport/metadata/_get",
-      "displayName": "rainmaker-asset-AssetapplicationReport",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2865,
-      "name": "AssetapplicationReport",
-      "url": "/report/rainmaker-asset/AssetapplicationReport/_get",
-      "displayName": "rainmaker-asset-AssetapplicationReport",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2866,
-      "name": "AssetapplicationReportULBwise",
-      "url": "/report/rainmaker-asset/AssetapplicationReportULBwise/metadata/_get",
-      "displayName": "rainmaker-asset-AssetapplicationReportULBwise",
-      "orderNumber": 2,
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2867,
-      "name": "AssetapplicationReportULBwise",
-      "url": "/report/rainmaker-asset/AssetapplicationReportULBwise/_get",
-      "displayName": "rainmaker-asset-AssetapplicationReportULBwise",
-      "orderNumber": 2,
-      "enabled": true,
-      "serviceCode": "report",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2868,
-      "name": "Create or Update Workflow Using Apply Workflow Service",
-      "url": "/apply-workflow/api/v1/_process",
-      "displayName": "Process Workflow",
-      "orderNumber": 1,
-      "enabled": true,
-      "serviceCode": "apply-workflow",
-      "code": "null",
-      "path": ""
-    },
-    {
-      "id": 2869,
-      "name": "Pet Payment search",
-      "url": "/collection-services/payments/pet-services/_search",
-      "displayName": "Pet Payment search",
-      "orderNumber": 1,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "",
-      "code": "null",
-      "path": ""
-    },
-    {
+    "id": 2853,
+    "name": "AST_NEW_ASSET_HEADER",
+    "url": "card",
+    "displayName": "New Asset",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "ASSET",
+    "code": "null",
+    "path": "",
+    "parentModule": "ASSET",
+    "navigationURL": "/digit-ui/employee/asset/assetservice/new-asset",
+    "leftIcon": "OBPSIcon",
+    "rightIcon": "",
+    "queryParams": "",
+    "sidebar": "digit-ui-links"
+},
+{
+    "id": 2854,
+    "name": "AST_MY_ASSETS_HEADER",
+    "url": "card",
+    "displayName": "My Assets",
+    "orderNumber": 2,
+    "enabled": true,
+    "serviceCode": "ASSET",
+    "code": "null",
+    "path": "",
+    "parentModule": "ASSET",
+    "navigationURL": "/digit-ui/employee/asset/assetservice/my-asset",
+    "leftIcon": "OBPSIcon",
+    "rightIcon": "",
+    "queryParams": "",
+    "sidebar": "digit-ui-links"
+},
+{
+    "id": 2855,
+    "name": "Asset Report",
+    "url": "url",
+    "displayName": "Asset Application Report",
+    "orderNumber": 2,
+    "enabled": true,
+    "serviceCode": "ASSET",
+    "code": "null",
+    "path": "Asset.Reports.AssetapplicationReport",
+    "parentModule": "asset-services-masters",
+    "navigationURL": "report/rainmaker-asset/AssetapplicationReport",
+    "leftIcon": "places:business-center",
+    "rightIcon": ""
+},
+{
+    "id": 2856,
+    "name": "Asset Report",
+    "url": "url",
+    "displayName": "Asset State Wise Report",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "ASSET",
+    "code": "null",
+    "path": "Asset.Reports.AssetapplicationReportULBwise",
+    "parentModule": "asset-services-masters",
+    "navigationURL": "report/rainmaker-asset/AssetapplicationReportULBwise",
+    "leftIcon": "places:business-center",
+    "rightIcon": ""
+},
+{
+    "id": 2857,
+    "name": "MDMS",
+    "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategoryFields",
+    "displayName": "Create ASSET.AssetParentCategoryFields",
+    "orderNumber": "1",
+    "enabled": "true",
+    "serviceCode": "MDMS",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2858,
+    "name": "MDMS",
+    "url": "/mdms-v2/v2/_create/ASSET.AssetParentCategory",
+    "displayName": "Create ASSET.AssetParentCategory",
+    "orderNumber": "1",
+    "enabled": "true",
+    "serviceCode": "MDMS",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2859,
+    "name": "Create Asset registration",
+    "url": "/asset-services/v1/assets/_create",
+    "displayName": "Create Asset Registration",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2860,
+    "name": "Update Asset registration",
+    "url": "/asset-services/v1/assets/_update",
+    "displayName": "Update Asset Application",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2861,
+    "name": "Search Assets",
+    "url": "/asset-services/v1/assets/_search",
+    "displayName": "Search Assets",
+    "orderNumber": 3,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2862,
+    "name": "Create Asset registration",
+    "url": "/asset-services/v1/assets/assignment/_create",
+    "displayName": "Create Asset Registration",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2863,
+    "name": "Update Asset registration",
+    "url": "/asset-services/v1/assets/assignment/_update",
+    "displayName": "Update Asset Application",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2864,
+    "name": "AssetapplicationReport",
+    "url": "/report/rainmaker-asset/AssetapplicationReport/metadata/_get",
+    "displayName": "rainmaker-asset-AssetapplicationReport",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "report",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2865,
+    "name": "AssetapplicationReport",
+    "url": "/report/rainmaker-asset/AssetapplicationReport/_get",
+    "displayName": "rainmaker-asset-AssetapplicationReport",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "report",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2866,
+    "name": "AssetapplicationReportULBwise",
+    "url": "/report/rainmaker-asset/AssetapplicationReportULBwise/metadata/_get",
+    "displayName": "rainmaker-asset-AssetapplicationReportULBwise",
+    "orderNumber": 2,
+    "enabled": true,
+    "serviceCode": "report",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2867,
+    "name": "AssetapplicationReportULBwise",
+    "url": "/report/rainmaker-asset/AssetapplicationReportULBwise/_get",
+    "displayName": "rainmaker-asset-AssetapplicationReportULBwise",
+    "orderNumber": 2,
+    "enabled": true,
+    "serviceCode": "report",
+    "code": "null",
+    "path": ""
+},
+{
+    "id": 2868,
+    "name": "Create or Update Workflow Using Apply Workflow Service",
+    "url": "/apply-workflow/api/v1/_process",
+    "displayName": "Process Workflow",
+    "orderNumber": 1,
+    "enabled": true,
+    "serviceCode": "apply-workflow",
+    "code": "null",
+    "path": ""
+},
+{
+  "id": 2869,
+  "name": "Pet Payment search",
+  "url": "/collection-services/payments/pet-services/_search",
+  "displayName": "Pet Payment search",
+  "orderNumber": 1,
+  "parentModule": "",
+  "enabled": false,
+  "serviceCode": "",
+  "code": "null",
+  "path": ""
+},
+   {
       "id": 2870,
       "name": "Asset Report",
       "url": "url",
@@ -19025,52 +19027,52 @@
       "sidebarURL": "/digit-ui/citizen/ew-home"
     },
     {
-      "id": 2873,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/WORKFLOW.BusinessServices",
-      "displayName": "Update WORKFLOW.BusinessServices",
-      "orderNumber": "1",
-      "parentModule": "",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
+        "id": 2873,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/WORKFLOW.BusinessServices",
+        "displayName": "Update WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     },
     {
-      "id": 2874,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/WORKFLOW.BusinessServices",
-      "displayName": "Create WORKFLOW.BusinessServices",
-      "orderNumber": "1",
-      "parentModule": "",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
+        "id": 2874,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/WORKFLOW.BusinessServices",
+        "displayName": "Create WORKFLOW.BusinessServices",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     },
     {
-      "id": 2875,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/ASSET.AssetParentCategoryFields",
-      "displayName": "update ASSET.AssetParentCategoryFields",
-      "orderNumber": "1",
-      "parentModule": "",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
+        "id": 2875,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.AssetParentCategoryFields",
+        "displayName": "update ASSET.AssetParentCategoryFields",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     },
     {
-      "id": 2876,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/ASSET.AssetParentCategory",
-      "displayName": "update ASSET.AssetParentCategory",
-      "orderNumber": "1",
-      "parentModule": "",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
+        "id": 2876,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.AssetParentCategory",
+        "displayName": "update ASSET.AssetParentCategory",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     },
     {
       "id": 2877,
@@ -19084,28 +19086,28 @@
       "path": ""
     },
     {
-      "id": 2878,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/ASSET.DepreciationRates",
-      "displayName": "create ASSET.DepreciationRates",
-      "orderNumber": "1",
-      "parentModule": "",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
+        "id": 2878,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_create/ASSET.DepreciationRates",
+        "displayName": "create ASSET.DepreciationRates",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     },
     {
-      "id": 2879,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/ASSET.DepreciationRates",
-      "displayName": "update ASSET.DepreciationRates",
-      "orderNumber": "1",
-      "parentModule": "",
-      "enabled": "true",
-      "serviceCode": "MDMS",
-      "code": "null",
-      "path": ""
+        "id": 2879,
+        "name": "MDMS",
+        "url": "/mdms-v2/v2/_update/ASSET.DepreciationRates",
+        "displayName": "update ASSET.DepreciationRates",
+        "orderNumber": "1",
+        "parentModule": "",
+        "enabled": "true",
+        "serviceCode": "MDMS",
+        "code": "null",
+        "path": ""
     },
     {
       "id": 2880,
@@ -19156,7 +19158,7 @@
     {
       "id": 2884,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/ASSET.ActionOption",
+      "url":"/mdms-v2/v2/_create/ASSET.ActionOption",
       "displayName": "Create Action Option",
       "orderNumber": 1,
       "parentModule": "",
@@ -19168,7 +19170,7 @@
     {
       "id": 2885,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/ASSET.ActionOption",
+      "url":"/mdms-v2/v2/_update/ASSET.ActionOption",
       "displayName": "Update Action Option",
       "orderNumber": 1,
       "parentModule": "",
@@ -19180,7 +19182,7 @@
     {
       "id": 2886,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/ASSET.Action",
+      "url":"/mdms-v2/v2/_create/ASSET.Action",
       "displayName": "Create Action",
       "orderNumber": 1,
       "parentModule": "",
@@ -19192,7 +19194,7 @@
     {
       "id": 2887,
       "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/ASSET.Action",
+      "url":"/mdms-v2/v2/_update/ASSET.Action",
       "displayName": "Update Action",
       "orderNumber": 1,
       "parentModule": "",
@@ -19202,92 +19204,92 @@
       "path": ""
     },
     {
-      "id": 2888,
-      "name": "Process Asset Depreciation",
-      "url": "/asset-services/v1/assets/depreciation/_process",
-      "displayName": "Process Asset Depriciation",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2888,
+    "name": "Process Asset Depreciation",
+    "url": "/asset-services/v1/assets/depreciation/_process",
+    "displayName": "Process Asset Depriciation",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
-      "id": 2889,
-      "name": "Fetch Asset Depreciation List",
-      "url": "/asset-services/v1/assets/depreciation/list",
-      "displayName": "Fetch Asset Depriciation",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2889,
+    "name": "Fetch Asset Depreciation List",
+    "url": "/asset-services/v1/assets/depreciation/list",
+    "displayName": "Fetch Asset Depriciation",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
-      "id": 2890,
-      "name": "Asset Disposal Create",
-      "url": "/asset-services/v1/disposal/_create",
-      "displayName": "Asset Disposal Create",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2890,
+    "name": "Asset Disposal Create",
+    "url": "/asset-services/v1/disposal/_create",
+    "displayName": "Asset Disposal Create",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
-      "id": 2891,
-      "name": "Asset Disposal Update",
-      "url": "/asset-services/v1/disposal/_update",
-      "displayName": "Asset Disposal Update",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2891,
+    "name": "Asset Disposal Update",
+    "url": "/asset-services/v1/disposal/_update",
+    "displayName": "Asset Disposal Update",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
-      "id": 2892,
-      "name": "Fetch Asset Disposal List",
-      "url": "/asset-services/v1/disposal/_search",
-      "displayName": "Fetch Asset Disposal List",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2892,
+    "name": "Fetch Asset Disposal List",
+    "url": "/asset-services/v1/disposal/_search",
+    "displayName": "Fetch Asset Disposal List",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
-      "id": 2893,
-      "name": "Asset maintenance Create",
-      "url": "/asset-services/v1/maintenance/_create",
-      "displayName": "Asset maintenance Create",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2893,
+    "name": "Asset maintenance Create",
+    "url": "/asset-services/maintenance/v1/_create",
+    "displayName": "Asset maintenance Create",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
-      "id": 2894,
-      "name": "Asset maintenance Update",
-      "url": "/asset-services/v1/maintenance/_update",
-      "displayName": "Asset maintenance Update",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2894,
+    "name": "Asset maintenance Update",
+    "url": "/asset-services/maintenance/v1/_update",
+    "displayName": "Asset maintenance Update",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
-      "id": 2895,
-      "name": "Fetch Asset maintenance List",
-      "url": "/asset-services/v1/maintenance/_search",
-      "displayName": "Fetch Asset maintenance List",
-      "orderNumber": 1,
-      "enabled": false,
-      "serviceCode": "asset-services",
-      "code": "null",
-      "path": ""
+    "id": 2895,
+    "name": "Fetch Asset maintenance List",
+    "url": "/asset-services/maintenance/v1/_search",
+    "displayName": "Fetch Asset maintenance List",
+    "orderNumber": 1,
+    "enabled": false,
+    "serviceCode": "asset-services",
+    "code": "null",
+    "path": ""
     },
     {
       "id": 2896,
@@ -19336,940 +19338,154 @@
     },
     {
       "id": 2899,
-      "name": "Inbox",
-      "url": "/services/EGF/inbox",
-      "parentModule": "",
-      "displayName": "Inbox",
-      "orderNumber": 3,
+      "name": "WT_REQUEST_SERVICE",
+      "url": "digit-ui-card",
+      "displayName": "Request Service",
+      "orderNumber": 1,
+      "parentModule": "WT",
       "enabled": true,
-      "serviceCode": "FinanceGeneral",
+      "serviceCode": "WT",
       "code": "null",
-      "leftIcon": "editor:insert-chart",
-      "path": "Finance.Transactions.Inbox",
-      "navigationURL": "services/EGF/inbox"
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/wt/request-service",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/wt-home"
     },
     {
       "id": 2900,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.SourceType",
-      "displayName": "create PQM.SourceType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
+      "name": "WT_VIEW_STATUS",
+      "url": "digit-ui-card",
+      "displayName": "View Status",
+      "orderNumber": 2,
+      "parentModule": "WT",
+      "enabled": true,
+      "serviceCode": "WT",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/wt/status",
+      "leftIcon": "CHBIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/wt-home"
     },
     {
       "id": 2901,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.SourceType",
-      "displayName": "Update PQM.SourceType",
+      "name": "Asset Report",
+      "url": "url",
+      "displayName": "Asset Maintenance Report",
       "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
+      "parentModule": "asset-services-masters",
+      "enabled": true,
+      "serviceCode": "ASSET",
+      "code": "null",
+      "path": "Asset.Reports.AssetMaintenanceReport",
+      "navigationURL": "report/rainmaker-asset/AssetMaintenanceReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     },
     {
       "id": 2902,
-      "name": "Create Workbench UiSchema",
-      "url": "/mdms-v2/v2/_create/Workbench.UISchema",
-      "displayName": "Create workbench ui-schema",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "MDMS",
-      "code": "null"
+      "name": "AssetMaintenanceReport",
+      "url": "/report/rainmaker-asset/AssetMaintenanceReport/metadata/_get",
+      "displayName": "rainmaker-asset-AssetMaintenanceReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
     },
     {
       "id": 2903,
-      "name": "Update Tenant Tenants",
-      "url": "/mdms-v2/v2/_update/tenant.tenants",
-      "displayName": "Update Tenant Tenants",
-      "orderNumber": 0,
-      "enabled": 1,
-      "serviceCode": "PQM",
-      "code": "null"
+      "name": "AssetMaintenanceReport",
+      "url": "/report/rainmaker-asset/AssetMaintenanceReport/_get",
+      "displayName": "rainmaker-asset-AssetMaintenanceReport",
+      "orderNumber": 5,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
     },
     {
       "id": 2904,
-      "name": "Create PQM Application",
-      "url": "/pqm-service/v1/_create",
-      "displayName": "Apply PQM Appliacations",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
+      "name": "Create Water Tanker application",
+      "url": "/request-service/water-tanker/v1/_create",
+      "displayName": "Create Water Tanker application",
+      "orderNumber": 1,
+      "enabled": false,
+      "serviceCode": "request-service",
+      "code": "null",
+      "path": ""
     },
     {
       "id": 2905,
-      "name": "Update PQM Application",
-      "url": "/pqm-service/v1/_update",
-      "displayName": "Update PQM Appliacations",
+      "name": "CHB Report",
+      "url": "url",
+      "displayName": "CHB Daily Register Report",
       "orderNumber": 1,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
+      "parentModule": "ChbServices",
+      "enabled": true,
+      "serviceCode": "CHB",
+      "code": "null",
+      "path": "CHB.Reports.CHBDailyRegisterReport",
+      "navigationURL": "report/rainmaker-CHB/CHBDailyRegisterReport",
+      "leftIcon": "places:business-center",
+      "rightIcon": ""
     },
     {
       "id": 2906,
-      "name": "Search PQM Application",
-      "url": "/pqm-service/v1/_search",
-      "displayName": "Search PQM Appliacations",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-     {
+      "name": "CHBDailyRegisterReport",
+      "url": "/report/rainmaker-CHB/CHBDailyRegisterReport/metadata/_get",
+      "displayName": "rainmaker-CHB-CHBDailyRegisterReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": ""
+    },
+    {
       "id": 2907,
-      "name": "Create Plant User Mapping",
-      "url": "/pqm-service/plant/user/v1/_create",
-      "displayName": "Create plant-individual mapping",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-     {
+      "name": "CHBDailyRegisterReport",
+      "url": "/report/rainmaker-CHB/CHBDailyRegisterReport/_get",
+      "displayName": "rainmaker-CHB-CHBDailyRegisterReport",
+      "orderNumber": 2,
+      "parentModule": "",
+      "enabled": true,
+      "serviceCode": "report",
+      "code": "null",
+      "path": "",
+      "navigationURL": "/digit-ui/citizen/ew/raiseRequest",
+      "leftIcon": "TLIcon",
+      "rightIcon": "",
+      "queryParams": "",
+      "sidebar": "digit-ui-links",
+      "sidebarURL": "/digit-ui/citizen/ew-home"
+    },
+    {
       "id": 2908,
-      "name": "Update Plant User Mapping",
-      "url": "/pqm-service/plant/user/v1/_update",
-      "displayName": "Update plant-individual mapping",
-      "orderNumber": 1,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-     {
-      "id": 2909,
-      "name": "Search Plant User Mapping",
-      "url": "/pqm-service/plant/user/v1/_search",
-      "displayName": "Search plant-individual mapping",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-     {
-      "id": 2910,
-      "name": "Schedule PQM Application",
-      "url": "/pqm-service/v1/_scheduler",
-      "displayName": "Schedule PQM Applications",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-     {
-      "id": 2911,
-      "name": "DSS Dashboard Config PQM",
-      "url": "/dashboard-analytics/dashboard/getDashboardConfig/pqm",
-      "displayName": "DSS",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "DSS",
-      "code": "null"
-     },
-     {
-      "id": 2912,
-      "name": "Search PQM Application",
-      "url": "/inbox/v2/_search",
-      "displayName": "Search PQM Applications",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-     {
-      "id": 2913,
-      "name": "schema Create",
-      "url": "/mdms-v2/schema/v1/_create",
-      "displayName": "Schema Create",
-      "orderNumber": 0,
-      "enabled": 0,
-      "code": "null"
-     },
-     {
-      "id": 2914,
-      "name": "Search  PQM Application",
-      "url": "/mdms-v2/schema/v1/_search",
-      "displayName": "Search MDMS Schema",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-     {
-      "id": 2915,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.SourceType",
-      "displayName": "Add Data for PQM.SourceType",
-      "orderNumber": 0,
-      "enabled": 0,
-      "code": "null"
-     },
-     {
-      "id": 2916,
-      "name": "MDMS",
+      "name": "Inter Fund Transfer",
+      "navigationURL": "services/EGF/grantsfund/newform",
       "url": "url",
-      "displayName": "Manage PQM Labs",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
+      "parentModule": "EGF",
+      "displayName": "Inter Fund Transfer",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
       "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=QualityTestLab",
-      "path": "9MDMS.PQM.QualityTestLab",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2917,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.QualityTestLab",
-      "displayName": "create PQM.QualityTestLab",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2918,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.QualityTestLab",
-      "displayName": "Update PQM.QualityTestLab",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2919,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM BenchmarkRule",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=BenchmarkRule",
-      "path": "9MDMS.PQM.BenchmarkRule",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2920,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.BenchmarkRule",
-      "displayName": "create PQM.BenchmarkRule",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2921,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.BenchmarkRule",
-      "displayName": "Update PQM.BenchmarkRule",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2922,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM Material",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Material",
-      "path": "9MDMS.PQM.Material",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2923,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.Material",
-      "displayName": "create PQM.Material",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2924,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.Material",
-      "displayName": "Update PQM.Material",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2925,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM Unit",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Unit",
-      "path": "9MDMS.PQM.Unit",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2926,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.Unit",
-      "displayName": "create PQM.Unit",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2927,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.Unit",
-      "displayName": "Update PQM.Unit",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2928,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM TestType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=TestType",
-      "path": "9MDMS.PQM.TestType",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2929,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.TestType",
-      "displayName": "create PQM.TestType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2930,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.TestType",
-      "displayName": "Update PQM.TestType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2931,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM Plant",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Plant",
-      "path": "9MDMS.PQM.Plant",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2932,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.Plant",
-      "displayName": "create PQM.Plant",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2933,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.Plant",
-      "displayName": "Update PQM.Plant",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2934,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM PlantType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantType",
-      "path": "9MDMS.PQM.PlantType",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2935,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.PlantType",
-      "displayName": "create PQM.PlantType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2936,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.PlantType",
-      "displayName": "Update PQM.PlantType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2937,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM Stage",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Stage",
-      "path": "9MDMS.PQM.Stage",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2938,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.Stage",
-      "displayName": "create PQM.Stage",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2939,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.Stage",
-      "displayName": "Update PQM.Stage",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2940,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM TestStandard",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=TestStandard",
-      "path": "9MDMS.PQM.TestStandard",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2941,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.TestStandard",
-      "displayName": "create PQM.TestStandard",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2942,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.TestStandard",
-      "displayName": "Update PQM.TestStandard",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2943,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM QualityCriteria",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=QualityCriteria",
-      "path": "9MDMS.PQM.QualityCriteria",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2944,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.QualityCriteria",
-      "displayName": "create PQM.QualityCriteria",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2945,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.QualityCriteria",
-      "displayName": "Update PQM.QualityCriteria",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2946,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM Parameter",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Parameter",
-      "path": "9MDMS.PQM.Parameter",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2947,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.Parameter",
-      "displayName": "create PQM.Parameter",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2948,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.Parameter",
-      "displayName": "Update PQM.Parameter",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2949,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM ProcessType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=ProcessType",
-      "path": "9MDMS.PQM.ProcessType",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2950,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.ProcessType",
-      "displayName": "create PQM.ProcessType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2951,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.ProcessType",
-      "displayName": "Update PQM.ProcessType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2952,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM ProcessSubType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=ProcessSubType",
-      "path": "9MDMS.PQM.ProcessSubType",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2953,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.ProcessSubType",
-      "displayName": "create PQM.ProcessSubType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2954,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.ProcessSubType",
-      "displayName": "Update PQM.ProcessSubType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2955,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM Process",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=Process",
-      "path": "9MDMS.PQM.Process",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2956,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.Process",
-      "displayName": "create PQM.Process",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2957,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.Process",
-      "displayName": "Update PQM.Process",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2958,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM PlantConfig",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantConfig",
-      "path": "9MDMS.PQM.PlantConfig",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2959,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.PlantConfig",
-      "displayName": "create PQM.PlantConfig",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2960,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.PlantConfig",
-      "displayName": "Update PQM.PlantConfig",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2961,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM PlantAddress",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=PlantAddress",
-      "path": "9MDMS.PQM.PlantAddress",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2962,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.PlantAddress",
-      "displayName": "create PQM.PlantAddress",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2963,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.PlantAddress",
-      "displayName": "Update PQM.PlantAddress",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2964,
-      "name": "MDMS",
-      "url": "url",
-      "displayName": "Manage PQM WasteType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null",
-      "navigationURL": "/workbench-ui/employee/workbench/mdms-search-v2?moduleName=PQM&masterName=WasteType",
-      "path": "9MDMS.PQM.WasteType",
-      "leftIcon": "dynamic:ContractIcon"
-     },
-     {
-      "id": 2965,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_create/PQM.WasteType",
-      "displayName": "create PQM.WasteType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2966,
-      "name": "MDMS",
-      "url": "/mdms-v2/v2/_update/PQM.WasteType",
-      "displayName": "Update PQM.WasteType",
-      "orderNumber": 1,
-      "enabled": 1,
-      "serviceCode": "MDMS",
-      "code": "null"
-     },
-     {
-      "id": 2967,
-      "name": "Search  PQM Application",
-      "url": "/mdms-v2/v2/_search",
-      "displayName": "Search PQM Applications",
-      "orderNumber": 0,
-      "enabled": 0,
-      "serviceCode": "PQM",
-      "code": "null"
-     },
-      {
-        "id": 2968,
-        "name": "TQM",
-        "url": "url",
-        "displayName": "TQM",
-        "orderNumber": 1,
-        "parentModule": "tqm",
-        "enabled": true,
-        "serviceCode": "tqm",
-        "code": "null",
-        "path": "TQM",
-        "navigationURL": "/digit-ui/employee/",
-        "leftIcon": "dynamic:MuktaHomeIcon",
-        "rightIcon": ""
-      },
-      {
-        "id": 2969,
-        "name": "TQMTest",
-        "url": "url",
-        "displayName": "TQM Test Report",
-        "orderNumber": 3,
-        "parentModule": "",
-        "enabled": true,
-        "serviceCode": "",
-        "code": "null",
-        "path": "FSM.Reports.TQMTest",
-        "navigationURL": "report/fsm/TQMTest",
-        "leftIcon": "action:description",
-        "rightIcon": ""
-      },
-      {
-        "id": 2970,
-        "name": "TQMTest-Metadata",
-        "url": "/report/fsm/TQMTest/metadata/_get",
-        "displayName": "TQM Metadata Report",
-        "orderNumber": 1,
-        "enabled": true,
-        "serviceCode": "TQMTEST_METADATA",
-        "code": "null",
-        "path": "TQM Report"
-      },
-      {
-        "id": 2971,
-        "name": "TQMTest",
-        "url": "/report/fsm/TQMTest/_get",
-        "displayName": "TQM Report",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "TQMTEST_METADATA",
-        "code": "null",
-        "path": "TQM Report"
-      },
-      {
-        "id": 2972,
-        "name": "Download Pdf for PQM Application",
-        "url": "/pqm-service/v1/_downloadPdf",
-        "displayName": "Download Pdf for PQM Application",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "PQM",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id": 2973,
-        "name": "National Dashboard: Send Email",
-        "url": "/national-dashboard/email/_sendEmail",
-        "displayName": "Dashboard Missing Data Send Email",
-        "orderNumber": 0,
-        "enabled": false,
-        "serviceCode": "NDSS",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id":2974,
-        "name": "PT Workflow Escalation Update",
-        "url": "/egov-workflow-v2/egov-wf/auto/PT.CREATE/_escalate",
-        "parentModule": "",
-        "displayName": "PT Workflow Escalation Update",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "egov-workflow-v2",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id": 2975,
-        "name": "WS Workflow Escalation Update",
-        "url": "/egov-workflow-v2/egov-wf/auto/NewWS1/_escalate",
-        "parentModule": "",
-        "displayName": "WS Workflow Escalation Update",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "egov-workflow-v2",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id":2976,
-        "name": "FSM Workflow Escalation Update",
-        "url": "/egov-workflow-v2/egov-wf/auto/FSM_ADVANCE_PAY_SERVICE_V1/_escalate",
-        "parentModule": "",
-        "displayName": "FSM Workflow Escalation Update",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "egov-workflow-v2",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id":2977,
-        "name": " FIRENOC Workflow Escalation Update",
-        "url": "/egov-workflow-v2/egov-wf/auto/FIRENOC/_escalate",
-        "parentModule": "",
-        "displayName": " FIRENOC Workflow Escalation Update",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "egov-workflow-v2",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id": 2978,
-        "name": "SW Workflow Escalation Update",
-        "url": "/egov-workflow-v2/egov-wf/auto/NewSW1/_escalate",
-        "parentModule": "",
-        "displayName": "sw Workflow Escalation Update",
-        "orderNumber": 0,
-        "enabled": true,
-        "serviceCode": "egov-workflow-v2",
-        "code": "null",
-        "path": ""
-      },
-      {
-        "id": 2979,
-        "name": "Digilocker User Create",
-        "url": "user/digilocker/oauth/token",
-        "displayName": "Digilocker Profile Create",
-        "orderNumber": 1,
-        "enabled": false,
-        "serviceCode": "ADMIN",
-        "code": "null",
-        "path": "Administration.DigiLocker User Create"
-      },
-      {
-          "id": 2980,
-          "name": "MDMS",
-          "url":"/mdms-v2/v2/_create/Workflow.AutoEscalation",
-          "displayName": "Create Workflow AutoEscalation",
-          "orderNumber": 1,
-          "parentModule": "",
-          "enabled": true,
-          "serviceCode": "MDMS",
-          "code": "null",
-          "path": ""
-      },
-      {
-          "id": 2981,
-          "name": "Sewerage Reconnection Payment Search",
-          "url": "/collection-services/payments/SWReconnection/_search",
-          "displayName": "collectionservices search",
-          "orderNumber": 11,
-          "enabled": false,
-          "serviceCode": "null",
-          "code": "null",
-          "path": ""
-      },
-      {
-          "id": 2982,
-          "name": "TL ",
-          "url": "/requester-services-dx/eSign/redirect",
-          "parentModule": "",
-          "displayName": "",
-          "orderNumber": 0,
-          "enabled": true,
-          "serviceCode": "TradeLicense",
-          "code": "null",
-          "path": "",
-          "navigationURL": ""
-      },
-      {
-          "id": 2983,
-          "name": "TL ",
-          "url": "/requester-services-dx/eSign/process",
-          "parentModule": "",
-          "displayName": "",
-          "orderNumber": 0,
-          "enabled": true,
-          "serviceCode": "TradeLicense",
-          "code": "null",
-          "path": "",
-          "navigationURL": ""
-      }         	
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Contra Entries.Inter Fund Transfer"
+    }  
   ]
 }
