@@ -1,15 +1,15 @@
 {
-  "tenantId": "pg",
+  "tenantId": "hr",
   "moduleName": "tenant",
   "assessmentconfig": [
     {
-      "tenant": "pg.cityb",
+      "tenant": "hr.cityb",
       "enabled": true,
       "financialyear": "2021-22",
       "isRented": true
     },
      {
-      "tenant": "pg.citya",
+      "tenant": "hr.citya",
       "enabled": true,
       "financialyear": "2021-22",
       "isRented": true

@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "hr",
   "moduleName": "DataSecurity",
   "DecryptionABAC": [
     {
@@ -241,7 +241,7 @@
       "key": "DescriptionReport",
       "roleAttributeAccessList": [
         {
-          "roleCode": "PGR_LME",
+          "roleCode": "hrR_LME",
           "attributeAccessList": [
             {
               "attribute": {
@@ -408,7 +408,7 @@
           ]
         },
         {
-          "roleCode": "PGR_LME",
+          "roleCode": "hrR_LME",
           "attributeAccessList": [
             {
               "attribute": {
@@ -446,7 +446,7 @@
           ]
         },
         {
-          "roleCode": "PGR_LME",
+          "roleCode": "hrR_LME",
           "attributeAccessList": [
             {
               "attribute": {
@@ -833,7 +833,7 @@
           ]
         },
         {
-          "roleCode": "PGR-ADMIN",
+          "roleCode": "hrR-ADMIN",
           "attributeAccessList": [
             {
               "attribute": {
@@ -1131,7 +1131,7 @@
           ]
         },
         {
-          "roleCode": "PGR-ADMIN",
+          "roleCode": "hrR-ADMIN",
           "attributeAccessList": [
             {
               "attribute": {

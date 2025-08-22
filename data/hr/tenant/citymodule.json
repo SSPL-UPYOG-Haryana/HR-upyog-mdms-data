@@ -1,32 +1,7 @@
 {
-  "tenantId": "pg",
+  "tenantId": "hr",
   "moduleName": "tenant",
   "citymodule": [
-    {
-      "module": "PGR",
-      "code": "PGR",
-      "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PGR.png",
-      "active": true,
-      "order":2,
-      "tenants": [
-        {
-          "code": "pg.citya"
-        },
-        {
-          "code": "pg.cityb"
-        },
-        {
-          "code": "pg.cityc"
-        },
-        {
-          "code": "pg.cityd"
-        },
-        {
-          "code": "pg.citye"
-        }
-
-      ]
-    },
     {
       "module": "PT",
       "code": "PT",
@@ -35,19 +10,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -58,13 +33,13 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         }
       ]
     },
@@ -75,19 +50,19 @@
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -99,19 +74,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -122,19 +97,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -145,19 +120,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -169,19 +144,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -193,30 +168,30 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
     {
-      "module": "PGR.WHATSAPP",
-      "code": "PGR.WHATSAPP",
+      "module": "hrR.WHATSAPP",
+      "code": "hrR.WHATSAPP",
       "active": false,
       "order":4,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         }
       ]
     },
@@ -228,19 +203,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -252,19 +227,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -275,19 +250,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -298,19 +273,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -321,19 +296,19 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -344,19 +319,19 @@
       "order":6,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -367,19 +342,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -390,19 +365,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -413,28 +388,28 @@
       "order":2,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "hr.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "hr.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "hr.shimla"
         }
       ]
     },
@@ -445,19 +420,19 @@
       "order":3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -468,19 +443,19 @@
       "order":5,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -492,13 +467,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         }
       ]
     },
@@ -509,13 +484,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         }
       ]
     },
@@ -526,13 +501,13 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         }
       ]
     },
@@ -544,13 +519,13 @@
       "order": 3,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         }
       ]
     },
@@ -562,19 +537,19 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -586,19 +561,19 @@
       "order": 1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -610,19 +585,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -634,28 +609,28 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "hr.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "hr.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "hr.shimla"
         } 
       ]
     },
@@ -667,28 +642,28 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "hr.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "hr.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "hr.shimla"
         } 
       ]
     },
@@ -700,19 +675,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -724,16 +699,16 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         } 
       ]
     },
@@ -744,19 +719,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -767,19 +742,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -790,28 +765,28 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }, 
         {
-          "code": "pg.mohali"
+          "code": "hr.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "hr.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "hr.shimla"
         }
       ]
     },
@@ -822,28 +797,28 @@
       "order": 13,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         },
         {
-          "code": "pg.mohali"
+          "code": "hr.mohali"
         },
         {
-          "code": "pg.dharamshala"
+          "code": "hr.dharamshala"
         },
         {
-          "code": "pg.shimla"
+          "code": "hr.shimla"
         }
       ]
     } ,
@@ -854,19 +829,19 @@
       "order":1,
       "tenants": [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     },
@@ -878,19 +853,19 @@
       "additionalComponent": "TqmAdminNotification",
       "tenants":  [
         {
-          "code": "pg.citya"
+          "code": "hr.citya"
         },
         {
-          "code": "pg.cityb"
+          "code": "hr.cityb"
         },
         {
-          "code": "pg.cityc"
+          "code": "hr.cityc"
         },
         {
-          "code": "pg.cityd"
+          "code": "hr.cityd"
         },
         {
-          "code": "pg.citye"
+          "code": "hr.citye"
         }
       ]
     } 

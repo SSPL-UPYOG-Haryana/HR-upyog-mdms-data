@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg",
+  "tenantId": "hr",
   "moduleName": "tenant",
   "nationalInfo": [
     {
@@ -2613,8 +2613,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.anoopgarhnagarpalika",
-      "name": "rj.anoopgarhnagarpalika",
+      "code": "rj.anoohrarhnagarpalika",
+      "name": "rj.anoohrarhnagarpalika",
       "active": true,
       "module": "NationalDashboard"
     },
@@ -3893,8 +3893,8 @@
     {
       "stateCode": "Rajasthan",
       "stateName": "Rajasthan",
-      "code": "rj.pratapgarhnagarparishad",
-      "name": "rj.pratapgarhnagarparishad",
+      "code": "rj.pratahrarhnagarparishad",
+      "name": "rj.pratahrarhnagarparishad",
       "active": true,
       "module": "NationalDashboard"
     },

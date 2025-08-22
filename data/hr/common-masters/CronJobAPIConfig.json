@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg",
+    "tenantId": "hr",
     "moduleName": "common-masters",
     "CronJobAPIConfig": [
     {
@@ -123,10 +123,10 @@
       }
     },
 	  {
-      "jobName": "pgr-auto-escalation-job-scheduler",
+      "jobName": "hrr-auto-escalation-job-scheduler",
       "active": "true",
       "method": "POST",
-      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/PGR/_escalate",
+      "url": "http://egov-workflow-v2.egov:8080/egov-wf/auto/hrR/_escalate",
       "payload": {
         "RequestInfo": "{DEFAULT_REQUESTINFO}"
       },
