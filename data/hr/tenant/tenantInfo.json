@@ -1,9 +1,9 @@
 {
-  "tenantId": "pg",
+  "tenantId": "hr",
   "moduleName": "tenant",
   "tenantInfo": [
     {
-      "code": "pg.citya",
+      "code": "hr.citya",
       "districtCode": "CITYA",
       "population": "156716",
       "malePopulation": "82045",
@@ -13,7 +13,7 @@
       "languagesSpoken": ["PN", "HN", "EN"]
     },
     {
-      "code": "pg.cityb",
+      "code": "hr.cityb",
       "districtCode": "CITYB",
       "population": "116449",
       "malePopulation": "62554",
@@ -24,7 +24,7 @@
     },
   
     {
-      "code": "pg.cityc",
+      "code": "hr.cityc",
       "districtCode": "CITYC",
       "population": "17331",
       "malePopulation": "10521",
@@ -34,7 +34,7 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "pg.cityd",
+      "code": "hr.cityd",
       "districtCode": "CITYD",
       "population": "12507",
       "malePopulation": "6810",
@@ -44,7 +44,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.citye",
+      "code": "hr.citye",
       "districtCode": "CITYE",
       "population": "12507",
       "malePopulation": "6810",
@@ -54,7 +54,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.mohali",
+      "code": "hr.mohali",
       "districtCode": "MOHALI",
       "population": "12507",
       "malePopulation": "6810",
@@ -64,7 +64,7 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.dharamshala",
+      "code": "hr.dharamshala",
       "districtCode": "DHARAMSHALA",
       "population": "12510",
       "malePopulation": "6815",
@@ -74,8 +74,8 @@
       "languagesSpoken": ["HN", "PN", "EN"]
     },
     {
-      "code": "pg.shimla",
-      "districtCode": "SHIMLA",
+      "code": "hr.gurugram",
+      "districtCode": "GURUGRAM",
       "population": "12510",
       "malePopulation": "6815",
       "femalePopultion": "5700",

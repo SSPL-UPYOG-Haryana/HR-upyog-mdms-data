@@ -1,8 +1,8 @@
 {
-  "tenantId": "pg",
+  "tenantId": "hr",
   "moduleName": "tenant",
   "tenants": [{
-      "code": "pg.citya",
+      "code": "hr.citya",
       "name": "New Delhi",
       "description": "City A",
       "pincode": [143001,143002,143003,143004,143005],
@@ -22,7 +22,7 @@
         "localName": null,
         "districtCode": "CITYA",
         "districtName": null,
-        "districtTenantCode": "pg.citya",
+        "districtTenantCode": "hr.citya",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.5761829,
@@ -36,7 +36,7 @@
       "contactNumber": "001-2345876"
     },
     {
-      "code": "pg.cityb",
+      "code": "hr.cityb",
       "name": "Kolkata",
       "description": null,
       "pincode": [143006,143007,143008,143009,143010],
@@ -57,7 +57,7 @@
         "localName": null,
         "districtCode": "CITYB",
         "districtName": null,
-        "districtTenantCode": "pg.cityb",
+        "districtTenantCode": "hr.cityb",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 74.8722642,
@@ -72,7 +72,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityc",
+      "code": "hr.cityc",
       "name": "City C",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -91,7 +91,7 @@
         "localName": null,
         "districtCode": "CITYC",
         "districtName": null,
-        "districtTenantCode": "pg.cityc",
+        "districtTenantCode": "hr.cityc",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 73.8722642,
@@ -106,7 +106,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.cityd",
+      "code": "hr.cityd",
       "name": "City D",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -125,7 +125,7 @@
         "localName": null,
         "districtCode": "CITYD",
         "districtName": null,
-        "districtTenantCode": "pg.cityd",
+        "districtTenantCode": "hr.cityd",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 75.8722642,
@@ -140,7 +140,7 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg.citye",
+      "code": "hr.citye",
       "name": "City E",
       "description": null,
       "logoId": "https://in-egov-assets.s3.ap-south-1.amazonaws.com/in.citya/logo.png",
@@ -159,7 +159,7 @@
         "localName": null,
         "districtCode": "CITYE",
         "districtName": null,
-        "districtTenantCode": "pg.citye",
+        "districtTenantCode": "hr.citye",
         "regionName": null,
         "ulbGrade": "Municipal Corporation",
         "longitude": 76.8722642,
@@ -174,16 +174,16 @@
       "helpLineNumber": "0654-8734567"
     },
     {
-      "code": "pg",
+      "code": "hr",
       "name": "State",
       "description": "State",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/pg-egov-assets/pg.citya/logo.png",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/hr-egov-assets/hr.citya/logo.png",
       "imageId": null,
       "domainUrl": "www.upyog.niua.org",
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "pg.state@gmail.com",
+      "emailId": "hr.state@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 5.00 PM"
       },
@@ -192,7 +192,7 @@
         "localName": "Demo State",
         "districtCode": "0",
         "districtName": "State",
-        "districtTenantCode": "pg",
+        "districtTenantCode": "hr",
         "regionName": "State",
         "ulbGrade": "ST",
         "longitude": 75.3412,
@@ -206,7 +206,7 @@
       "contactNumber": "0978-7645345"
     },
     {
-      "code": "pg.mohali",
+      "code": "hr.mohali",
       "name": "Mohali",
       "description": "Mohali",
       "pincode": [
@@ -236,7 +236,7 @@
           "localName": null,
           "districtCode": "MOHALI",
           "districtName": null,
-          "districtTenantCode": "pg.mohali",
+          "districtTenantCode": "hr.mohali",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761830,
@@ -250,7 +250,7 @@
       "contactNumber": "0172-5044907"
   },
   {
-      "code": "pg.dharamshala",
+      "code": "hr.dharamshala",
       "name": "Dharamshala",
       "description": "Dharamshala",
       "pincode": [
@@ -271,7 +271,7 @@
           "localName": null,
           "districtCode": "DHARAMSHALA",
           "districtName": null,
-          "districtTenantCode": "pg.dharamshala",
+          "districtTenantCode": "hr.dharamshala",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761835,
@@ -285,9 +285,9 @@
       "contactNumber": "0189 222 2115"
   },
   {
-      "code": "pg.shimla",
-      "name": "Shimla",
-      "description": "Shimla",
+      "code": "hr.gurugram",
+      "name": "Gurugram",
+      "description": "Gurugram",
       "pincode": [
           171001
       ],
@@ -302,11 +302,11 @@
           "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-          "name": "Shimla",
+          "name": "Gurugram",
           "localName": null,
-          "districtCode": "SHIMLA",
+          "districtCode": "GURUGRAM",
           "districtName": null,
-          "districtTenantCode": "pg.shimla",
+          "districtTenantCode": "hr.gurugram",
           "regionName": null,
           "ulbGrade": "Municipal Corporation",
           "longitude": 75.5761840,
@@ -314,9 +314,9 @@
           "shapeFileLocation": null,
           "captcha": null,
           "code": "1510",
-          "ddrName": "Shimla Municipal Corporation"
+          "ddrName": "Gurugram Municipal Corporation"
       },
-      "address": "2,Mall Rd, Ram Bazar,Shimla, Himachal Pradesh, 171001",
+      "address": "2,Mall Rd, Ram Bazar,Gurugram, Haryana, 171001",
       "contactNumber": "0177 280 2771"
     }
    ]
