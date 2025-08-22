@@ -1,5 +1,5 @@
 {
-    "tenantId": "pg",
+    "tenantId": "hr",
     "moduleName": "ws-services-masters",
     "WSDisconnectionConfig": [
       {
