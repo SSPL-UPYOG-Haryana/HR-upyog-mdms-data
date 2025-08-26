@@ -1,5 +1,5 @@
 {
-  "tenantId": "pg.cityd",
+  "tenantId": "hr.cityd",
   "moduleName": "TradeLicense",
   "CalculationType": [
     {
