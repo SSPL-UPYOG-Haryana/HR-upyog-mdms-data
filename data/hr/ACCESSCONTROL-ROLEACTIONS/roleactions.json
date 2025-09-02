@@ -30666,6 +30666,13 @@
       "actionid": 2909,
       "actioncode": "",
       "tenantId": "hr"
+    },
+	   {
+      "rolecode": "DETAIL_CODE_APPROVER",
+      "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "hr"
     }
+	  
   ]
 }
