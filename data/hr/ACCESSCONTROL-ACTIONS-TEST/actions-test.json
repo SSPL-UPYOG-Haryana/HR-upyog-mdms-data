@@ -19486,6 +19486,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Contra Entries.Inter Fund Transfer"
-    }  
+    },
+	{
+      "id": 2909,
+      "name": "fundAndSchemewiseBudgetReports_master",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "FundAndSchemewise Budget",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Report Generation.Budget Reports.FundAndSchemewise Budget",
+      "navigationURL": "services/EGF/budget/budgetReport-fundAndSchemeWiseReport.action",
+      "leftIcon": "editor:insert-chart"
+    }
   ]
 }
