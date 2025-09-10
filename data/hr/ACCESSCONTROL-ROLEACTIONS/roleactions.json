@@ -30661,23 +30661,35 @@
       "actioncode": "",
       "tenantId": "hr"
     },
-	{
+	  {
       "rolecode": "SUPERUSER",
       "actionid": 2909,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "hr"
+    },
+	   {
+      "rolecode": "DETAIL_CODE_APPROVER",
+      "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "hr"
+    }
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2910,
+      "actioncode": "",
+      "tenantId": "hr"
     },
     {
       "rolecode": "EMPLOYEE",
-      "actionid": 2909,
+      "actionid": 2910,
       "actioncode": "",
-      "tenantId": "pg"
+      "tenantId": "hr"
     },
     {
       "rolecode": "EGF_ADMINISTRATOR",
-      "actionid": 2909,
+      "actionid": 2910,
       "actioncode": "",
-      "tenantId": "pg"
-    },
+      "tenantId": "hr"
+    }
   ]
 }
