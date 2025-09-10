@@ -19486,6 +19486,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Contra Entries.Inter Fund Transfer"
-    }  
+    },
+	{
+      "id": 2909,
+      "name": "Dashboard",
+      "navigationURL": "services/EGF/dashboard",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Dashboard",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Dashboard"
+    }
   ]
 }
