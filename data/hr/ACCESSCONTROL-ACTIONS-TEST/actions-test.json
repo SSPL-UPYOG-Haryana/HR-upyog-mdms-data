@@ -19500,6 +19500,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Chartofaccounts.Detailed Codes.Detailed Code Inbox",
       "navigationURL": "services/EGF/masters/chartOfAccounts-inboxDetailedCode.action"
-    } 
+    },
+    {
+      "id": 2910,
+      "name": "Dashboard",
+      "navigationURL": "services/EGF/dashboard",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Dashboard",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Dashboard"
+    }
   ]
 }
