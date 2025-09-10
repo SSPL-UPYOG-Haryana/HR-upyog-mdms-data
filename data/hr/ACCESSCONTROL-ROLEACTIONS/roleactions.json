@@ -30660,6 +30660,19 @@
       "actionid": 2908,
       "actioncode": "",
       "tenantId": "hr"
+    },
+	  {
+      "rolecode": "SUPERUSER",
+      "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	   {
+      "rolecode": "DETAIL_CODE_APPROVER",
+      "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "hr"
     }
+	  
   ]
 }
