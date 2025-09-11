@@ -19514,6 +19514,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Dashboard"
-    }
+    },
+	{
+      "id": 2911,
+      "name": "fundAndSchemewiseBudgetReports_master",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "FundAndSchemewise Budget",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Report Generation.Budget Reports.FundAndSchemewise Budget",
+      "navigationURL": "services/EGF/budget/budgetReport-fundAndSchemeWiseReport.action",
+      "leftIcon": "editor:insert-chart"
+	}
   ]
 }
