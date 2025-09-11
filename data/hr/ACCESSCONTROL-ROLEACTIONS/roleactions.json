@@ -30661,8 +30661,8 @@
       "actioncode": "",
       "tenantId": "hr"
     },
-	{
-      "rolecode": "EGF_REPORT_VIEW",
+	   {
+      "rolecode": "DETAIL_CODE_APPROVER",
       "actionid": 2909,
       "actioncode": "",
       "tenantId": "hr"
@@ -30670,6 +30670,18 @@
     {
       "rolecode": "SUPERUSER",
       "actionid": 2909,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EMPLOYEE",
+      "actionid": 2910,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 2910,
       "actioncode": "",
       "tenantId": "hr"
     }
