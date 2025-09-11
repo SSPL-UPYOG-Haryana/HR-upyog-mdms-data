@@ -30690,6 +30690,18 @@
       "actionid": 2910,
       "actioncode": "",
       "tenantId": "hr"
+    },
+	{
+      "rolecode": "EGF_REPORT_VIEW",
+      "actionid": 2911,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2911,
+      "actioncode": "",
+      "tenantId": "hr"
     }
   ]
 }
