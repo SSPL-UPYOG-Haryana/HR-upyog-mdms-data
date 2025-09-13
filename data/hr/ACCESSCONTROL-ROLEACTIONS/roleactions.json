@@ -30703,14 +30703,14 @@
       "actioncode": "",
       "tenantId": "hr"
     },
-	{
-      "rolecode": "EGF_ADMINISTRATOR",
+	  {
+      "rolecode": "SUPERUSER",
       "actionid": 2912,
       "actioncode": "",
       "tenantId": "hr"
     },
-    {
-      "rolecode": "SUPERUSER",
+	 {
+      "rolecode": "EGF_REPORT_VIEW",
       "actionid": 2912,
       "actioncode": "",
       "tenantId": "hr"

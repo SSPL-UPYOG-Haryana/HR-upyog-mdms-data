@@ -19531,17 +19531,17 @@
 	},
 	{
       "id": 2912,
-      "name": "Add Budget",
-      "navigationURL": "services/EGF/addBudget/addNew",
-      "url": "url",
-      "parentModule": "EGF",
-      "displayName": "Add Budget",
-      "orderNumber": 8,
+      "name": "Register Bills",
+      "url": "/services/EGF/payment/View-RegisterBillsForPayments.action",
+      "parentModule": "",
+      "displayName": "Register Bills",
+      "orderNumber": 7,
       "enabled": true,
-      "serviceCode": "FinanceBudget",
+      "serviceCode": "FinancePayment",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Budget and Controls.Add Budget"
+      "path": "Finance.Expenditure Accounting.Payments.Register Bills",
+      "navigationURL": "services/EGF/payment/View-RegisterBillsForPayments.action"
     }
   ]
 }
