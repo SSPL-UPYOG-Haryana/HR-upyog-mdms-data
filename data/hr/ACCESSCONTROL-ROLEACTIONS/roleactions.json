@@ -30726,6 +30726,36 @@
       "actionid": 2913,
       "actioncode": "",
       "tenantId": "hr"
+    },
+	{
+      "rolecode": "EMPLOYEE",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_BILL_CREATOR",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_BILL_APPROVER",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	{
+      "rolecode": "HRMS_ADMIN",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2914,
+      "actioncode": "",
+      "tenantId": "hr"
     }
   ]
 }
