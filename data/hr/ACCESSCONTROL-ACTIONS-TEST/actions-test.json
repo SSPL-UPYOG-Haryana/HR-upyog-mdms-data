@@ -19556,6 +19556,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Budget and Controls.Add Budget"
+    },
+	{
+      "id": 2914,
+      "name": "Inbox",
+      "navigationURL": "services/EGF/inbox",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Inbox",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "Finance",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Inbox"
     }
   ]
 }
