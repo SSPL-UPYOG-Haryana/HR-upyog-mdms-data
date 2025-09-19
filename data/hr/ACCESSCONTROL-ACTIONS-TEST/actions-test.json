@@ -4542,7 +4542,7 @@
       "enabled": true,
       "serviceCode": "Collections",
       "code": "null",
-      "navigationURL": "services/collection/receipts/searcpgeceipt.action",
+      "navigationURL": "services/collection/receipts/searchReceipt.action",
       "leftIcon": "image:collections",
       "path": "Finance.Revenue Accounting.Search Receipts"
     },
