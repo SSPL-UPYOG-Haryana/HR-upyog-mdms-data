@@ -6242,7 +6242,7 @@
       "displayName": "ULB Information",
       "orderNumber": 1,
       "parentModule": "",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "msea-event-notification",
       "code": "null",
       "path": "ULBInformation",
@@ -6913,7 +6913,7 @@
       "displayName": "Tradelicense",
       "orderNumber": 5,
       "parentModule": "dss-dashboard",
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "DSS",
       "code": "null",
       "path": "Dashboard.TradeLicense",
@@ -19570,6 +19570,48 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Inbox"
+    },
+	  {
+      "id": 2915,
+      "name": "Work-Create",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Create Work",
+      "orderNumber": 1,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Work.Create Work",
+      "navigationURL": "services/EGF/work/new"
+    },
+    {
+      "id": 2916,
+      "name": "Work-View",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "View Work",
+      "orderNumber": 2,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Work.View Work",
+      "navigationURL": "services/EGF/work/search/view"
+    },
+    {
+      "id": 2917,
+      "name": "Work-Modify",
+      "url": "url",
+      "parentModule": "",
+      "displayName": "Modify Work",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceMaster",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Masters.Work.Modify Work",
+      "navigationURL": "services/EGF/work/search/edit"
     }
   ]
 }
