@@ -394,6 +394,9 @@
         },
         {
           "code": "hr.citye"
+        },
+        {
+          "code": "hr.gurugram"
         }
       ]
     },
@@ -426,6 +429,9 @@
         },
         {
           "code": "hr.shimla"
+        },
+        {
+          "code": "hr.gurugram"
         }
       ]
     },
@@ -542,6 +548,9 @@
         },
         {
           "code": "hr.cityc"
+        },
+        {
+          "code": "hr.gurugram"
         }
       ]
     },
@@ -647,6 +656,9 @@
         },
         {
           "code": "hr.shimla"
+        },
+        {
+          "code": "hr.gurugram"
         } 
       ]
     },
@@ -725,6 +737,9 @@
         },
         {
           "code": "hr.cityd"
+        },
+        {
+          "code": "hr.citye"
         } 
       ]
     },
@@ -835,6 +850,9 @@
         },
         {
           "code": "hr.shimla"
+        },
+        {
+          "code": "hr.gurugram"
         }
       ]
     } ,
@@ -858,6 +876,9 @@
         },
         {
           "code": "hr.citye"
+        },
+        {
+          "code": "hr.gurugram"
         }
       ]
     },
