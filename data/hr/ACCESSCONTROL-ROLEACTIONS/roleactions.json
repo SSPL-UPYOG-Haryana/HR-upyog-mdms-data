@@ -11505,13 +11505,7 @@
       "tenantId": "hr"
     },
     {
-      "rolecode": "EMPLOYEE",
-      "actionid": 1777,
-      "actioncode": "",
-      "tenantId": "hr"
-    },
-    {
-      "rolecode": "EGF_BILL_CREATOR",
+      "rolecode": "SUPERUSER",
       "actionid": 1777,
       "actioncode": "",
       "tenantId": "hr"
