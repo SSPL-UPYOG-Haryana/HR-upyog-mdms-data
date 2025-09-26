@@ -11161,13 +11161,7 @@
       "actionid": 1746,
       "actioncode": "",
       "tenantId": "hr"
-    },
-    {
-      "rolecode": "EGF_BILL_CREATOR",
-      "actionid": 1747,
-      "actioncode": "",
-      "tenantId": "hr"
-    },
+    },  
     {
       "rolecode": "SUPERUSER",
       "actionid": 1747,
