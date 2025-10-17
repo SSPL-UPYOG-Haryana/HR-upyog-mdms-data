@@ -2,185 +2,605 @@
   "tenantId": "hr",
   "moduleName": "common-masters",
   "Designation": [
-    {
-      "code": "DESIG_01",
-      "name": "Superintending Engineer ( B&R)",
-      "description": "Superintending Engineer ( B&R)",
-      "active": true
-    },
-    {
-      "code": "DESIG_02",
-      "name": "Corporation Engineer (B&R)",
-      "description": "Corporation Engineer (B&R)",
-      "active": true
-    },
-    {
-      "code": "DESIG_03",
-      "name": "Asst. Engineer ( B&R)",
-      "description": "Asst. Engineer ( B&R)",
-      "active": true
-    },
-    {
-      "code": "DESIG_04",
-      "name": "Junior Engineer ( B&R)",
-      "description": "Junior Engineer ( B&R)",
-      "active": true
-    },
-    {
-      "code": "DESIG_05",
-      "name": "Land Scape Officer",
-      "description": "Land Scape Officer",
-      "active": true
-    },
-    {
-      "code": "DESIG_06",
-      "name": "Superintending Engineer ( O&M)",
-      "description": "Superintending Engineer ( O&M)",
-      "active": true
-    },
-    {
-      "code": "DESIG_07",
-      "name": "Corporation Engineer (O&M)",
-      "description": "Corporation Engineer (O&M)",
-      "active": true
-    },
-    {
-      "code": "DESIG_08",
-      "name": "Asst. Engineer ( O&M)",
-      "description": "Asst. Engineer ( O&M)",
-      "active": true
-    },
-    {
-      "code": "DESIG_09",
-      "name": "Junior Engineer ( O&M)",
-      "description": "Junior Engineer ( O&M)",
-      "active": true
-    },
-    {
-      "code": "DESIG_10",
-      "name": "Superintending Engineer ( Light)",
-      "description": "Superintending Engineer ( Light)",
-      "active": true
-    },
-    {
-      "code": "DESIG_11",
-      "name": "Corporation Engineer (Light)",
-      "description": "Corporation Engineer (Light)",
-      "active": true
-    },
-    {
-      "code": "DESIG_12",
-      "name": "Junior Engineer ( Light)",
-      "description": "Junior Engineer ( Light)",
-      "active": true
-    },
-    {
-      "code": "DESIG_13",
-      "name": "Health Officer",
-      "description": "Health Officer",
-      "active": true
-    },
-    {
-      "code": "DESIG_14",
-      "name": "Medical Officer",
-      "description": "Medical Officer",
-      "active": true
-    },
-    {
-      "code": "DESIG_15",
-      "name": "Chief Sanitary Inspector",
-      "description": "Mechanical Oversear",
-      "active": true
-    },
-    {
-      "code": "DESIG_16",
-      "name": "Sainitary Inspector",
-      "description": "Clerk",
-      "active": true
-    },
-    {
-      "code": "DESIG_17",
-      "name": "Sainitary Supervisor",
-      "description": "Accountant",
-      "active": true
-    },
-    {
-      "code": "DESIG_18",
-      "name": "Senior Town Planner",
-      "description": "Senior Town Planner",
-      "active": true
-    },
-    {
-      "code": "DESIG_19",
-      "name": "Municipal Town Planner",
-      "description": "Municipal Town Planner",
-      "active": true
-    },
-    {
-      "code": "DESIG_20",
-      "name": "Asst. Town Planner",
-      "description": "Asst. Town Planner",
-      "active": true
-    },
-    {
-      "code": "DESIG_21",
-      "name": "Building Inspector",
-      "description": "Building Inspector",
-      "active": true
-    },
-    {
-      "code": "DESIG_22",
-      "name": "Junior Enginer ( Horticulutre)",
-      "description": "Junior Enginer ( Horticulutre)",
-      "active": true
-    },
-    {
-      "code": "DESIG_23",
-      "name": "Citizen service representative",
-      "description": "Citizen service representative",
-      "active": true
-    },
-    {
-      "name": "Deputy Controller Finance and Accounts",
-      "description": "Deputy Controller Finance and Accounts",
-      "code": "DESIG_1001",
-      "active": true
-    },
-   {
-      "name": "Accountant",
-      "description": "Accountant",
-      "code": "DESIG_58",
-      "active": true
-    },
-   {
-      "code": "DESIG_24",
-      "name": "Assistant Commissioner",
-      "description": "Assistant Commissioner",
-      "active": true
-    },    
-    {
-      "name": "Superintendent",
-      "description": "Superintendent",
-      "code": "DESIG_47",
-      "active": true
-    },
-    {
-      "name": "Accounts Officer",
-      "description": "Accounts Officer",
-      "code": "AO",
-      "active": true
-    },
-    {
-      "name": "Commissioner",
-      "description": "Commissioner",
-      "code": "COMM",
-      "active": true
-    },
-    {
-      "name": "FSM Executive",
-      "description": "FSM Executive",
-      "code": "DESIG_200",
-      "active": true
-    }
-  ]
+      {
+        "code": "DESIG_01",
+        "name": "IT Consultant",
+        "description": "IT Consultant",
+        "active": true
+      },
+      {
+        "code": "DESIG_02",
+        "name": "IT Manager",
+        "description": "IT Manager",
+        "active": true
+      },
+      {
+        "code": "DESIG_03",
+        "name": "Junior Programmer",
+        "description": "Junior Programmer",
+        "active": true
+      },
+      {
+        "code": "DESIG_04",
+        "name": "Computer Clerk",
+        "description": "Computer Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_05",
+        "name": "Superintendent",
+        "description": "Superintendent",
+        "active": true
+      },
+      {
+        "code": "DESIG_06",
+        "name": "Sr. Computer Clerk",
+        "description": "Sr. Computer Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_07",
+        "name": "Clerk",
+        "description": "Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_08",
+        "name": "Senior Computer Clerk",
+        "description": "Senior Computer Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_09",
+        "name": "CAO",
+        "description": "CAO",
+        "active": true
+      },
+      {
+        "code": "DESIG_10",
+        "name": "AO",
+        "description": "AO",
+        "active": true
+      },
+      {
+        "code": "DESIG_11",
+        "name": "Account Officer",
+        "description": "Account Officer",
+        "active": true
+      },
+      {
+        "code": "DESIG_12",
+        "name": "SO",
+        "description": "SO",
+        "active": true
+      },
+      {
+        "code": "DESIG_13",
+        "name": "Account Assistant",
+        "description": "Account Assistant",
+        "active": true
+      },
+      {
+        "code": "DESIG_14",
+        "name": "Computer Operator",
+        "description": "Computer Operator",
+        "active": true
+      },
+      {
+        "code": "DESIG_15",
+        "name": "Accountant",
+        "description": "Accountant",
+        "active": true
+      },
+      {
+        "code": "DESIG_16",
+        "name": "Financial Expert",
+        "description": "Financial Expert",
+        "active": true
+      },
+      {
+        "code": "DESIG_17",
+        "name": "Computer Opreator",
+        "description": "Computer Opreator",
+        "active": true
+      },
+      {
+        "code": "DESIG_18",
+        "name": "OFFICE ASSISTANT",
+        "description": "OFFICE ASSISTANT",
+        "active": true
+      },
+      {
+        "code": "DESIG_19",
+        "name": "Data Entry Operator",
+        "description": "Data Entry Operator",
+        "active": true
+      },
+      {
+        "code": "DESIG_20",
+        "name": "Personnal Relation Officer",
+        "description": "Personnal Relation Officer",
+        "active": true
+      },
+      {
+        "code": "DESIG_21",
+        "name": "Purchase Officer",
+        "description": "Purchase Officer",
+        "active": true
+      },
+      {
+        "code": "DESIG_22",
+        "name": "Sr Comp Clerk",
+        "description": "Sr Comp Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_23",
+        "name": "Sr Clerk",
+        "description": "Sr Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_24",
+        "name": "Expert",
+        "description": "Expert",
+        "active": true
+      },
+      {
+        "code": "DESIG_25",
+        "name": "Comp Clerk",
+        "description": "Comp Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_26",
+        "name": "Senior Computer Operator",
+        "description": "Senior Computer Operator",
+        "active": true
+      },
+      {
+        "code": "DESIG_27",
+        "name": "Sr. Scale Steno",
+        "description": "Sr. Scale Steno",
+        "active": true
+      },
+      {
+        "code": "DESIG_28",
+        "name": "computer clerk",
+        "description": "computer clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_29",
+        "name": "Sr.Computer Clerk",
+        "description": "Sr.Computer Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_30",
+        "name": "District Revenue Officer",
+        "description": "District Revenue Officer",
+        "active": true
+      },
+      {
+        "code": "DESIG_31",
+        "name": "Naib Tehsildar",
+        "description": "Naib Tehsildar",
+        "active": true
+      },
+      {
+        "code": "DESIG_32",
+        "name": "Tehsildar",
+        "description": "Tehsildar",
+        "active": true
+      },
+      {
+        "code": "DESIG_33",
+        "name": "Patwari",
+        "description": "Patwari",
+        "active": true
+      },
+      {
+        "code": "DESIG_34",
+        "name": "Deputy Town Planner",
+        "description": "Deputy Town Planner",
+        "active": true
+      },
+      {
+        "code": "DESIG_35",
+        "name": "Planning Assistant",
+        "description": "Planning Assistant",
+        "active": true
+      },
+      {
+        "code": "DESIG_36",
+        "name": "Planning Expert",
+        "description": "Planning Expert",
+        "active": true
+      },
+      {
+        "code": "DESIG_37",
+        "name": "Head Drafts Man",
+        "description": "Head Drafts Man",
+        "active": true
+      },
+      {
+        "code": "DESIG_38",
+        "name": "Draftsman",
+        "description": "Draftsman",
+        "active": true
+      },
+      {
+        "code": "DESIG_39",
+        "name": "Chief Town Planner",
+        "description": "Chief Town Planner",
+        "active": true
+      },
+      {
+        "code": "DESIG_40",
+        "name": "Senior Town Planner",
+        "description": "Senior Town Planner",
+        "active": true
+      },
+      {
+        "code": "DESIG_41",
+        "name": "District Town Planner",
+        "description": "District Town Planner",
+        "active": true
+      },
+      {
+        "code": "DESIG_42",
+        "name": "Office Asstt.",
+        "description": "Office Asstt.",
+        "active": true
+      },
+      {
+        "code": "DESIG_43",
+        "name": "Junior Engineer",
+        "description": "Junior Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_44",
+        "name": "Junior Scale Stenographer",
+        "description": "Junior Scale Stenographer",
+        "active": true
+      },
+      {
+        "code": "DESIG_45",
+        "name": "Field Inspector",
+        "description": "Field Inspector",
+        "active": true
+      },
+      {
+        "code": "DESIG_46",
+        "name": "Field Technician",
+        "description": "Field Technician",
+        "active": true
+      },
+      {
+        "code": "DESIG_47",
+        "name": "Eatablishment Officer",
+        "description": "Eatablishment Officer",
+        "active": true
+      },
+      {
+        "code": "DESIG_48",
+        "name": "Superintendent (Estb)",
+        "description": "Superintendent (Estb)",
+        "active": true
+      },
+      {
+        "code": "DESIG_49",
+        "name": "Assistant District Attorney",
+        "description": "Assistant District Attorney",
+        "active": true
+      },
+      {
+        "code": "DESIG_50",
+        "name": "Legal Expert",
+        "description": "Legal Expert",
+        "active": true
+      },
+      {
+        "code": "DESIG_51",
+        "name": "Senior Auditor",
+        "description": "Senior Auditor",
+        "active": true
+      },
+      {
+        "code": "DESIG_52",
+        "name": "Auditor",
+        "description": "Auditor",
+        "active": true
+      },
+      {
+        "code": "DESIG_53",
+        "name": "Joint Director",
+        "description": "Joint Director",
+        "active": true
+      },
+      {
+        "code": "DESIG_54",
+        "name": "Rsa",
+        "description": "Rsa",
+        "active": true
+      },
+      {
+        "code": "DESIG_55",
+        "name": "Assistant Engineer",
+        "description": "Assistant Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_56",
+        "name": "Executive Engineer",
+        "description": "Executive Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_57",
+        "name": "Architect Expert",
+        "description": "Architect Expert",
+        "active": true
+      },
+      {
+        "code": "DESIG_58",
+        "name": "Technical Expert",
+        "description": "Technical Expert",
+        "active": true
+      },
+      {
+        "code": "DESIG_59",
+        "name": "Junior Engg",
+        "description": "Junior Engg",
+        "active": true
+      },
+      {
+        "code": "DESIG_60",
+        "name": "Consultant",
+        "description": "Consultant",
+        "active": true
+      },
+      {
+        "code": "DESIG_61",
+        "name": "Bwg Expert",
+        "description": "Bwg Expert",
+        "active": true
+      },
+      {
+        "code": "DESIG_62",
+        "name": "Zonal Taxation Officer-Hq",
+        "description": "Zonal Taxation Officer-Hq",
+        "active": true
+      },
+      {
+        "code": "DESIG_63",
+        "name": "Senior Clerk",
+        "description": "Senior Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_64",
+        "name": "Zonal Taxation Officer",
+        "description": "Zonal Taxation Officer",
+        "active": true
+      },
+      {
+        "code": "DESIG_65",
+        "name": "Data Entry Operater",
+        "description": "Data Entry Operater",
+        "active": true
+      },
+      {
+        "code": "DESIG_66",
+        "name": "Comp. Clerk",
+        "description": "Comp. Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_67",
+        "name": "Chief Engineer",
+        "description": "Chief Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_68",
+        "name": "Steno",
+        "description": "Steno",
+        "active": true
+      },
+      {
+        "code": "DESIG_69",
+        "name": "Head Draftsman",
+        "description": "Head Draftsman",
+        "active": true
+      },
+      {
+        "code": "DESIG_70",
+        "name": "Sr. Clerk",
+        "description": "Sr. Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_71",
+        "name": "Assitant Engineer",
+        "description": "Assitant Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_72",
+        "name": "Junior Enginner",
+        "description": "Junior Enginner",
+        "active": true
+      },
+      {
+        "code": "DESIG_73",
+        "name": "Senior Computer Operator",
+        "description": "Senior Computer Operator",
+        "active": true
+      },
+      {
+        "code": "DESIG_74",
+        "name": "Head Drafts Man",
+        "description": "Head Drafts Man",
+        "active": true
+      },
+      {
+        "code": "DESIG_75",
+        "name": "Computer Opertor",
+        "description": "Computer Opertor",
+        "active": true
+      },
+      {
+        "code": "DESIG_76",
+        "name": "Junior Engineer",
+        "description": "Junior Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_77",
+        "name": "Computer Oprator",
+        "description": "Computer Oprator",
+        "active": true
+      },
+      {
+        "code": "DESIG_78",
+        "name": "Senior Sanitary Inspector",
+        "description": "Senior Sanitary Inspector",
+        "active": true
+      },
+      {
+        "code": "DESIG_79",
+        "name": "Sanitary Inspector",
+        "description": "Sanitary Inspector",
+        "active": true
+      },
+      {
+        "code": "DESIG_80",
+        "name": "Sr Computer Operator",
+        "description": "Sr Computer Operator",
+        "active": true
+      },
+      {
+        "code": "DESIG_81",
+        "name": "Town Project Engineer",
+        "description": "Town Project Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_82",
+        "name": "CLERK",
+        "description": "CLERK",
+        "active": true
+      },
+      {
+        "code": "DESIG_83",
+        "name": "CMM",
+        "description": "CMM",
+        "active": true
+      },
+      {
+        "code": "DESIG_84",
+        "name": "Chairman",
+        "description": "Chairman",
+        "active": true
+      },
+      {
+        "code": "DESIG_85",
+        "name": "Office Assistant",
+        "description": "Office Assistant",
+        "active": true
+      },
+      {
+        "code": "DESIG_86",
+        "name": "Sr. computer clerk",
+        "description": "Sr. computer clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_87",
+        "name": "Sr. Scale Stenographer",
+        "description": "Sr. Scale Stenographer",
+        "active": true
+      },
+      {
+        "code": "DESIG_88",
+        "name": "sapra",
+        "description": "sapra",
+        "active": true
+      },
+      {
+        "code": "DESIG_89",
+        "name": "D.E.O",
+        "description": "D.E.O",
+        "active": true
+      },
+      {
+        "code": "DESIG_90",
+        "name": "Data Enrty Operator",
+        "description": "Data Enrty Operator",
+        "active": true
+      },
+      {
+        "code": "DESIG_91",
+        "name": "District Attorney",
+        "description": "District Attorney",
+        "active": true
+      },
+      {
+        "code": "DESIG_92",
+        "name": "Junior Eegineer",
+        "description": "Junior Eegineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_93",
+        "name": "Assistant Eegineer",
+        "description": "Assistant Eegineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_94",
+        "name": "COMPUTER CLERK",
+        "description": "COMPUTER CLERK",
+        "active": true
+      },
+      {
+        "code": "DESIG_95",
+        "name": "SR. COMPUTER CLERK",
+        "description": "SR. COMPUTER CLERK",
+        "active": true
+      },
+      {
+        "code": "DESIG_96",
+        "name": "ACCOUNT ASSISTANT",
+        "description": "ACCOUNT ASSISTANT",
+        "active": true
+      },
+      {
+        "code": "DESIG_97",
+        "name": "MTW",
+        "description": "MTW",
+        "active": true
+      },
+      {
+        "code": "DESIG_98",
+        "name": "DEO",
+        "description": "DEO",
+        "active": true
+      },
+      {
+        "code": "DESIG_99",
+        "name": "Sewerman",
+        "description": "Sewerman",
+        "active": true
+      },
+      {
+        "code": "DESIG_100",
+        "name": "COM. CLERK",
+        "description": "COM. CLERK",
+        "active": true
+      }
+    ]
 }
