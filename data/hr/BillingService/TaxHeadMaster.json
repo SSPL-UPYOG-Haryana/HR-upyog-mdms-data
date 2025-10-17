@@ -882,8 +882,8 @@
     {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS",
-      "name": "Education Cess Grants",
-      "code": "REV_GRANTS_EDU_CESS_GRANTS",
+      "name": "Education Dept Grants",
+      "code": "REV_GRANTS_EDU_DEPT_GRANTS",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -892,8 +892,8 @@
     {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS",
-      "name": "Govt. Aid for Primary Education",
-      "code": "REV_GRANTS_GOVT_AID_PRIM_EDU",
+      "name": "General Grants",
+      "code": "REV_GRANTS_GENERAL_GRANTS",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
@@ -922,8 +922,78 @@
     {
       "category": "ADVANCE_COLLECTION",
       "service": "REV_GRANTS",
-      "name": "SJSRY Salary Grant",
+      "name": "State Finance Commission Grants",
       "code": "REV_GRANTS_SJSRY_SAL_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Central Finance Commission Grants",
+      "code": "REV_GRANTS_FIN_COMMISON_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Cencus Grant",
+      "code": "REV_GRANTS_CENSUS_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	 {
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Government Agencies Grants",
+      "code": "REV_GRANTS_GOVT_AGNCY_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Financial Institutions Grants",
+      "code": "REV_GRANTS_FIN_INST_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Welfare Bodies Grants",
+      "code": "REV_GRANTS_WEL_BDY_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "International Organizations Grants",
+      "code": "REV_GRANTS_INTERNATIONAL_ORGS_GRANT",
+      "isDebit": false,
+      "isActualDemand": false,
+      "order": "0",
+      "isRequired": false
+    },
+	{
+      "category": "ADVANCE_COLLECTION",
+      "service": "REV_GRANTS",
+      "name": "Revenue Grant from Others",
+      "code": "REV_GRANTS_OTHERS_GRANT",
       "isDebit": false,
       "isActualDemand": false,
       "order": "0",
