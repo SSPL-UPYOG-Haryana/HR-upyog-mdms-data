@@ -103,7 +103,7 @@
         "latitude": 31.326016,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1510",
+        "code": "095",
         "ddrName": "Gurugram Municipal Corporation"
       },
       "address": "2,Mall Rd, Ram Bazar,Gurugram, Haryana, 171001",
@@ -147,7 +147,7 @@
         "latitude": 30.6891941,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "107",
+        "code": "053",
         "ddrName": "Panchkula Municipal Corporation"
       },
       "address": "SCO No. 15-16, Sector-14, Near Rally Chowk, Panchkula, Haryana 134112",
@@ -186,7 +186,7 @@
         "latitude": 28.24737,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "108",
+        "code": "014",
         "ddrName": "Sohna Municipal Council"
       },
       "address": "Municipal Council, Sohna (Distt. Gurgaon)",
@@ -225,7 +225,7 @@
         "latitude": 28.183332,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "109",
+        "code": "040",
         "ddrName": "Rewari Municipal Council"
       },
       "address": "Bharawas Gate, Near Agarsen Chowk, Rewari",
@@ -262,7 +262,7 @@
         "latitude": 29.962072,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "110",
+        "code": "032",
         "ddrName": "Thanesar Municipal Council"
       },
       "address": "Municipal Council Thanesar, Kachha Gher, Thanesar Kurukshetra , Haryana (136118)",
@@ -270,9 +270,9 @@
       "helpLineNumber": "01744-235352"
     },
     {
-      "code": "hr.farukhnagar",
-      "name": "Farukh Nagar",
-      "description": "Farukh Nagar",
+      "code": "hr.farrukhnagar",
+      "name": "Farrukh Nagar",
+      "description": "Farrukh Nagar",
       "pincode": [
         160055,
         160059
@@ -283,26 +283,26 @@
       "type": "CITY",
       "twitterUrl": null,
       "facebookUrl": null,
-      "emailId": "mcfarukhnagar@gmail.com",
+      "emailId": "mcfarrukhnagar@gmail.com",
       "OfficeTimings": {
         "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Farukh Nagar",
+        "name": "Farrukh Nagar",
         "localName": null,
-        "districtCode": "FARUKHNAGAR",
+        "districtCode": "FARRUKHNAGAR",
         "districtName": null,
-        "districtTenantCode": "hr.farukhnagar",
+        "districtTenantCode": "hr.farrukhnagar",
         "regionName": null,
         "ulbGrade": "Municipal Committee",
         "longitude": 75.576183,
         "latitude": 31.3260155,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1508",
-        "ddrName": "Farukh Nagar Municipal Committee"
+        "code": "071",
+        "ddrName": "Farrukh Nagar Municipal Committee"
       },
-      "address": "CRW9+GPP, Farukh Nagar, Haryana 122506",
+      "address": "CRW9+GPP, Farrukh Nagar, Haryana 122506",
       "contactNumber": "9034837507"
     },
     {
@@ -334,7 +334,7 @@
         "latitude": 31.3260159,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1509",
+        "code": "038",
         "ddrName": "Samalkha Municipal Corporation"
       },
       "address": "Panipat, NH-1, GT Karnal Rd, Samalkha, Haryana 132101",
@@ -369,7 +369,7 @@
         "latitude": 31.3260159,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1509",
+        "code": "078",
         "ddrName": "Sampla Municipal Corporation"
       },
       "address": "QQF4+G97, Beri-kultana Road,, Sampla, Haryana 124501",
@@ -404,7 +404,7 @@
         "latitude": 31.3260159,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1509",
+        "code": "092",
         "ddrName": "Kundli Municipal Committee"
       },
       "address": "V4CG+CQR, Sector 53, Sonipat, Haryana 131028",
@@ -439,7 +439,7 @@
         "latitude": 31.3260159,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "1509",
+        "code": "009",
         "ddrName": "Ratia Municipal Committee"
       },
       "address": "MHJC+JFP, Anaj Mandi, Aggarwal Colony, Ratia, Haryana 125051",
