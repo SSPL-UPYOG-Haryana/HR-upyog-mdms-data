@@ -1,50 +1,11 @@
 {
   "tenantId": "hr",
   "moduleName": "tenant",
-  "tenants": [
-    {
-      "code": "hr",
-      "name": "State",
-      "description": "State",
-      "logoId": "https://s3.ap-south-1.amazonaws.com/hr-egov-assets/hr.citya/logo.png",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "hr.state@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 5.00 PM"
-      },
-      "city": {
-        "name": "State",
-        "localName": "Demo State",
-        "districtCode": "0",
-        "districtName": "State",
-        "districtTenantCode": "hr",
-        "regionName": "State",
-        "ulbGrade": "ST",
-        "longitude": 75.3412,
-        "latitude": 31.1471,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "0",
-        "ddrName": null
-      },
-      "address": "State Municipal Corporation",
-      "contactNumber": "0978-7645345"
-    },
-    {
+  "tenants": [{
       "code": "hr.citya",
       "name": "Haryana",
       "description": "City A",
-      "pincode": [
-        143001,
-        143002,
-        143003,
-        143004,
-        143005
-      ],
+      "pincode": [143001,143002,143003,143004,143005],
       "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
       "imageId": null,
       "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
@@ -75,11 +36,260 @@
       "contactNumber": "001-2345876"
     },
     {
+      "code": "hr.cityb",
+      "name": "Kolkata",
+      "description": null,
+      "pincode": [143006,143007,143008,143009,143010],
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cityb@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "City B",
+        "localName": null,
+        "districtCode": "CITYB",
+        "districtName": null,
+        "districtTenantCode": "hr.cityb",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 74.8722642,
+        "latitude": 31.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "107",
+        "ddrName": "DDR B"
+      },
+      "address": "City B Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "hr.cityc",
+      "name": "City C",
+      "description": null,
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cityc@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City C",
+        "localName": null,
+        "districtCode": "CITYC",
+        "districtName": null,
+        "districtTenantCode": "hr.cityc",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 73.8722642,
+        "latitude": 31.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "108",
+        "ddrName": "DDR C"
+      },
+      "address": "City C Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "hr.cityd",
+      "name": "City D",
+      "description": null,
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "cityd@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City D",
+        "localName": null,
+        "districtCode": "CITYD",
+        "districtName": null,
+        "districtTenantCode": "hr.cityd",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 75.8722642,
+        "latitude": 35.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "109",
+        "ddrName": "DDR D"
+      },
+      "address": "City D Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "hr.citye",
+      "name": "City E",
+      "description": null,
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "citye@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM",
+        "Sat": "9.00 AM - 12.00 PM"
+      },
+      "city": {
+        "name": "City E",
+        "localName": null,
+        "districtCode": "CITYE",
+        "districtName": null,
+        "districtTenantCode": "hr.citye",
+        "regionName": null,
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.8722642,
+        "latitude": 36.6339793,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "110",
+        "ddrName": "DDR E"
+      },
+      "address": "City E Municipal Corporation Address",
+      "contactNumber": "0978-7645345",
+      "helpLineNumber": "0654-8734567"
+    },
+    {
+      "code": "hr",
+      "name": "State",
+      "description": "State",
+      "logoId": "https://s3.ap-south-1.amazonaws.com/hr-egov-assets/hr.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "hr.state@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 5.00 PM"
+      },
+      "city": {
+        "name": "State",
+        "localName": "Demo State",
+        "districtCode": "0",
+        "districtName": "State",
+        "districtTenantCode": "hr",
+        "regionName": "State",
+        "ulbGrade": "ST",
+        "longitude": 75.3412,
+        "latitude": 31.1471,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "0",
+        "ddrName": null
+      },
+      "address": "State Municipal Corporation",
+      "contactNumber": "0978-7645345"
+    },
+    {
+      "code": "hr.mohali",
+      "name": "Mohali",
+      "description": "Mohali",
+      "pincode": [
+          160055,
+          160059,
+          160061,
+          160062,
+          160063,
+          160064,
+          160065,
+          160066,
+          160068,
+          160071
+      ],
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Mohali",
+          "localName": null,
+          "districtCode": "MOHALI",
+          "districtName": null,
+          "districtTenantCode": "hr.mohali",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761830,
+          "latitude": 31.3260155,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1508",
+          "ddrName": "Mohali MC"
+      },
+      "address": "Sector 68, Sahibzada Ajit Singh Nagar, Punjab 160062",
+      "contactNumber": "0172-5044907"
+  },
+  {
+      "code": "hr.dharamshala",
+      "name": "Dharamshala",
+      "description": "Dharamshala",
+      "pincode": [
+          176215
+      ],
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
+      "imageId": null,
+      "domainUrl": "https://www.upyog.niua.org",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "complaints.mcj@gmail.com",
+      "OfficeTimings": {
+          "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+          "name": "Dharamshala",
+          "localName": null,
+          "districtCode": "DHARAMSHALA",
+          "districtName": null,
+          "districtTenantCode": "hr.dharamshala",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761835,
+          "latitude": 31.3260159,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1509",
+          "ddrName": "Dharamshala Municipal Corporation"
+      },
+      "address": "Near Fire Station, Sudher, Dharamshala, Himachal Pradesh, 176215",
+      "contactNumber": "0189 222 2115"
+  },
+  {
       "code": "hr.gurugram",
       "name": "Gurugram",
       "description": "Gurugram",
       "pincode": [
-        171001
+          171001
       ],
       "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
       "imageId": null,
@@ -89,361 +299,25 @@
       "facebookUrl": null,
       "emailId": "gurugram@gmail.com",
       "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
+          "Mon - Fri": "9.00 AM - 6.00 PM"
       },
       "city": {
-        "name": "Gurugram",
-        "localName": null,
-        "districtCode": "GURUGRAM",
-        "districtName": null,
-        "districtTenantCode": "hr.gurugram",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 75.576184,
-        "latitude": 31.326016,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "095",
-        "ddrName": "Gurugram Municipal Corporation"
+          "name": "Gurugram",
+          "localName": null,
+          "districtCode": "GURUGRAM",
+          "districtName": null,
+          "districtTenantCode": "hr.gurugram",
+          "regionName": null,
+          "ulbGrade": "Municipal Corporation",
+          "longitude": 75.5761840,
+          "latitude": 31.3260160,
+          "shapeFileLocation": null,
+          "captcha": null,
+          "code": "1510",
+          "ddrName": "Gurugram Municipal Corporation"
       },
       "address": "2,Mall Rd, Ram Bazar,Gurugram, Haryana, 171001",
       "contactNumber": "0177 280 2771"
-    },
-    {
-      "code": "hr.panchkula",
-      "name": "Panchkula",
-      "description": "Panchkula",
-      "pincode": [
-        134107,
-        134108,
-        134109,
-        134112,
-        134113,
-        134114,
-        134116,
-        134117
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcpanchkula@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "isPopular": true,
-      "city": {
-        "name": "Panchkula",
-        "localName": null,
-        "districtCode": "PANCHKULA",
-        "districtName": null,
-        "districtTenantCode": "hr.panchkula",
-        "regionName": null,
-        "ulbGrade": "Municipal Corporation",
-        "longitude": 76.85984420000001,
-        "latitude": 30.6891941,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "053",
-        "ddrName": "Panchkula Municipal Corporation"
-      },
-      "address": "SCO No. 15-16, Sector-14, Near Rally Chowk, Panchkula, Haryana 134112",
-      "contactNumber": "0172-2583794"
-    },
-    {
-      "code": "hr.sohna",
-      "name": "Sohna",
-      "description": "Sohna",
-      "pincode": [
-        122001,
-        122018,
-        122102,
-        122103
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcsohna@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "city": {
-        "name": "Sohna",
-        "localName": null,
-        "districtCode": "SOHNA",
-        "districtName": null,
-        "districtTenantCode": "hr.sohna",
-        "regionName": null,
-        "ulbGrade": "Municipal Council",
-        "longitude": 77.06544,
-        "latitude": 28.24737,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "014",
-        "ddrName": "Sohna Municipal Council"
-      },
-      "address": "Municipal Council, Sohna (Distt. Gurgaon)",
-      "contactNumber": "0172-2590082",
-      "helpLineNumber": "0172-2590082"
-    },
-    {
-      "code": "hr.rewari",
-      "name": "Rewari",
-      "description": "Rewari",
-      "pincode": [
-        123401,
-        122101,
-        122105
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcrewari@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "city": {
-        "name": "Rewari",
-        "localName": null,
-        "districtCode": "REWARI",
-        "districtName": null,
-        "districtTenantCode": "hr.rewari",
-        "regionName": null,
-        "ulbGrade": "Municipal Council",
-        "longitude": 76.616669,
-        "latitude": 28.183332,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "040",
-        "ddrName": "Rewari Municipal Council"
-      },
-      "address": "Bharawas Gate, Near Agarsen Chowk, Rewari",
-      "contactNumber": "01274-225263",
-      "helpLineNumber": "01274-225263"
-    },
-    {
-      "code": "hr.thanesar",
-      "name": "Thanesar",
-      "description": "Thanesar",
-      "pincode": [
-        136118
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcthanesar@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM",
-        "Sat": "9.00 AM - 12.00 PM"
-      },
-      "city": {
-        "name": "Thanesar",
-        "localName": null,
-        "districtCode": "THANESAR",
-        "districtName": null,
-        "districtTenantCode": "hr.thanesar",
-        "regionName": null,
-        "ulbGrade": "Municipal Council",
-        "longitude": 76.817825,
-        "latitude": 29.962072,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "032",
-        "ddrName": "Thanesar Municipal Council"
-      },
-      "address": "Municipal Council Thanesar, Kachha Gher, Thanesar Kurukshetra , Haryana (136118)",
-      "contactNumber": "01744-235352",
-      "helpLineNumber": "01744-235352"
-    },
-    {
-      "code": "hr.farrukhnagar",
-      "name": "Farrukh Nagar",
-      "description": "Farrukh Nagar",
-      "pincode": [
-        160055,
-        160059
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcfarrukhnagar@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Farrukh Nagar",
-        "localName": null,
-        "districtCode": "FARRUKHNAGAR",
-        "districtName": null,
-        "districtTenantCode": "hr.farrukhnagar",
-        "regionName": null,
-        "ulbGrade": "Municipal Committee",
-        "longitude": 75.576183,
-        "latitude": 31.3260155,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "071",
-        "ddrName": "Farrukh Nagar Municipal Committee"
-      },
-      "address": "CRW9+GPP, Farrukh Nagar, Haryana 122506",
-      "contactNumber": "9034837507"
-    },
-    {
-      "code": "hr.samalkha",
-      "name": "Samalkha",
-      "description": "Samalkha",
-      "pincode": [
-        176215
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcsamalkha@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Samalkha",
-        "localName": null,
-        "districtCode": "SAMALKHA",
-        "districtName": null,
-        "districtTenantCode": "hr.samalkha",
-        "regionName": null,
-        "ulbGrade": "Municipal Committee",
-        "longitude": 75.5761835,
-        "latitude": 31.3260159,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "038",
-        "ddrName": "Samalkha Municipal Corporation"
-      },
-      "address": "Panipat, NH-1, GT Karnal Rd, Samalkha, Haryana 132101",
-      "contactNumber": "0172-2590082"
-    },
-    {
-      "code": "hr.sampla",
-      "name": "Sampla",
-      "description": "Sampla",
-      "pincode": [
-        176215
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcsampla@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Sampla",
-        "localName": null,
-        "districtCode": "SAMPLA",
-        "districtName": null,
-        "districtTenantCode": "hr.sampla",
-        "regionName": null,
-        "ulbGrade": "Municipal Committee",
-        "longitude": 75.5761835,
-        "latitude": 31.3260159,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "078",
-        "ddrName": "Sampla Municipal Corporation"
-      },
-      "address": "QQF4+G97, Beri-kultana Road,, Sampla, Haryana 124501",
-      "contactNumber": "0172-2580700"
-    },
-    {
-      "code": "hr.kundli",
-      "name": "Kundli",
-      "description": "Kundli",
-      "pincode": [
-        176215
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mckundli@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Kundli",
-        "localName": null,
-        "districtCode": "KUNDLI",
-        "districtName": null,
-        "districtTenantCode": "hr.kundli",
-        "regionName": null,
-        "ulbGrade": "Municipal Committee",
-        "longitude": 75.5761835,
-        "latitude": 31.3260159,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "092",
-        "ddrName": "Kundli Municipal Committee"
-      },
-      "address": "V4CG+CQR, Sector 53, Sonipat, Haryana 131028",
-      "contactNumber": "0172-2580700"
-    },
-    {
-      "code": "hr.ratia",
-      "name": "Ratia",
-      "description": "Ratia",
-      "pincode": [
-        176215
-      ],
-      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/MCG+LOGO.jpg",
-      "imageId": null,
-      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
-      "type": "CITY",
-      "twitterUrl": null,
-      "facebookUrl": null,
-      "emailId": "mcratia@gmail.com",
-      "OfficeTimings": {
-        "Mon - Fri": "9.00 AM - 6.00 PM"
-      },
-      "city": {
-        "name": "Ratia",
-        "localName": null,
-        "districtCode": "RATIA",
-        "districtName": null,
-        "districtTenantCode": "hr.ratia",
-        "regionName": null,
-        "ulbGrade": "Municipal Committee",
-        "longitude": 75.5761835,
-        "latitude": 31.3260159,
-        "shapeFileLocation": null,
-        "captcha": null,
-        "code": "009",
-        "ddrName": "Ratia Municipal Committee"
-      },
-      "address": "MHJC+JFP, Anaj Mandi, Aggarwal Colony, Ratia, Haryana 125051",
-      "contactNumber": "0172-2580700"
     }
-  ]
+   ]
 }
