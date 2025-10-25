@@ -1012,7 +1012,7 @@
     {
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.LAND",
-      "name": "GST",
+      "name": "CGST",
       "code": "DISP_FIXED_ASSET_LAND_CGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1022,7 +1022,7 @@
 	{
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.LAND",
-      "name": "GST",
+      "name": "SGST",
       "code": "DISP_FIXED_ASSET_LAND_SGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1032,7 +1032,7 @@
 	{
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.LAND",
-      "name": "GST",
+      "name": "IGST",
       "code": "DISP_FIXED_ASSET_LAND_IGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1062,7 +1062,7 @@
     {
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.BUILDING",
-      "name": "GST",
+      "name": "CGST",
       "code": "DISP_FIXED_ASSET_BUILDING_CGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1072,7 +1072,7 @@
 	{
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.BUILDING",
-      "name": "GST",
+      "name": "SGST",
       "code": "DISP_FIXED_ASSET_BUILDING_SGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1082,7 +1082,7 @@
 	{
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.BUILDING",
-      "name": "GST",
+      "name": "IGST",
       "code": "DISP_FIXED_ASSET_BUILDING_IGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1112,7 +1112,7 @@
     {
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
-      "name": "GST",
+      "name": "CGST",
       "code": "DISP_FIXED_ASSET_VEHICLE_CGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1122,7 +1122,7 @@
 	{
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
-      "name": "GST",
+      "name": "SGST",
       "code": "DISP_FIXED_ASSET_VEHICLE_SGST",
       "isDebit": false,
       "isActualDemand": false,
@@ -1132,7 +1132,7 @@
 	{
       "category": "TAX",
       "service": "DISP_FIXED_ASSET.MOTOR_VEHICLE",
-      "name": "GST",
+      "name": "IGST",
       "code": "DISP_FIXED_ASSET_VEHICLE_IGST",
       "isDebit": false,
       "isActualDemand": false,
