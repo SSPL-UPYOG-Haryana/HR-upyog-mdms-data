@@ -1,0 +1,17 @@
+{
+    "tenantId": "hr.gurugram",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "hr.gurugram"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "hr.gurugram"
+        }
+    ]
+    
+}
