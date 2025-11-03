@@ -270,7 +270,7 @@
       "helpLineNumber": "01744-235352"
     },
     {
-      "code": "hr.farukh-nagar",
+      "code": "hr.farrukhnagar",
       "name": "Farrukh Nagar",
       "description": "Farrukh Nagar",
       "pincode": [
@@ -292,7 +292,7 @@
         "localName": null,
         "districtCode": "FARRUKHNAGAR",
         "districtName": null,
-        "districtTenantCode": "hr.farukh-nagar",
+        "districtTenantCode": "hr.farrukhnagar",
         "regionName": null,
         "ulbGrade": "Municipal Committee",
         "longitude": 75.576183,
