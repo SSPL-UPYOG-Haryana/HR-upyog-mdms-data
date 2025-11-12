@@ -1029,7 +1029,7 @@
       "enabled": false,
       "serviceCode": "Scheme_Master",
       "code": "null",
-      "path": "Financials.Financials_Masters.Scheme_Master.createScheme_Master"
+      "path": "Financials.Financials_Masters.Scheme_Master.Scheme.createScheme_Master"
     },
     {
       "id": 659,
@@ -1041,7 +1041,7 @@
       "enabled": false,
       "serviceCode": "Scheme_Master",
       "code": "null",
-      "path": "Financials.Financials_Masters.Scheme_Master.updateScheme_Master"
+      "path": "Financials.Financials_Masters.Scheme_Master.Scheme.updateScheme_Master"
     },
     {
       "id": 660,
@@ -3540,7 +3540,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Scheme.Create Scheme",
+      "path": "Finance.Masters.Scheme.Scheme.Create Scheme",
       "navigationURL": "services/EGF/masters/scheme-newForm.action"
     },
     {
@@ -3554,7 +3554,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Scheme.View Scheme",
+      "path": "Finance.Masters.Scheme.Scheme.View Scheme",
       "navigationURL": "services/EGF/masters/scheme-beforeSearch.action"
     },
     {
@@ -3568,7 +3568,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Scheme.Modify Scheme",
+      "path": "Finance.Masters.Scheme.Scheme.Modify Scheme",
       "navigationURL": "services/EGF/masters/scheme-beforeSearch-edit.action"
     },
     {
@@ -3624,7 +3624,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Scheme.View Sub-scheme",
+      "path": "Finance.Masters.Scheme.Sub Scheme.View Sub-scheme",
       "navigationURL": "services/EGF/masters/subScheme-beforeSearch.action"
     },
     {
@@ -3638,7 +3638,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Scheme.Modify Sub-scheme",
+      "path": "Finance.Masters.Scheme.Sub Scheme.Modify Sub-scheme",
       "navigationURL": "services/EGF/masters/subScheme-beforeSearch-edit.action"
     },
     {
@@ -3904,7 +3904,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Scheme.Create Sub-scheme",
+      "path": "Finance.Masters.Scheme.Sub Scheme.Create Sub-scheme",
       "navigationURL": "services/EGF/masters/subScheme-newForm.action"
     },
     {
@@ -3946,7 +3946,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.Modify Bank",
+      "path": "Finance.Masters.Bank.Bank Name.Modify Bank",
       "navigationURL": "services/EGF/bank/search/edit"
     },
     {
@@ -3960,7 +3960,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.Create Bank",
+      "path": "Finance.Masters.Bank.Bank Name.Create Bank",
       "navigationURL": "services/EGF/bank/new"
     },
     {
@@ -4198,7 +4198,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.View Bank",
+      "path": "Finance.Masters.Bank.Bank Name.View Bank",
       "navigationURL": "services/EGF/bank/search/view"
     },
     {
@@ -4212,7 +4212,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.Create Bank Account",
+      "path": "Finance.Masters.Bank.Bank Account.Create Bank Account",
       "navigationURL": "services/EGF/bankaccount/new"
     },
     {
@@ -4226,7 +4226,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.View Bank Account",
+      "path": "Finance.Masters.Bank.Bank Account.View Bank Account",
       "navigationURL": "services/EGF/bankaccount/search/view"
     },
     {
@@ -4240,7 +4240,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.Modify Bank Account",
+      "path": "Finance.Masters.Bank.Bank Account.Modify Bank Account",
       "navigationURL": "services/EGF/bankaccount/search/edit"
     },
     {
@@ -4254,7 +4254,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.Create Bank Branch",
+      "path": "Finance.Masters.Bank.Bank Branch.Create Bank Branch",
       "navigationURL": "services/EGF/bankbranch/new"
     },
     {
@@ -4268,7 +4268,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.View Bank Branch",
+      "path": "Finance.Masters.Bank.Bank Branch.View Bank Branch",
       "navigationURL": "services/EGF/bankbranch/search/view"
     },
     {
@@ -4282,7 +4282,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Bank.Modify Bank Branch",
+      "path": "Finance.Masters.Bank.Bank Branch.Modify Bank Branch",
       "navigationURL": "services/EGF/bankbranch/search/edit"
     },
     {
