@@ -3806,7 +3806,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Subledger Configuration.Create other masters",
+      "path": "Finance.Masters.Subledger Configuration.Subledger Master.Create other masters",
       "navigationURL": "services/EGF/accountentity/new"
     },
     {
@@ -3820,7 +3820,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Subledger Configuration.View Other Masters",
+      "path": "Finance.Masters.Subledger Configuration.Subledger Master.View Other Masters",
       "navigationURL": "services/EGF/accountentity/search/view"
     },
     {
@@ -3834,7 +3834,7 @@
       "serviceCode": "FinanceMaster",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Subledger Configuration.Modify Other Masters",
+      "path": "Finance.Masters.Subledger Configuration.Subledger Master.Modify Other Masters",
       "navigationURL": "services/EGF/accountentity/search/edit"
     },
     {
@@ -4363,7 +4363,7 @@
       "code": "null",
       "navigationURL": "services/EGF/accountdetailtype/new",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Subledger Configuration.Create Accounting Entity"
+      "path": "Finance.Masters.Subledger Configuration.Subledger Category.Create Accounting Entity"
     },
     {
       "id": 1680,
@@ -4377,7 +4377,7 @@
       "code": "null",
       "navigationURL": "services/EGF/accountdetailtype/search/edit",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Subledger Configuration.Modify Accounting Entity"
+      "path": "Finance.Masters.Subledger Configuration.Subledger Category.Modify Accounting Entity"
     },
     {
       "id": 1681,
@@ -4391,7 +4391,7 @@
       "navigationURL": "services/EGF/accountdetailtype/search/view",
       "code": "null",
       "leftIcon": "editor:insert-chart",
-      "path": "Finance.Masters.Subledger Configuration.View Accounting Entity"
+      "path": "Finance.Masters.Subledger Configuration.Subledger Category.View Accounting Entity"
     },
     {
       "id": 1682,
