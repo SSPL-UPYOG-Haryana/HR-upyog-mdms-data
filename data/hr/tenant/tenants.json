@@ -444,6 +444,41 @@
       },
       "address": "MHJC+JFP, Anaj Mandi, Aggarwal Colony, Ratia, Haryana 125051",
       "contactNumber": "0172-2580700"
+    },
+    {
+      "code": "hr.pataudi",
+      "name": "Pataudi",
+      "description": "Pataudi",
+      "pincode": [
+        176215
+      ],
+      "logoId": "https://s3.ap-south-1.amazonaws.com/hr-egov-assets/hr.citya/logo.png",
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mcpataudi@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Pataudi",
+        "localName": null,
+        "districtCode": "PATAUDI",
+        "districtName": null,
+        "districtTenantCode": "hr.pataudi",
+        "regionName": null,
+        "ulbGrade": "Municipal Committee",
+        "longitude": 75.5761835,
+        "latitude": 31.3260159,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "009",
+        "ddrName": "Pataudi Municipal Committee"
+      },
+      "address": "Ward No. 6, Opp. MC Park, Municipal Committee Pataudi Mandi, Pataudi, Distt. Gurgaon (HR), Pin Code-122503",
+      "contactNumber": "0172-2580700"
     }
   ]
 }
