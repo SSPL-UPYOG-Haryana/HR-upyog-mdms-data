@@ -19612,6 +19612,20 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Work.Modify Work",
       "navigationURL": "services/EGF/work/search/edit"
+    },
+    {
+      "id": 2918,
+      "name": "Search Budget",
+      "navigationURL": "services/EGF/Budget/Search",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "Search Budget",
+      "orderNumber": 9,
+      "enabled": true,
+      "serviceCode": "FinanceBudget",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Budget and Controls.Search Budget"
     }
   ]
 }
