@@ -30780,6 +30780,18 @@
       "actionid": 2917,
       "actioncode": "",
       "tenantId": "hr"
-    } 
+    },
+	{
+      "rolecode": "EGF_MASTER_ADMIN",
+      "actionid": 2918,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2918,
+      "actioncode": "",
+      "tenantId": "hr"
+    }  
   ]
 }
