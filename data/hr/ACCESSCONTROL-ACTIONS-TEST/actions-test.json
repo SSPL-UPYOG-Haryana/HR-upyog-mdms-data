@@ -3541,7 +3541,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Scheme.Scheme.Create Scheme",
-      "navigationURL": "services/EGF/masters/scheme-newForm.action"
+      "navigationURL": "services/EGF/masters/scheme/newform"
     },
     {
       "id": 1621,
