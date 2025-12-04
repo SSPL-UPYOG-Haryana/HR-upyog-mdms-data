@@ -3392,7 +3392,7 @@
     {
       "id": 1610,
       "name": "Generate PJV",
-      "url": "/services/EGF/voucher/billVoucher-newForm.action",
+      "url": "/services/EGF/voucher/billVoucher/new",
       "parentModule": "",
       "displayName": "Voucher from bill",
       "orderNumber": 4,
@@ -3401,7 +3401,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Bills Accounting.Create Voucher",
-      "navigationURL": "services/EGF/voucher/billVoucher-newForm.action"
+      "navigationURL": "services/EGF/voucher/billVoucher/new"
     },
     {
       "id": 1611,
