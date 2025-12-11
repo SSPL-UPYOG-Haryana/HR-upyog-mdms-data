@@ -3555,7 +3555,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Scheme.Scheme.View Scheme",
-      "navigationURL": "services/EGF/masters/scheme-beforeSearch.action"
+      "navigationURL": "services/EGF/masters/scheme/search/view"
     },
     {
       "id": 1622,
@@ -3569,7 +3569,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Scheme.Scheme.Modify Scheme",
-      "navigationURL": "services/EGF/masters/scheme-beforeSearch-edit.action"
+      "navigationURL": "services/EGF/masters/scheme/search/edit"
     },
     {
       "id": 1623,
