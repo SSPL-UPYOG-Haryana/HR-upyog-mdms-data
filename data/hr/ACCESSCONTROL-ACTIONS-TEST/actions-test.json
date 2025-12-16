@@ -19640,6 +19640,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Bills Accounting.Create Voucher"
+    },
+	{
+      "id": 2920,
+      "name": "View Bill Registers",
+	  "navigationURL": "services/EGF/viewbill-registers/new-form",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "View Bill Registers",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Bills Accounting.View Bill Registers"
     }
   ]
 }
