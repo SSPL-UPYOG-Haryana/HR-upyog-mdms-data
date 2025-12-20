@@ -19654,6 +19654,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Bills Accounting.View Bill Registers"
+    },
+	  {
+      "id": 2921,
+      "name": "RTGS Assignment",
+	  "navigationURL": "services/EGF/rtgs-assignment/new-form",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "RTGS Assignment",
+      "orderNumber": 7,
+      "enabled": true,
+      "serviceCode": "FinanceBill",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Expenditure Accounting.Payments.RTGS Assignment"
     }
   ]
 }
