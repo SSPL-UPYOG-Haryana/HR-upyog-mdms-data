@@ -3625,11 +3625,11 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Scheme.Sub Scheme.View Sub-scheme",
-      "navigationURL": "services/EGF/masters/subScheme-beforeSearch.action"
+      "navigationURL": "services/EGF/masters/subScheme/search/view"
     },
     {
       "id": 1627,
-      "name": "Modify Sub-scheme",
+      "name": "Modify Sub-",
       "url": "url",
       "parentModule": "",
       "displayName": "Modify Sub Scheme",
@@ -3639,7 +3639,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Scheme.Sub Scheme.Modify Sub-scheme",
-      "navigationURL": "services/EGF/masters/subScheme-beforeSearch-edit.action"
+      "navigationURL": "services/EGF/masters/subScheme/search/edit"
     },
     {
       "id": 1628,
@@ -3905,7 +3905,7 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Masters.Scheme.Sub Scheme.Create Sub-scheme",
-      "navigationURL": "services/EGF/masters/subScheme-newForm.action"
+      "navigationURL": "services/EGF/masters/subScheme/newForm"
     },
     {
       "id": 1647,
