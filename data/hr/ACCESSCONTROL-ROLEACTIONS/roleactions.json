@@ -30810,6 +30810,12 @@
       "actionid": 2921,
       "actioncode": "",
       "tenantId": "hr"
+    },
+	{
+      "rolecode": "SUPERUSER",
+      "actionid": 2922,
+      "actioncode": "",
+      "tenantId": "hr"
     }
   ]
 }
