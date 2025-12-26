@@ -30816,6 +30816,72 @@
       "actionid": 2922,
       "actioncode": "",
       "tenantId": "hr"
-    }
+    },
+	{
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 2923,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2923,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2924,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_ADMINISTRATOR",
+      "actionid": 2924,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "SUPERUSER",
+      "actionid": 2925,
+      "actioncode": "",
+      "tenantId": "hr"
+    },   
+    {
+      "rolecode": "COLL_REMIT_TO_BANK",
+      "actionid": 2925,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "COLL_RECEIPT_CREATOR",
+      "actionid": 2925,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_CREATOR",
+      "actionid": 2925,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_VOUCHER_APPROVER",
+      "actionid": 2925,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_PAYMENT_APPROVER",
+      "actionid": 2925,
+      "actioncode": "",
+      "tenantId": "hr"
+    },
+    {
+      "rolecode": "EGF_PAYMENT_CREATOR",
+      "actionid": 2925,
+      "actioncode": "",
+      "tenantId": "hr"
+    }    
   ]
 }
