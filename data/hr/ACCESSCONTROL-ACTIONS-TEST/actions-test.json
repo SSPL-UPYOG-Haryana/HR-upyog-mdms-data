@@ -19682,6 +19682,20 @@
       "code": "null",
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Expenditure Accounting.Payments.Surrender RTGS"
+    },
+	{
+      "id": 2923,
+      "name": "Cancel Bills",
+      "url": "/services/EGF/voucher/cancelBill/searchForm",
+      "parentModule": "",
+      "displayName": "Cancel Bills",
+      "orderNumber": 3,
+      "enabled": true,
+      "serviceCode": "FinanceAdmin",
+      "code": "null",
+      "leftIcon": "editor:insert-chart",
+      "path": "Finance.Administration.Cancel Bills",
+      "navigationURL": "services/EGF/voucher/cancelBill/searchForm"
     }
   ]
 }
