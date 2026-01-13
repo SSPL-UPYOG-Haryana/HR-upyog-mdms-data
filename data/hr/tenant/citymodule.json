@@ -19,13 +19,37 @@
           "code": "hr.cityc"
         },
         {
-          "code": "hr.cityd"
-        },
-        {
-          "code": "hr.citye"
-        },
-        {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     },
@@ -72,6 +96,36 @@
         },
         {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     },
@@ -275,6 +329,36 @@
         },
         {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
         
       ]
@@ -302,6 +386,36 @@
         },
         {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     },
@@ -397,6 +511,36 @@
         },
         {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     },
@@ -419,19 +563,37 @@
           "code": "hr.cityd"
         },
         {
-          "code": "hr.citye"
-        },
-        {
-          "code": "hr.mohali"
-        },
-        {
-          "code": "hr.dharamshala"
-        },
-        {
-          "code": "hr.shimla"
-        },
-        {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     },
@@ -551,6 +713,36 @@
         },
         {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     },
@@ -643,22 +835,37 @@
           "code": "hr.cityc"
         },
         {
-          "code": "hr.cityd"
-        },
-        {
-          "code": "hr.citye"
-        },
-        {
-          "code": "hr.mohali"
-        },
-        {
-          "code": "hr.dharamshala"
-        },
-        {
-          "code": "hr.shimla"
-        },
-        {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         } 
       ]
     },
@@ -840,19 +1047,37 @@
           "code": "hr.cityd"
         },
         {
-          "code": "hr.citye"
-        },
-        {
-          "code": "hr.mohali"
-        },
-        {
-          "code": "hr.dharamshala"
-        },
-        {
-          "code": "hr.shimla"
-        },
-        {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     } ,
@@ -872,13 +1097,37 @@
           "code": "hr.cityc"
         },
         {
-          "code": "hr.cityd"
-        },
-        {
-          "code": "hr.citye"
-        },
-        {
           "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.thanesar"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.ratia"
+        },
+        {
+          "code": "hr.pataudi"
         }
       ]
     },
