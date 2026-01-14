@@ -3,10 +3,7 @@
   "moduleName": "egov-location",
   "TenantBoundary": [
     {
-      "hierarchyType": {
-        "code": "REVENUE",
-        "name": "REVENUE"
-      },
+      "hierarchyType": { "code": "REVENUE", "name": "REVENUE" },
       "boundary": {
         "id": "1",
         "boundaryNum": "1",
@@ -26,7 +23,12 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL01",
-            "children": []
+            "children": [
+              { "name": "Saketri", "code": "PKL01-SAK", "children": [] },
+              { "name": "Bhainsa Tibba", "code": "PKL01-BT", "children": [] },
+              { "name": "MDC Sector 4", "code": "PKL01-S4", "children": [] },
+              { "name": "MDC Sector 6", "code": "PKL01-S6", "children": [] }
+            ]
           },
           {
             "id": "3",
@@ -37,7 +39,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL02",
-            "children": []
+            "children": [
+              { "name": "MDC Sector 5", "code": "PKL02-S5", "children": [] },
+              { "name": "Sector 6", "code": "PKL02-S6", "children": [] },
+              { "name": "Majri Village", "code": "PKL02-MJV", "children": [] }
+            ]
           },
           {
             "id": "4",
@@ -48,7 +54,10 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL03",
-            "children": []
+            "children": [
+              { "name": "Sector 7", "code": "PKL03-S7", "children": [] },
+              { "name": "Sector 8", "code": "PKL03-S8", "children": [] }
+            ]
           },
           {
             "id": "5",
@@ -59,7 +68,10 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL04",
-            "children": []
+            "children": [
+              { "name": "Sector 9", "code": "PKL04-S9", "children": [] },
+              { "name": "Sector 10", "code": "PKL04-S10", "children": [] }
+            ]
           },
           {
             "id": "6",
@@ -70,7 +82,9 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL05",
-            "children": []
+            "children": [
+              { "name": "Sector 15", "code": "PKL05-S15", "children": [] }
+            ]
           },
           {
             "id": "7",
@@ -81,7 +95,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL06",
-            "children": []
+            "children": [
+              { "name": "Sector 16", "code": "PKL06-S16", "children": [] },
+              { "name": "Sector 17", "code": "PKL06-S17", "children": [] },
+              { "name": "Sector 18", "code": "PKL06-S18", "children": [] }
+            ]
           },
           {
             "id": "8",
@@ -92,7 +110,9 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL07",
-            "children": []
+            "children": [
+              { "name": "Rajiv Colony", "code": "PKL07-RC", "children": [] }
+            ]
           },
           {
             "id": "9",
@@ -103,7 +123,10 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL08",
-            "children": []
+            "children": [
+              { "name": "Indira Colony", "code": "PKL08-IC", "children": [] },
+              { "name": "Budhanpur", "code": "PKL08-BP", "children": [] }
+            ]
           },
           {
             "id": "10",
@@ -114,7 +137,10 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL09",
-            "children": []
+            "children": [
+              { "name": "Sector 19", "code": "PKL09-S19", "children": [] },
+              { "name": "Industrial Area Phase-II", "code": "PKL09-IA2", "children": [] }
+            ]
           },
           {
             "id": "11",
@@ -125,7 +151,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL10",
-            "children": []
+            "children": [
+              { "name": "Abheypur", "code": "PKL10-AP", "children": [] },
+              { "name": "Sector 14", "code": "PKL10-S14", "children": [] },
+              { "name": "Industrial Area Phase-I", "code": "PKL10-IA1", "children": [] }
+            ]
           },
           {
             "id": "12",
@@ -136,7 +166,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL11",
-            "children": []
+            "children": [
+              { "name": "Sector 12", "code": "PKL11-S12", "children": [] },
+              { "name": "Sector 12A", "code": "PKL11-S12A", "children": [] },
+              { "name": "Rally Village", "code": "PKL11-RV", "children": [] }
+            ]
           },
           {
             "id": "13",
@@ -147,7 +181,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL12",
-            "children": []
+            "children": [
+              { "name": "Sector 11", "code": "PKL12-S11", "children": [] },
+              { "name": "Part of Sector 4", "code": "PKL12-pS4", "children": [] },
+              { "name": "Haripur", "code": "PKL12-HP", "children": [] }
+            ]
           },
           {
             "id": "14",
@@ -158,7 +196,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL13",
-            "children": []
+            "children": [
+              { "name": "Part of Sector 4", "code": "PKL13-pS4", "children": [] },
+              { "name": "Half Sector 21", "code": "PKL13-hS21", "children": [] },
+              { "name": "Devnagar", "code": "PKL13-DN", "children": [] }
+            ]
           },
           {
             "id": "15",
@@ -169,7 +211,12 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL14",
-            "children": []
+            "children": [
+              { "name": "Maheshpur", "code": "PKL14-MP", "children": [] },
+              { "name": "Madrasi Colony", "code": "PKL14-MC", "children": [] },
+              { "name": "Sector 20 Societies", "code": "PKL14-S20", "children": [] },
+              { "name": "Half Sector 21", "code": "PKL14-hS21", "children": [] }
+            ]
           },
           {
             "id": "16",
@@ -180,7 +227,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL15",
-            "children": []
+            "children": [
+              { "name": "Kundli", "code": "PKL15-KU", "children": [] },
+              { "name": "Half Fatehpur", "code": "PKL15-hFP", "children": [] },
+              { "name": "Half Sector 20", "code": "PKL15-hS20", "children": [] }
+            ]
           },
           {
             "id": "17",
@@ -191,7 +242,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL16",
-            "children": []
+            "children": [
+              { "name": "Chandi Kotla", "code": "PKL16-CK", "children": [] },
+              { "name": "Beed Ghaggar", "code": "PKL16-BG", "children": [] },
+              { "name": "Khadak Mangoli", "code": "PKL16-KM", "children": [] }
+            ]
           },
           {
             "id": "18",
@@ -202,7 +257,15 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL17",
-            "children": []
+            "children": [
+              { "name": "Part Khadag Mangoli", "code": "PKL17-pKM", "children": [] },
+              { "name": "Chainki Village", "code": "PKL17-CH", "children": [] },
+              { "name": "Sector 23", "code": "PKL17-S23", "children": [] },
+              { "name": "Sector 24", "code": "PKL17-S24", "children": [] },
+              { "name": "Sector 25", "code": "PKL17-S25", "children": [] },
+              { "name": "Naggal Moginand", "code": "PKL17-NM", "children": [] },
+              { "name": "Nadda", "code": "PKL17-ND", "children": [] }
+            ]
           },
           {
             "id": "19",
@@ -213,7 +276,13 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL18",
-            "children": []
+            "children": [
+              { "name": "Bana", "code": "PKL18-BN", "children": [] },
+              { "name": "Madanpur", "code": "PKL18-MP", "children": [] },
+              { "name": "Sector 26", "code": "PKL18-S26", "children": [] },
+              { "name": "Sector 27", "code": "PKL18-S27", "children": [] },
+              { "name": "Sector 28", "code": "PKL18-S28", "children": [] }
+            ]
           },
           {
             "id": "20",
@@ -224,7 +293,14 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL19",
-            "children": []
+            "children": [
+              { "name": "Ramgarh", "code": "PKL19-RG", "children": [] },
+              { "name": "Billa", "code": "PKL19-BL", "children": [] },
+              { "name": "Jaswantgarh", "code": "PKL19-JG", "children": [] },
+              { "name": "Dabkouri", "code": "PKL19-DB", "children": [] },
+              { "name": "Mankya", "code": "PKL19-MK", "children": [] },
+              { "name": "Bhanu", "code": "PKL19-BH", "children": [] }
+            ]
           },
           {
             "id": "21",
@@ -235,15 +311,24 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL20",
-            "children": []
+            "children": [
+              { "name": "Kot", "code": "PKL20-KT", "children": [] },
+              { "name": "Khangsera", "code": "PKL20-KS", "children": [] },
+              { "name": "Toka", "code": "PKL20-TK", "children": [] },
+              { "name": "Alipur", "code": "PKL20-AP", "children": [] },
+              { "name": "Sukh Darshanpur", "code": "PKL20-SD", "children": [] },
+              { "name": "Naggal", "code": "PKL20-NG", "children": [] },
+              { "name": "Jalauli", "code": "PKL20-JL", "children": [] },
+              { "name": "Khatauli", "code": "PKL20-KH", "children": [] }
+            ]
           }
         ]
       }
     },
     {
-      "hierarchyType": {
-        "code": "ADMIN",
-        "name": "ADMIN"
+      "hierarchyType": { 
+         "code": "ADMIN",
+         "name": "ADMIN" 
       },
       "boundary": {
         "id": "1",
@@ -264,7 +349,12 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL01",
-            "children": []
+            "children": [
+              { "name": "Saketri", "code": "PKL01-SAK", "children": [] },
+              { "name": "Bhainsa Tibba", "code": "PKL01-BT", "children": [] },
+              { "name": "MDC Sector 4", "code": "PKL01-S4", "children": [] },
+              { "name": "MDC Sector 6", "code": "PKL01-S6", "children": [] }
+            ]
           },
           {
             "id": "3",
@@ -275,7 +365,11 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL02",
-            "children": []
+            "children": [
+              { "name": "MDC Sector 5", "code": "PKL02-S5", "children": [] },
+              { "name": "Sector 6", "code": "PKL02-S6", "children": [] },
+              { "name": "Majri Village", "code": "PKL02-MJV", "children": [] }
+            ]
           },
           {
             "id": "4",
@@ -286,7 +380,10 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL03",
-            "children": []
+            "children": [
+              { "name": "Sector 7", "code": "PKL03-S7", "children": [] },
+              { "name": "Sector 8", "code": "PKL03-S8", "children": [] }
+            ]
           },
           {
             "id": "5",
@@ -297,7 +394,10 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL04",
-            "children": []
+            "children": [
+              { "name": "Sector 9", "code": "PKL04-S9", "children": [] },
+              { "name": "Sector 10", "code": "PKL04-S10", "children": [] }
+            ]
           },
           {
             "id": "6",
@@ -308,29 +408,245 @@
             "latitude": null,
             "label": "Ward",
             "code": "PKL05",
-            "children": []
+            "children": [
+              { "name": "Sector 15", "code": "PKL05-S15", "children": [] }
+            ]
           },
           {
             "id": "7",
-            "boundaryNum": "1"',
+            "boundaryNum": "1",
             "name": "Ward 6",
             "localname": "Ward 6",
             "longitude": null,
             "latitude": null,
             "label": "Ward",
             "code": "PKL06",
-            "children": []
+            "children": [
+              { "name": "Sector 16", "code": "PKL06-S16", "children": [] },
+              { "name": "Sector 17", "code": "PKL06-S17", "children": [] },
+              { "name": "Sector 18", "code": "PKL06-S18", "children": [] }
+            ]
           },
           {
-            "id": "8',
-            "boundaryNum": "1',
+            "id": "8",
+            "boundaryNum": "1",
             "name": "Ward 7",
             "localname": "Ward 7",
             "longitude": null,
             "latitude": null,
             "label": "Ward",
             "code": "PKL07",
-            "children": []
+            "children": [
+              { "name": "Rajiv Colony", "code": "PKL07-RC", "children": [] }
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL08",
+            "children": [
+              { "name": "Indira Colony", "code": "PKL08-IC", "children": [] },
+              { "name": "Budhanpur", "code": "PKL08-BP", "children": [] }
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL09",
+            "children": [
+              { "name": "Sector 19", "code": "PKL09-S19", "children": [] },
+              { "name": "Industrial Area Phase-II", "code": "PKL09-IA2", "children": [] }
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL10",
+            "children": [
+              { "name": "Abheypur", "code": "PKL10-AP", "children": [] },
+              { "name": "Sector 14", "code": "PKL10-S14", "children": [] },
+              { "name": "Industrial Area Phase-I", "code": "PKL10-IA1", "children": [] }
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL11",
+            "children": [
+              { "name": "Sector 12", "code": "PKL11-S12", "children": [] },
+              { "name": "Sector 12A", "code": "PKL11-S12A", "children": [] },
+              { "name": "Rally Village", "code": "PKL11-RV", "children": [] }
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL12",
+            "children": [
+              { "name": "Sector 11", "code": "PKL12-S11", "children": [] },
+              { "name": "Part of Sector 4", "code": "PKL12-pS4", "children": [] },
+              { "name": "Haripur", "code": "PKL12-HP", "children": [] }
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": "1",
+            "name": "Ward 13",
+            "localname": "Ward 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL13",
+            "children": [
+              { "name": "Part of Sector 4", "code": "PKL13-pS4", "children": [] },
+              { "name": "Half Sector 21", "code": "PKL13-hS21", "children": [] },
+              { "name": "Devnagar", "code": "PKL13-DN", "children": [] }
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": "1",
+            "name": "Ward 14",
+            "localname": "Ward 14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL14",
+            "children": [
+              { "name": "Maheshpur", "code": "PKL14-MP", "children": [] },
+              { "name": "Madrasi Colony", "code": "PKL14-MC", "children": [] },
+              { "name": "Sector 20 Societies", "code": "PKL14-S20", "children": [] },
+              { "name": "Half Sector 21", "code": "PKL14-hS21", "children": [] }
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": "1",
+            "name": "Ward 15",
+            "localname": "Ward 15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL15",
+            "children": [
+              { "name": "Kundli", "code": "PKL15-KU", "children": [] },
+              { "name": "Half Fatehpur", "code": "PKL15-hFP", "children": [] },
+              { "name": "Half Sector 20", "code": "PKL15-hS20", "children": [] }
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": "1",
+            "name": "Ward 16",
+            "localname": "Ward 16",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL16",
+            "children": [
+              { "name": "Chandi Kotla", "code": "PKL16-CK", "children": [] },
+              { "name": "Beed Ghaggar", "code": "PKL16-BG", "children": [] },
+              { "name": "Khadak Mangoli", "code": "PKL16-KM", "children": [] }
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": "1",
+            "name": "Ward 17",
+            "localname": "Ward 17",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL17",
+            "children": [
+              { "name": "Part Khadag Mangoli", "code": "PKL17-pKM", "children": [] },
+              { "name": "Chainki Village", "code": "PKL17-CH", "children": [] },
+              { "name": "Sector 23", "code": "PKL17-S23", "children": [] },
+              { "name": "Sector 24", "code": "PKL17-S24", "children": [] },
+              { "name": "Sector 25", "code": "PKL17-S25", "children": [] },
+              { "name": "Naggal Moginand", "code": "PKL17-NM", "children": [] },
+              { "name": "Nadda", "code": "PKL17-ND", "children": [] }
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": "1",
+            "name": "Ward 18",
+            "localname": "Ward 18",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL18",
+            "children": [
+              { "name": "Bana", "code": "PKL18-BN", "children": [] },
+              { "name": "Madanpur", "code": "PKL18-MP", "children": [] },
+              { "name": "Sector 26", "code": "PKL18-S26", "children": [] },
+              { "name": "Sector 27", "code": "PKL18-S27", "children": [] },
+              { "name": "Sector 28", "code": "PKL18-S28", "children": [] }
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": "1",
+            "name": "Ward 19",
+            "localname": "Ward 19",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL19",
+            "children": [
+              { "name": "Ramgarh", "code": "PKL19-RG", "children": [] },
+              { "name": "Billa", "code": "PKL19-BL", "children": [] },
+              { "name": "Jaswantgarh", "code": "PKL19-JG", "children": [] },
+              { "name": "Dabkouri", "code": "PKL19-DB", "children": [] },
+              { "name": "Mankya", "code": "PKL19-MK", "children": [] },
+              { "name": "Bhanu", "code": "PKL19-BH", "children": [] }
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": "1",
+            "name": "Ward 20",
+            "localname": "Ward 20",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "PKL20",
+            "children": [
+              { "name": "Kot", "code": "PKL20-KT", "children": [] },
+              { "name": "Khangsera", "code": "PKL20-KS", "children": [] },
+              { "name": "Toka", "code": "PKL20-TK", "children": [] },
+              { "name": "Alipur", "code": "PKL20-AP", "children": [] },
+              { "name": "Sukh Darshanpur", "code": "PKL20-SD", "children": [] },
+              { "name": "Naggal", "code": "PKL20-NG", "children": [] },
+              { "name": "Jalauli", "code": "PKL20-JL", "children": [] },
+              { "name": "Khatauli", "code": "PKL20-KH", "children": [] }
+            ]
           }
         ]
       }
