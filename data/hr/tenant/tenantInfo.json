@@ -22,7 +22,6 @@
       "literacyRate": "69.46",
       "languagesSpoken": ["PN", "GR", "HN"]
     },
-  
     {
       "code": "hr.cityc",
       "districtCode": "CITYC",
@@ -34,54 +33,114 @@
       "languagesSpoken": ["GR", "PN", "HN"]
     },
     {
-      "code": "hr.cityd",
-      "districtCode": "CITYD",
-      "population": "12507",
-      "malePopulation": "6810",
-      "femalePopultion": "5697",
-      "workingPopulation": "33.70",
-      "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "PN", "EN"]
-    },
-    {
-      "code": "hr.citye",
-      "districtCode": "CITYE",
-      "population": "12507",
-      "malePopulation": "6810",
-      "femalePopultion": "5697",
-      "workingPopulation": "33.70",
-      "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "PN", "EN"]
-    },
-    {
-      "code": "hr.mohali",
-      "districtCode": "MOHALI",
-      "population": "12507",
-      "malePopulation": "6810",
-      "femalePopultion": "5697",
-      "workingPopulation": "33.70",
-      "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "PN", "EN"]
-    },
-    {
-      "code": "hr.dharamshala",
-      "districtCode": "DHARAMSHALA",
-      "population": "12510",
-      "malePopulation": "6815",
-      "femalePopultion": "5700",
-      "workingPopulation": "33.70",
-      "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "PN", "EN"]
-    },
-    {
-      "code": "hr.gurugram",
-      "districtCode": "GURUGRAM",
-      "population": "12510",
-      "malePopulation": "6815",
-      "femalePopultion": "5700",
-      "workingPopulation": "33.70",
-      "literacyRate": "57.41",
-      "languagesSpoken": ["HN", "PN", "EN"]
-    }    
+    "code": "hr.gurugram",
+    "districtCode": "GURUGRAM",
+    "population": "1200000",
+    "malePopulation": "650000",
+    "femalePopulation": "550000",
+    "workingPopulation": "45.00",
+    "literacyRate": "88.00",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.panchkula",
+    "districtCode": "PANCHKULA",
+    "population": "240945",
+    "malePopulation": "127000",
+    "femalePopulation": "113945",
+    "workingPopulation": "38.00",
+    "literacyRate": "86.00",
+    "languagesSpoken": ["HI", "PA", "EN"]
+  },
+  {
+    "code": "hr.sohna",
+    "districtCode": "GURUGRAM",
+    "population": "52000",
+    "malePopulation": "27000",
+    "femalePopulation": "25000",
+    "workingPopulation": "36.00",
+    "literacyRatePercentage": "79.30",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.rewari",
+    "districtCode": "REWARI",
+    "population": "143000",
+    "malePopulation": "74500",
+    "femalePopulation": "68500",
+    "workingPopulation": "37.00",
+    "literacyRate": "80.90",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.thanesar",
+    "districtCode": "KURUKSHETRA",
+    "population": "398000",
+    "malePopulation": "209000",
+    "femalePopulation": "189000",
+    "workingPopulation": "39.00",
+    "literacyRate": "83.00",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.farrukhnagar",
+    "districtCode": "GURUGRAM",
+    "population": "20000",
+    "malePopulation": "10400",
+    "femalePopulation": "9600",
+    "workingPopulation": "35.00",
+    "literacyRate": "80.30",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.samalkha",
+    "districtCode": "PANIPAT",
+    "population": "40000",
+    "malePopulation": "21500",
+    "femalePopulation": "18500",
+    "workingPopulation": "36.00",
+    "literacyRate": "78.00",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.sampla",
+    "districtCode": "ROHTAK",
+    "population": "35000",
+    "malePopulation": "18000",
+    "femalePopulation": "17000",
+    "workingPopulation": "35.00",
+    "literacyRate": "80.20",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.kundli",
+    "districtCode": "SONIPAT",
+    "population": "33000",
+    "malePopulation": "16800",
+    "femalePopulation": "16200",
+    "workingPopulation": "37.00",
+    "literacyRate": "79.80",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.ratia",
+    "districtCode": "FATEHABAD",
+    "population": "38000",
+    "malePopulation": "19500",
+    "femalePopulation": "18500",
+    "workingPopulation": "34.00",
+    "literacyRate": "72.90",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  },
+  {
+    "code": "hr.pataudi",
+    "districtCode": "GURUGRAM",
+    "population": "30400",
+    "malePopulation": "15600",
+    "femalePopulation": "14800",
+    "workingPopulation": "34.00",
+    "literacyRate": "75.20",
+    "languagesSpoken": ["HI", "HR", "EN"]
+  }
   ]
 }
