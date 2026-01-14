@@ -1,118 +1,306 @@
 {
-    "tenantId": "pg.dharamshala",
-    "moduleName": "egov-location",
-    "TenantBoundary": [
-      {
-        "hierarchyType": {
-          "code": "ADMIN",
-          "name": "ADMIN"
-        },
-        "boundary": 
-        {
-          "id": 1,
-          "boundaryNum": 1,
-          "name": "Dharamshala",
-          "localname": "Dharamshala",
-          "longitude": null,
-          "latitude": null,
-          "label": "City",
-          "code": "pg.dharamshala",
-          "children": [
-            {
-              "id": "049d92a9-dbdf-4ba5-9dbf-7969a45c9227",
-              "boundaryNum": 1,
-              "name": "Dharamshala Municipal Corporation",
-              "localname": "M.C. Dharamshala",
-              "longitude": null,
-              "latitude": null,
-              "label": "Zone",
-              "code": "z1",
-              "children": [
-                {
-                  "id": "7884aa0a-7164-4cb1-adea-6a252bf8bf11",
-                  "boundaryNum": 1,
-                  "name": "WARD-1",
-                  "localname": "WARD-1",
-                  "longitude": null,
-                  "latitude": null,
-                  "label": "Block",
-                  "code": "MW1",
-                  "children": [
-                    {
-                      "id": "5f85af98-111c-4a46-9b6a-23c351de2d59",
-                      "boundaryNum": 1,
-                      "name": "Dharamshala Municipal Corporation",
-                      "localname": "Dharamshala Municipal Corporation",
-                      "longitude": null,
-                      "latitude": null,
-                      "label": "Locality",
-                      "code": "MLC13",
-                      "pincode": [176215],
-                      "area": "",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+  "tenantId": "hr.farrukhnagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
       },
-      {
-        "hierarchyType": {
-          "code": "REVENUE",
-          "name": "REVENUE"
-        },
-        "boundary": {
-          "id": 1,
-          "boundaryNum": 1,
-          "name": "Dharamshala",
-          "localname": "Dharamshala",
-          "longitude": null,
-          "latitude": null,
-          "label": "City",
-          "code": "pg.dharamshala",
-          "children": [
-            {
-              "id": "b39608bf-7b92-491d-920b-bbeefafc6c49",
-              "boundaryNum": 1,
-              "name": "Zone 1",
-              "localname": "Zone 1",
-              "longitude": null,
-              "latitude": null,
-              "label": "Zone",
-              "code": "Z1",
-              "children": [
-                {
-                  "id": "6e13e402-176c-4a25-a19b-381c9f3b6010",
-                  "boundaryNum": 1,
-                  "name": "Block 1",
-                  "localname": "Block 1",
-                  "longitude": null,
-                  "latitude": null,
-                  "label": "Block",
-                  "code": "B1",
-                  "children": [
-                    {
-                      "id": "6e0de390-db43-4b9d-b43a-2c7de32a9c7b",
-                      "boundaryNum": 1,
-                      "name": "Municipal Corporation Dharamshala",
-                      "localname": "Municipal Corporation Dharamshala",
-                      "longitude": null,
-                      "latitude": null,
-                      "label": "Locality",
-                      "code": "MH1",
-                      "pincode": [176215],
-                      "area": "AREA1",
-                      "children": []
-                    }
-                  ]
-                }
-              ]
-            }
-          ]
-        }
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Farrukhnagar",
+        "localname": "Farrukhnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.farrukhnagar",
+        "children": [
+          {
+            "id": "101",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "label": "Ward",
+            "code": "FRG01",
+            "children": [
+              { "id": "1011", "name": "Old Anaj Mandi", "localname": "Old Anaj Mandi", "label": "Locality", "code": "FRG01L01" },
+              { "id": "1012", "name": "Main Bazaar", "localname": "Main Bazaar", "label": "Locality", "code": "FRG01L02" }
+            ]
+          },
+          {
+            "id": "102",
+            "boundaryNum": "2",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "label": "Ward",
+            "code": "FRG02",
+            "children": [
+              { "id": "1021", "name": "Lohar Mohalla", "localname": "Lohar Mohalla", "label": "Locality", "code": "FRG02L01" },
+              { "id": "1022", "name": "Khatik Mohalla", "localname": "Khatik Mohalla", "label": "Locality", "code": "FRG02L02" }
+            ]
+          },
+          {
+            "id": "103",
+            "boundaryNum": "3",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "label": "Ward",
+            "code": "FRG03",
+            "children": [
+              { "id": "1031", "name": "Shiv Colony", "localname": "Shiv Colony", "label": "Locality", "code": "FRG03L01" },
+              { "id": "1032", "name": "Ambedkar Nagar", "localname": "Ambedkar Nagar", "label": "Locality", "code": "FRG03L02" }
+            ]
+          },
+          {
+            "id": "104",
+            "boundaryNum": "4",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "label": "Ward",
+            "code": "FRG04",
+            "children": [
+              { "id": "1041", "name": "Valmiki Basti", "localname": "Valmiki Basti", "label": "Locality", "code": "FRG04L01" },
+              { "id": "1042", "name": "Janta Colony", "localname": "Janta Colony", "label": "Locality", "code": "FRG04L02" }
+            ]
+          },
+          {
+            "id": "105",
+            "boundaryNum": "5",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "label": "Ward",
+            "code": "FRG05",
+            "children": [
+              { "id": "1051", "name": "Gandhi Nagar", "localname": "Gandhi Nagar", "label": "Locality", "code": "FRG05L01" },
+              { "id": "1052", "name": "Indira Colony", "localname": "Indira Colony", "label": "Locality", "code": "FRG05L02" }
+            ]
+          },
+          {
+            "id": "106",
+            "boundaryNum": "6",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "label": "Ward",
+            "code": "FRG06",
+            "children": [
+              { "id": "1061", "name": "Meera Vihar", "localname": "Meera Vihar", "label": "Locality", "code": "FRG06L01" },
+              { "id": "1062", "name": "Krishna Colony", "localname": "Krishna Colony", "label": "Locality", "code": "FRG06L02" }
+            ]
+          },
+          {
+            "id": "107",
+            "boundaryNum": "7",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "label": "Ward",
+            "code": "FRG07",
+            "children": [
+              { "id": "1071", "name": "Model Town", "localname": "Model Town", "label": "Locality", "code": "FRG07L01" },
+              { "id": "1072", "name": "Shastri Nagar", "localname": "Shastri Nagar", "label": "Locality", "code": "FRG07L02" }
+            ]
+          },
+          {
+            "id": "108",
+            "boundaryNum": "8",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "label": "Ward",
+            "code": "FRG08",
+            "children": [
+              { "id": "1081", "name": "Ram Nagar", "localname": "Ram Nagar", "label": "Locality", "code": "FRG08L01" },
+              { "id": "1082", "name": "Prem Nagar", "localname": "Prem Nagar", "label": "Locality", "code": "FRG08L02" }
+            ]
+          },
+          {
+            "id": "109",
+            "boundaryNum": "9",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "label": "Ward",
+            "code": "FRG09",
+            "children": [
+              { "id": "1091", "name": "Azad Nagar", "localname": "Azad Nagar", "label": "Locality", "code": "FRG09L01" },
+              { "id": "1092", "name": "Hari Nagar", "localname": "Hari Nagar", "label": "Locality", "code": "FRG09L02" }
+            ]
+          },
+          {
+            "id": "110",
+            "boundaryNum": "10",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "label": "Ward",
+            "code": "FRG10",
+            "children": [
+              { "id": "1101", "name": "Sainik Colony", "localname": "Sainik Colony", "label": "Locality", "code": "FRG10L01" },
+              { "id": "1102", "name": "Railway Road Area", "localname": "Railway Road Area", "label": "Locality", "code": "FRG10L02" }
+            ]
+          },
+          {
+            "id": "111",
+            "boundaryNum": "11",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "label": "Ward",
+            "code": "FRG11",
+            "children": [
+              { "id": "1111", "name": "Industrial Area", "localname": "Industrial Area", "label": "Locality", "code": "FRG11L01" },
+              { "id": "1112", "name": "New Housing Board Colony", "localname": "New Housing Board Colony", "label": "Locality", "code": "FRG11L02" }
+            ]
+          }
+        ]
       }
-    ]
-  }
-  
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "100",
+        "boundaryNum": "1",
+        "name": "Farrukhnagar",
+        "localname": "Farrukhnagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.farrukhnagar",
+        "children": [
+         {
+            "id": "101",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "label": "Ward",
+            "code": "FRG01",
+            "children": [
+              { "id": "1011", "name": "Old Anaj Mandi", "localname": "Old Anaj Mandi", "label": "Locality", "code": "FRG01L01" },
+              { "id": "1012", "name": "Main Bazaar", "localname": "Main Bazaar", "label": "Locality", "code": "FRG01L02" }
+            ]
+          },
+          {
+            "id": "102",
+            "boundaryNum": "2",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "label": "Ward",
+            "code": "FRG02",
+            "children": [
+              { "id": "1021", "name": "Lohar Mohalla", "localname": "Lohar Mohalla", "label": "Locality", "code": "FRG02L01" },
+              { "id": "1022", "name": "Khatik Mohalla", "localname": "Khatik Mohalla", "label": "Locality", "code": "FRG02L02" }
+            ]
+          },
+          {
+            "id": "103",
+            "boundaryNum": "3",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "label": "Ward",
+            "code": "FRG03",
+            "children": [
+              { "id": "1031", "name": "Shiv Colony", "localname": "Shiv Colony", "label": "Locality", "code": "FRG03L01" },
+              { "id": "1032", "name": "Ambedkar Nagar", "localname": "Ambedkar Nagar", "label": "Locality", "code": "FRG03L02" }
+            ]
+          },
+          {
+            "id": "104",
+            "boundaryNum": "4",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "label": "Ward",
+            "code": "FRG04",
+            "children": [
+              { "id": "1041", "name": "Valmiki Basti", "localname": "Valmiki Basti", "label": "Locality", "code": "FRG04L01" },
+              { "id": "1042", "name": "Janta Colony", "localname": "Janta Colony", "label": "Locality", "code": "FRG04L02" }
+            ]
+          },
+          {
+            "id": "105",
+            "boundaryNum": "5",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "label": "Ward",
+            "code": "FRG05",
+            "children": [
+              { "id": "1051", "name": "Gandhi Nagar", "localname": "Gandhi Nagar", "label": "Locality", "code": "FRG05L01" },
+              { "id": "1052", "name": "Indira Colony", "localname": "Indira Colony", "label": "Locality", "code": "FRG05L02" }
+            ]
+          },
+          {
+            "id": "106",
+            "boundaryNum": "6",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "label": "Ward",
+            "code": "FRG06",
+            "children": [
+              { "id": "1061", "name": "Meera Vihar", "localname": "Meera Vihar", "label": "Locality", "code": "FRG06L01" },
+              { "id": "1062", "name": "Krishna Colony", "localname": "Krishna Colony", "label": "Locality", "code": "FRG06L02" }
+            ]
+          },
+          {
+            "id": "107",
+            "boundaryNum": "7",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "label": "Ward",
+            "code": "FRG07",
+            "children": [
+              { "id": "1071", "name": "Model Town", "localname": "Model Town", "label": "Locality", "code": "FRG07L01" },
+              { "id": "1072", "name": "Shastri Nagar", "localname": "Shastri Nagar", "label": "Locality", "code": "FRG07L02" }
+            ]
+          },
+          {
+            "id": "108",
+            "boundaryNum": "8",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "label": "Ward",
+            "code": "FRG08",
+            "children": [
+              { "id": "1081", "name": "Ram Nagar", "localname": "Ram Nagar", "label": "Locality", "code": "FRG08L01" },
+              { "id": "1082", "name": "Prem Nagar", "localname": "Prem Nagar", "label": "Locality", "code": "FRG08L02" }
+            ]
+          },
+          {
+            "id": "109",
+            "boundaryNum": "9",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "label": "Ward",
+            "code": "FRG09",
+            "children": [
+              { "id": "1091", "name": "Azad Nagar", "localname": "Azad Nagar", "label": "Locality", "code": "FRG09L01" },
+              { "id": "1092", "name": "Hari Nagar", "localname": "Hari Nagar", "label": "Locality", "code": "FRG09L02" }
+            ]
+          },
+          {
+            "id": "110",
+            "boundaryNum": "10",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "label": "Ward",
+            "code": "FRG10",
+            "children": [
+              { "id": "1101", "name": "Sainik Colony", "localname": "Sainik Colony", "label": "Locality", "code": "FRG10L01" },
+              { "id": "1102", "name": "Railway Road Area", "localname": "Railway Road Area", "label": "Locality", "code": "FRG10L02" }
+            ]
+          },
+          {
+            "id": "111",
+            "boundaryNum": "11",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "label": "Ward",
+            "code": "FRG11",
+            "children": [
+              { "id": "1111", "name": "Industrial Area", "localname": "Industrial Area", "label": "Locality", "code": "FRG11L01" },
+              { "id": "1112", "name": "New Housing Board Colony", "localname": "New Housing Board Colony", "label": "Locality", "code": "FRG11L02" }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
