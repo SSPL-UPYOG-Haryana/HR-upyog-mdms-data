@@ -1,5 +1,5 @@
 {
-  "tenantId": "hr.cityc",
+  "tenantId": "hr.sohna",
   "moduleName": "FinanceModule",
   "BankAccountServiceMapping": [
     {
@@ -7,7 +7,7 @@
       "bankAccount": "000000000001",
       "bank": "Allahabad UP Gramin Bank",
       "bankBranch": "001",
-      "tenantId": "pg.cityc"
+      "tenantId": "hr.sohna"
     }
   ]
 }
