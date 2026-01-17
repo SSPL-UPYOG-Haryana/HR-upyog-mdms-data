@@ -1395,6 +1395,16 @@
       "debitGL": "3503010",
       "creditGL": "3503010",
       "active": true
+    },
+    {
+      "serviceCode": "WNS",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "bank",
+      "componentCode": "WNSCC01",
+      "debitGL": "4502100003",
+      "creditGL": "4502100003",
+      "active": true
     }
   ]
 }
