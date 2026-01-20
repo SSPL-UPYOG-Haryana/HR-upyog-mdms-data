@@ -19522,7 +19522,7 @@
       "parentModule": "EGF",
       "displayName": "FundAndSchemewise Budget",
       "orderNumber": 1,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceReport",
       "code": "null",
       "path": "Finance.Report Generation.Budget Reports.FundAndSchemewise Budget",
