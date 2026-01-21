@@ -19621,7 +19621,7 @@
       "parentModule": "EGF",
       "displayName": "Search Budget",
       "orderNumber": 9,
-      "enabled": true,
+      "enabled": false,
       "serviceCode": "FinanceBudget",
       "code": "null",
       "leftIcon": "editor:insert-chart",
