@@ -1,0 +1,114 @@
+{
+  "tenantId": "hr.palwal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Palwal",
+        "localname": "Palwal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.palwal",
+        "children": [
+          {
+            "id": "Z1",
+            "boundaryNum": "1",
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "label": "Zone",
+            "code": "PAL-ADM-Z1",
+            "children": [
+              { "id": "W01", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "label": "Ward", "code": "PAL-ADM-01", "children": [] },
+              { "id": "W02", "boundaryNum": "2", "name": "Ward 2", "localname": "Ward 2", "label": "Ward", "code": "PAL-ADM-02", "children": [] },
+              { "id": "W03", "boundaryNum": "3", "name": "Ward 3", "localname": "Ward 3", "label": "Ward", "code": "PAL-ADM-03", "children": [] },
+              { "id": "W04", "boundaryNum": "4", "name": "Ward 4", "localname": "Ward 4", "label": "Ward", "code": "PAL-ADM-04", "children": [] },
+              { "id": "W05", "boundaryNum": "5", "name": "Ward 5", "localname": "Ward 5", "label": "Ward", "code": "PAL-ADM-05", "children": [] },
+              { "id": "W06", "boundaryNum": "6", "name": "Ward 6", "localname": "Ward 6", "label": "Ward", "code": "PAL-ADM-06", "children": [] },
+              { "id": "W07", "boundaryNum": "7", "name": "Ward 7", "localname": "Ward 7", "label": "Ward", "code": "PAL-ADM-07", "children": [] },
+              { "id": "W08", "boundaryNum": "8", "name": "Ward 8", "localname": "Ward 8", "label": "Ward", "code": "PAL-ADM-08", "children": [] },
+              { "id": "W09", "boundaryNum": "9", "name": "Ward 9", "localname": "Ward 9", "label": "Ward", "code": "PAL-ADM-09", "children": [] },
+              { "id": "W10", "boundaryNum": "10", "name": "Ward 10", "localname": "Ward 10", "label": "Ward", "code": "PAL-ADM-10", "children": [] },
+              { "id": "W11", "boundaryNum": "11", "name": "Ward 11", "localname": "Ward 11", "label": "Ward", "code": "PAL-ADM-11", "children": [] },
+              { "id": "W12", "boundaryNum": "12", "name": "Ward 12", "localname": "Ward 12", "label": "Ward", "code": "PAL-ADM-12", "children": [] },
+              { "id": "W13", "boundaryNum": "13", "name": "Ward 13", "localname": "Ward 13", "label": "Ward", "code": "PAL-ADM-13", "children": [] },
+              { "id": "W14", "boundaryNum": "14", "name": "Ward 14", "localname": "Ward 14", "label": "Ward", "code": "PAL-ADM-14", "children": [] },
+              { "id": "W15", "boundaryNum": "15", "name": "Ward 15", "localname": "Ward 15", "label": "Ward", "code": "PAL-ADM-15", "children": [] },
+              { "id": "W16", "boundaryNum": "16", "name": "Ward 16", "localname": "Ward 16", "label": "Ward", "code": "PAL-ADM-16", "children": [] },
+              { "id": "W17", "boundaryNum": "17", "name": "Ward 17", "localname": "Ward 17", "label": "Ward", "code": "PAL-ADM-17", "children": [] },
+              { "id": "W18", "boundaryNum": "18", "name": "Ward 18", "localname": "Ward 18", "label": "Ward", "code": "PAL-ADM-18", "children": [] },
+              { "id": "W19", "boundaryNum": "19", "name": "Ward 19", "localname": "Ward 19", "label": "Ward", "code": "PAL-ADM-19", "children": [] },
+              { "id": "W20", "boundaryNum": "20", "name": "Ward 20", "localname": "Ward 20", "label": "Ward", "code": "PAL-ADM-20", "children": [] },
+              { "id": "W21", "boundaryNum": "21", "name": "Ward 21", "localname": "Ward 21", "label": "Ward", "code": "PAL-ADM-21", "children": [] },
+              { "id": "W22", "boundaryNum": "22", "name": "Ward 22", "localname": "Ward 22", "label": "Ward", "code": "PAL-ADM-22", "children": [] },
+              { "id": "W23", "boundaryNum": "23", "name": "Ward 23", "localname": "Ward 23", "label": "Ward", "code": "PAL-ADM-23", "children": [] },
+              { "id": "W24", "boundaryNum": "24", "name": "Ward 24", "localname": "Ward 24", "label": "Ward", "code": "PAL-ADM-24", "children": [] },
+              { "id": "W25", "boundaryNum": "25", "name": "Ward 25", "localname": "Ward 25", "label": "Ward", "code": "PAL-ADM-25", "children": [] },
+              { "id": "W26", "boundaryNum": "26", "name": "Ward 26", "localname": "Ward 26", "label": "Ward", "code": "PAL-ADM-26", "children": [] },
+              { "id": "W27", "boundaryNum": "27", "name": "Ward 27", "localname": "Ward 27", "label": "Ward", "code": "PAL-ADM-27", "children": [] },
+              { "id": "W28", "boundaryNum": "28", "name": "Ward 28", "localname": "Ward 28", "label": "Ward", "code": "PAL-ADM-28", "children": [] },
+              { "id": "W29", "boundaryNum": "29", "name": "Ward 29", "localname": "Ward 29", "label": "Ward", "code": "PAL-ADM-29", "children": [] },
+              { "id": "W30", "boundaryNum": "30", "name": "Ward 30", "localname": "Ward 30", "label": "Ward", "code": "PAL-ADM-30", "children": [] },
+              { "id": "W31", "boundaryNum": "31", "name": "Ward 31", "localname": "Ward 31", "label": "Ward", "code": "PAL-ADM-31", "children": [] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Palwal",
+        "localname": "Palwal",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.palwal",
+        "children": [
+          { "id": "W01", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "label": "Ward", "code": "PAL-REV-01", "children": [] },
+          { "id": "W02", "boundaryNum": "2", "name": "Ward 2", "localname": "Ward 2", "label": "Ward", "code": "PAL-REV-02", "children": [] },
+          { "id": "W03", "boundaryNum": "3", "name": "Ward 3", "localname": "Ward 3", "label": "Ward", "code": "PAL-REV-03", "children": [] },
+          { "id": "W04", "boundaryNum": "4", "name": "Ward 4", "localname": "Ward 4", "label": "Ward", "code": "PAL-REV-04", "children": [] },
+          { "id": "W05", "boundaryNum": "5", "name": "Ward 5", "localname": "Ward 5", "label": "Ward", "code": "PAL-REV-05", "children": [] },
+          { "id": "W06", "boundaryNum": "6", "name": "Ward 6", "localname": "Ward 6", "label": "Ward", "code": "PAL-REV-06", "children": [] },
+          { "id": "W07", "boundaryNum": "7", "name": "Ward 7", "localname": "Ward 7", "label": "Ward", "code": "PAL-REV-07", "children": [] },
+          { "id": "W08", "boundaryNum": "8", "name": "Ward 8", "localname": "Ward 8", "label": "Ward", "code": "PAL-REV-08", "children": [] },
+          { "id": "W09", "boundaryNum": "9", "name": "Ward 9", "localname": "Ward 9", "label": "Ward", "code": "PAL-REV-09", "children": [] },
+          { "id": "W10", "boundaryNum": "10", "name": "Ward 10", "localname": "Ward 10", "label": "Ward", "code": "PAL-REV-10", "children": [] },
+          { "id": "W11", "boundaryNum": "11", "name": "Ward 11", "localname": "Ward 11", "label": "Ward", "code": "PAL-REV-11", "children": [] },
+          { "id": "W12", "boundaryNum": "12", "name": "Ward 12", "localname": "Ward 12", "label": "Ward", "code": "PAL-REV-12", "children": [] },
+          { "id": "W13", "boundaryNum": "13", "name": "Ward 13", "localname": "Ward 13", "label": "Ward", "code": "PAL-REV-13", "children": [] },
+          { "id": "W14", "boundaryNum": "14", "name": "Ward 14", "localname": "Ward 14", "label": "Ward", "code": "PAL-REV-14", "children": [] },
+          { "id": "W15", "boundaryNum": "15", "name": "Ward 15", "localname": "Ward 15", "label": "Ward", "code": "PAL-REV-15", "children": [] },
+          { "id": "W16", "boundaryNum": "16", "name": "Ward 16", "localname": "Ward 16", "label": "Ward", "code": "PAL-REV-16", "children": [] },
+          { "id": "W17", "boundaryNum": "17", "name": "Ward 17", "localname": "Ward 17", "label": "Ward", "code": "PAL-REV-17", "children": [] },
+          { "id": "W18", "boundaryNum": "18", "name": "Ward 18", "localname": "Ward 18", "label": "Ward", "code": "PAL-REV-18", "children": [] },
+          { "id": "W19", "boundaryNum": "19", "name": "Ward 19", "localname": "Ward 19", "label": "Ward", "code": "PAL-REV-19", "children": [] },
+          { "id": "W20", "boundaryNum": "20", "name": "Ward 20", "localname": "Ward 20", "label": "Ward", "code": "PAL-REV-20", "children": [] },
+          { "id": "W21", "boundaryNum": "21", "name": "Ward 21", "localname": "Ward 21", "label": "Ward", "code": "PAL-REV-21", "children": [] },
+          { "id": "W22", "boundaryNum": "22", "name": "Ward 22", "localname": "Ward 22", "label": "Ward", "code": "PAL-REV-22", "children": [] },
+          { "id": "W23", "boundaryNum": "23", "name": "Ward 23", "localname": "Ward 23", "label": "Ward", "code": "PAL-REV-23", "children": [] },
+          { "id": "W24", "boundaryNum": "24", "name": "Ward 24", "localname": "Ward 24", "label": "Ward", "code": "PAL-REV-24", "children": [] },
+          { "id": "W25", "boundaryNum": "25", "name": "Ward 25", "localname": "Ward 25", "label": "Ward", "code": "PAL-REV-25", "children": [] },
+          { "id": "W26", "boundaryNum": "26", "name": "Ward 26", "localname": "Ward 26", "label": "Ward", "code": "PAL-REV-26", "children": [] },
+          { "id": "W27", "boundaryNum": "27", "name": "Ward 27", "localname": "Ward 27", "label": "Ward", "code": "PAL-REV-27", "children": [] },
+          { "id": "W28", "boundaryNum": "28", "name": "Ward 28", "localname": "Ward 28", "label": "Ward", "code": "PAL-REV-28", "children": [] },
+          { "id": "W29", "boundaryNum": "29", "name": "Ward 29", "localname": "Ward 29", "label": "Ward", "code": "PAL-REV-29", "children": [] },
+          { "id": "W30", "boundaryNum": "30", "name": "Ward 30", "localname": "Ward 30", "label": "Ward", "code": "PAL-REV-30", "children": [] },
+          { "id": "W31", "boundaryNum": "31", "name": "Ward 31", "localname": "Ward 31", "label": "Ward", "code": "PAL-REV-31", "children": [] }
+        ]
+      }
+    }
+  ]
+}

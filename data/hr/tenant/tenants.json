@@ -479,6 +479,76 @@
       },
       "address": "Ward No. 6, Opp. MC Park, Municipal Committee Pataudi Mandi, Pataudi, Distt. Gurgaon (HR), Pin Code-122503",
       "contactNumber": "0172-2580700"
+    },
+    {
+      "code": "hr.palwal",
+      "name": "Palwal",
+      "description": "Palwal Municipal Council",
+      "pincode": [
+        121102
+      ],
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Haryana-logo.jpeg",
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "secymc.palwal@hry.nic.in",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Palwal",
+        "localName": null,
+        "districtCode": "PALWAL",
+        "districtName": "Palwal",
+        "districtTenantCode": "hr.palwal",
+        "regionName": null,
+        "ulbGrade": "Municipal Council",
+        "longitude": 77.3587679,
+        "latitude": 28.1642325,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "PALWAL01",
+        "ddrName": "Palwal Municipal Council"
+      },
+      "address": "Municipal Council Office, Committee Chowk, Palwal (HR), Pin Code-121102",
+      "contactNumber": "01275-252526"
+    },
+    {
+      "code": "hr.hathin",
+      "name": "Hathin",
+      "description": "Hathin Municipal Committee",
+      "pincode": [
+        121103
+      ],
+      "logoId": "https://hrupyog-dev-finance.s3.ap-south-1.amazonaws.com/Haryana-logo.jpeg",
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mchathin@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "city": {
+        "name": "Hathin",
+        "localName": null,
+        "districtCode": "PALWAL",
+        "districtName": "Palwal",
+        "districtTenantCode": "hr.palwal",
+        "regionName": null,
+        "ulbGrade": "Municipal Committee",
+        "longitude": null,
+        "latitude": null,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "HATHIN01",
+        "ddrName": "Hathin Municipal Committee"
+      },
+      "address": "Main Market, Hathin, Distt. Palwal (HR), Pin Code-121103",
+      "contactNumber": "01275-290366"
     }
   ]
 }
