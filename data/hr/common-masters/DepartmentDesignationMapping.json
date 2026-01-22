@@ -6,70 +6,90 @@
       "departmentCode": "DEPT_1",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_2",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_3",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_4",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_5",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_6",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_7",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_8",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_9",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     },
     {
       "departmentCode": "DEPT_10",
       "designationCodes": [
         "DESIG_01", "DESIG_02", "DESIG_03", "DESIG_04", "DESIG_05", "DESIG_06", "DESIG_07", 
-        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11, DESIG_12, DESIG_13, DESIG_14, DESIG_15, DESIG_16, DESIG_17, DESIG_18, DESIG_19, DESIG_20, DESIG_21, DESIG_22, DESIG_23, DESIG_24"
+        "DESIG_08", "DESIG_09", "DESIG_10", "DESIG_11", "DESIG_12", "DESIG_13", "DESIG_14", 
+        "DESIG_15", "DESIG_16", "DESIG_17", "DESIG_18", "DESIG_19", "DESIG_20", "DESIG_21", 
+        "DESIG_22", "DESIG_23", "DESIG_24"
       ]
     }
   ]
