@@ -67,6 +67,84 @@
         "name": "Account Officer",
         "description": "Account Officer",
         "active": true
+      },
+      {
+        "code": "DESIG_12",
+        "name": "Section Officer",
+        "description": "Section Officer",
+        "active": true
+      },
+      {
+        "code": "DESIG_13",
+        "name": "Junior Engineer",
+        "description": "Junior Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_14",
+        "name": "Junior Engineer",
+        "description": "Junior Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_15",
+        "name": "Assistant Engineer",
+        "description": "Assistant Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_16",
+        "name": "Clerk",
+        "description": "Clerk",
+        "active": true
+      },
+      {
+        "code": "DESIG_17",
+        "name": "Joint Commissioner",
+        "description": "Joint Commissioner",
+        "active": true
+      },
+      {
+        "code": "DESIG_18",
+        "name": "Joint Commissioner 1",
+        "description": "Joint Commissioner 1",
+        "active": true
+      },
+      {
+        "code": "DESIG_19",
+        "name": "Joint Commissioner 2",
+        "description": "Joint Commissioner 2",
+        "active": true
+      },
+      {
+        "code": "DESIG_20",
+        "name": "Head Draftman",
+        "description": "Head Draftman",
+        "active": true
+      },
+      {
+        "code": "DESIG_21",
+        "name": "Executive Engineer",
+        "description": "Executive Engineer",
+        "active": true
+      },
+      {
+        "code": "DESIG_22",
+        "name": "Executive Engineer 1",
+        "description": "Executive Engineer 1",
+        "active": true
+      },
+      {
+        "code": "DESIG_23",
+        "name": "Executive Engineer 2",
+        "description": "Executive Engineer 2",
+        "active": true
+      },
+      {
+        "code": "DESIG_24",
+        "name": "Executive Engineer 3",
+        "description": "Executive Engineer 3",
+        "active": true
       }
     ]
 }
