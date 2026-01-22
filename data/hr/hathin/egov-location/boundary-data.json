@@ -1,0 +1,162 @@
+{
+  "tenantId": "hr.hathin",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Hathin",
+        "localname": "Hathin",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.hathin",
+        "children": [
+          {
+            "id": "Z1",
+            "boundaryNum": "1",
+            "name": "Zone 1",
+            "localname": "Zone 1",
+            "label": "Zone",
+            "code": "HTN-ADM-Z1",
+            "children": [
+              { "id": "W1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "label": "Ward", "code": "HTN-ADM-01", "children": [] },
+              { "id": "W2", "boundaryNum": "2", "name": "Ward 2", "localname": "Ward 2", "label": "Ward", "code": "HTN-ADM-02", "children": [] },
+              { "id": "W3", "boundaryNum": "3", "name": "Ward 3", "localname": "Ward 3", "label": "Ward", "code": "HTN-ADM-03", "children": [] },
+              { "id": "W4", "boundaryNum": "4", "name": "Ward 4", "localname": "Ward 4", "label": "Ward", "code": "HTN-ADM-04", "children": [] },
+              { "id": "W5", "boundaryNum": "5", "name": "Ward 5", "localname": "Ward 5", "label": "Ward", "code": "HTN-ADM-05", "children": [] },
+              { "id": "W6", "boundaryNum": "6", "name": "Ward 6", "localname": "Ward 6", "label": "Ward", "code": "HTN-ADM-06", "children": [] },
+              { "id": "W7", "boundaryNum": "7", "name": "Ward 7", "localname": "Ward 7", "label": "Ward", "code": "HTN-ADM-07", "children": [] },
+              { "id": "W8", "boundaryNum": "8", "name": "Ward 8", "localname": "Ward 8", "label": "Ward", "code": "HTN-ADM-08", "children": [] },
+              { "id": "W9", "boundaryNum": "9", "name": "Ward 9", "localname": "Ward 9", "label": "Ward", "code": "HTN-ADM-09", "children": [] },
+              { "id": "W10", "boundaryNum": "10", "name": "Ward 10", "localname": "Ward 10", "label": "Ward", "code": "HTN-ADM-10", "children": [] },
+              { "id": "W11", "boundaryNum": "11", "name": "Ward 11", "localname": "Ward 11", "label": "Ward", "code": "HTN-ADM-11", "children": [] }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Hathin",
+        "localname": "Hathin",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.hathin",
+        "children": [
+          {
+            "id": "W1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "label": "Ward",
+            "code": "HTN-REV-01",
+            "children": []
+          },
+          {
+            "id": "W2",
+            "boundaryNum": "2",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "label": "Ward",
+            "code": "HTN-REV-02",
+            "children": []
+          },
+          {
+            "id": "W3",
+            "boundaryNum": "3",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "label": "Ward",
+            "code": "HTN-REV-03",
+            "children": []
+          },
+          {
+            "id": "W4",
+            "boundaryNum": "4",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "label": "Ward",
+            "code": "HTN-REV-04",
+            "children": []
+          },
+          {
+            "id": "W5",
+            "boundaryNum": "5",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "label": "Ward",
+            "code": "HTN-REV-05",
+            "children": []
+          },
+          {
+            "id": "W6",
+            "boundaryNum": "6",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "label": "Ward",
+            "code": "HTN-REV-06",
+            "children": []
+          },
+          {
+            "id": "W7",
+            "boundaryNum": "7",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "label": "Ward",
+            "code": "HTN-REV-07",
+            "children": []
+          },
+          {
+            "id": "W8",
+            "boundaryNum": "8",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "label": "Ward",
+            "code": "HTN-REV-08",
+            "children": []
+          },
+          {
+            "id": "W9",
+            "boundaryNum": "9",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "label": "Ward",
+            "code": "HTN-REV-09",
+            "children": []
+          },
+          {
+            "id": "W10",
+            "boundaryNum": "10",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "label": "Ward",
+            "code": "HTN-REV-10",
+            "children": []
+          },
+          {
+            "id": "W11",
+            "boundaryNum": "11",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "label": "Ward",
+            "code": "HTN-REV-11",
+            "children": []
+          }
+        ]
+      }
+    }
+  ]
+}
