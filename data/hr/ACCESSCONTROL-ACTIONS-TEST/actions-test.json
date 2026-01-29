@@ -19737,6 +19737,6 @@
       "navigationURL": "services/EGF/reports/receiptRegisterReport-criteria",
       "leftIcon": "image:collections",
       "path": "Finance.Report Generation.Receipt Register "
-    },
+    }
   ]
 }
