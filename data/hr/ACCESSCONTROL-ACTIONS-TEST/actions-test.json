@@ -19731,7 +19731,7 @@
       "url": "url",
       "displayName": "Receipt Register",
       "orderNumber": 7,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "COLLECTIONS",
       "code": "null",
       "navigationURL": "services/EGF/reports/receiptRegisterReport-criteria",
