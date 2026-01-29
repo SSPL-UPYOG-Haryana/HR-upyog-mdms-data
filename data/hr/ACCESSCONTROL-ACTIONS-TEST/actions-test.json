@@ -19481,7 +19481,7 @@
       "parentModule": "EGF",
       "displayName": "Inter Fund Transfer",
       "orderNumber": 2,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
