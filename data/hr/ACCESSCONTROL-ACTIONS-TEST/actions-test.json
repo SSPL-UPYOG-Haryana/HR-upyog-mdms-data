@@ -19481,7 +19481,7 @@
       "parentModule": "EGF",
       "displayName": "Inter Fund Transfer",
       "orderNumber": 2,
-      "enabled": false,
+      "enabled": true,
       "serviceCode": "FinanceBill",
       "code": "null",
       "leftIcon": "editor:insert-chart",
@@ -19724,6 +19724,19 @@
       "leftIcon": "editor:insert-chart",
       "path": "Finance.Administration.View Vouchers",
       "navigationURL": "services/EGF/voucher/voucherSearch/viewForm"
-    }
+    },
+	  {
+      "id": 2926,
+      "name": "ReceiptRegister",
+      "url": "url",
+      "displayName": "Receipt Register",
+      "orderNumber": 7,
+      "enabled": false,
+      "serviceCode": "COLLECTIONS",
+      "code": "null",
+      "navigationURL": "services/EGF/reports/receiptRegisterReport-criteria",
+      "leftIcon": "image:collections",
+      "path": "Finance.Report Generation.Receipt Register "
+    },
   ]
 }
