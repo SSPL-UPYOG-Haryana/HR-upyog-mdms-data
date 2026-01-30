@@ -19734,7 +19734,7 @@
       "enabled": true,
       "serviceCode": "COLLECTIONS",
       "code": "null",
-      "navigationURL": "/services/collection/reports/receiptRegisterReport-criteria",
+      "navigationURL": "/services/collection/reports/receiptRegisterReport-criteria.action",
       "leftIcon": "image:collections",
       "path": "Finance.Report Generation.Receipt Register "
     }
