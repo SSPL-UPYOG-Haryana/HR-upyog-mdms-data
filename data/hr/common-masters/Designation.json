@@ -2,143 +2,209 @@
   "tenantId": "hr",
   "moduleName": "common-masters",
   "Designation": [
-      {
-        "code": "DESIG_01",
-        "name": "Account Officer I",
-        "description": "Account Officer I",
-        "active": true
-      },
-      {
-        "code": "DESIG_02",
-        "name": "Account Officer II",
-        "description": "Account Officer II",
-        "active": true
-      },
-      {
-        "code": "DESIG_03",
-        "name": "Chief Account Officer",
-        "description": "Chief Account Officer",
-        "active": true
-      },
-      {
-        "code": "DESIG_04",
-        "name": "Computer Clerk",
-        "description": "Computer Clerk",
-        "active": true
-      },
-      {
-        "code": "DESIG_05",
-        "name": "Superintendent",
-        "description": "Superintendent",
-        "active": true
-      },
-      {
-        "code": "DESIG_06",
-        "name": "Sr. Computer Clerk",
-        "description": "Sr. Computer Clerk",
-        "active": true
-      },
-      {
-        "code": "DESIG_07",
-        "name": "Section Officer I",
-        "description": "Section Officer I",
-        "active": true
-      },
-      {
-        "code": "DESIG_08",
-        "name": "Section Officer II",
-        "description": "Section Officer II",
-        "active": true
-      },
-      {
-        "code": "DESIG_09",
-        "name": "Section Officer III",
-        "description": "Section Officer III",
-        "active": true
-      },
-      {
-        "code": "DESIG_10",
-        "name": "Section Officer IV",
-        "description": "Section Officer IV",
-        "active": true
-      },
-      {
-        "code": "DESIG_11",
-        "name": "Account Officer",
-        "description": "Account Officer",
-        "active": true
-      },
-      {
-        "code": "DESIG_12",
-        "name": "Section Officer",
-        "description": "Section Officer",
-        "active": true
-      },
-      {
-        "code": "DESIG_13",
-        "name": "Junior Engineer",
-        "description": "Junior Engineer",
-        "active": true
-      },
-      {
-        "code": "DESIG_14",
-        "name": "Assistant Engineer",
-        "description": "Assistant Engineer",
-        "active": true
-      },
-      {
-        "code": "DESIG_15",
-        "name": "Clerk",
-        "description": "Clerk",
-        "active": true
-      },
-      {
-        "code": "DESIG_16",
-        "name": "Joint Commissioner",
-        "description": "Joint Commissioner",
-        "active": true
-      },
-      {
-        "code": "DESIG_17",
-        "name": "Joint Commissioner 1",
-        "description": "Joint Commissioner 1",
-        "active": true
-      },
-      {
-        "code": "DESIG_18",
-        "name": "Joint Commissioner 2",
-        "description": "Joint Commissioner 2",
-        "active": true
-      },
-      {
-        "code": "DESIG_19",
-        "name": "Head Draftman",
-        "description": "Head Draftman",
-        "active": true
-      },
-      {
-        "code": "DESIG_20",
-        "name": "Executive Engineer",
-        "description": "Executive Engineer",
-        "active": true
-      },
-      {
-        "code": "DESIG_21",
-        "name": "Executive Engineer 1",
-        "description": "Executive Engineer 1",
-        "active": true
-      },
-      {
-        "code": "DESIG_22",
-        "name": "Executive Engineer 2",
-        "description": "Executive Engineer 2",
-        "active": true
-      },
-      {
-        "code": "DESIG_23",
-        "name": "Executive Engineer 3",
-        "description": "Executive Engineer 3",
-        "active": true
-      }
-    ]
+    {
+      "code": "DESIG_01",
+      "name": "Account Officer I",
+      "description": "Account Officer I",
+      "active": true
+    },
+    {
+      "code": "DESIG_02",
+      "name": "Account Officer II",
+      "description": "Account Officer II",
+      "active": true
+    },
+    {
+      "code": "DESIG_03",
+      "name": "Chief Account Officer",
+      "description": "Chief Account Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_04",
+      "name": "Computer Clerk",
+      "description": "Computer Clerk",
+      "active": true
+    },
+    {
+      "code": "DESIG_05",
+      "name": "Superintendent",
+      "description": "Superintendent",
+      "active": true
+    },
+    {
+      "code": "DESIG_06",
+      "name": "Sr. Computer Clerk",
+      "description": "Sr. Computer Clerk",
+      "active": true
+    },
+    {
+      "code": "DESIG_07",
+      "name": "Section Officer I",
+      "description": "Section Officer I",
+      "active": true
+    },
+    {
+      "code": "DESIG_08",
+      "name": "Section Officer II",
+      "description": "Section Officer II",
+      "active": true
+    },
+    {
+      "code": "DESIG_09",
+      "name": "Section Officer III",
+      "description": "Section Officer III",
+      "active": true
+    },
+    {
+      "code": "DESIG_10",
+      "name": "Section Officer IV",
+      "description": "Section Officer IV",
+      "active": true
+    },
+    {
+      "code": "DESIG_11",
+      "name": "Account Officer",
+      "description": "Account Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_12",
+      "name": "Section Officer",
+      "description": "Section Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_13",
+      "name": "Junior Engineer",
+      "description": "Junior Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_14",
+      "name": "Assistant Engineer",
+      "description": "Assistant Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_15",
+      "name": "Clerk",
+      "description": "Clerk",
+      "active": true
+    },
+    {
+      "code": "DESIG_16",
+      "name": "Joint Commissioner",
+      "description": "Joint Commissioner",
+      "active": true
+    },
+    {
+      "code": "DESIG_17",
+      "name": "Joint Commissioner 1",
+      "description": "Joint Commissioner 1",
+      "active": true
+    },
+    {
+      "code": "DESIG_18",
+      "name": "Joint Commissioner 2",
+      "description": "Joint Commissioner 2",
+      "active": true
+    },
+    {
+      "code": "DESIG_19",
+      "name": "Head Draftman",
+      "description": "Head Draftman",
+      "active": true
+    },
+    {
+      "code": "DESIG_20",
+      "name": "Executive Engineer",
+      "description": "Executive Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_21",
+      "name": "Executive Engineer 1",
+      "description": "Executive Engineer 1",
+      "active": true
+    },
+    {
+      "code": "DESIG_22",
+      "name": "Executive Engineer 2",
+      "description": "Executive Engineer 2",
+      "active": true
+    },
+    {
+      "code": "DESIG_23",
+      "name": "Executive Engineer 3",
+      "description": "Executive Engineer 3",
+      "active": true
+    },
+    {
+      "code": "DESIG_24",
+      "name": "Municipal Engineer",
+      "description": "Municipal Engineer",
+      "active": true
+    },
+    {
+      "code": "DESIG_25",
+      "name": "Auditor",
+      "description": "Auditor",
+      "active": true
+    },
+    {
+      "code": "DESIG_26",
+      "name": "Resident Audit Officer",
+      "description": "Resident Audit Officer",
+      "active": true
+    },
+    {
+      "code": "DESIG_27",
+      "name": "Accountant",
+      "description": "Accountant",
+      "active": true
+    },
+    {
+      "code": "DESIG_28",
+      "name": "Secretary(Municipal Committee)",
+      "description": "Secretary(Municipal Committee)",
+      "active": true
+    },
+    {
+      "code": "DESIG_29",
+      "name": "Junior Engineer(Civil)",
+      "description": "Junior Engineer(Civil)",
+      "active": true
+    },
+    {
+      "code": "DESIG_30",
+      "name": "Section Division Officier(SDO)",
+      "description": "Section Division Officer(SDO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_31",
+      "name": "Section Division Engineer(SDE)",
+      "description": "Section Division Engineer(SDE)",
+      "active": true
+    },
+    {
+      "code": "DESIG_32",
+      "name": "Division Account Officer(DAO)",
+      "description": "Division Account Officer(DAO)",
+      "active": true
+    },
+    {
+      "code": "DESIG_33",
+      "name": "Joint Director",
+      "description": "Joint Director",
+      "active": true
+    },
+    {
+      "code": "DESIG_34",
+      "name": "Executive Officer",
+      "description": "Executive Officer",
+      "active": true
+    }
+  ]
 }
