@@ -205,6 +205,12 @@
       "name": "Executive Officer",
       "description": "Executive Officer",
       "active": true
+    },
+    {
+      "code": "DESIG_35",
+      "name": "Senior Account Officer",
+      "description": "Senior Account Officer",
+      "active": true
     }
   ]
 }
