@@ -243,9 +243,27 @@
       "active": true
     },
     {
-      "code": "DESIG_40",
+      "code": "DESIG_41",
       "name": "Data Entry Operator",
       "description": "Data entry operator",
+      "active": true
+    },
+    {
+      "code": "DESIG_42",
+      "name": "RAO",
+      "description": "RAO",
+      "active": true
+    },
+    {
+      "code": "DESIG_43",
+      "name": "Assistant (Account)",
+      "description": "Assistant (Account)",
+      "active": true
+    },
+    {
+      "code": "DESIG_44",
+      "name": "Technical Expert",
+      "description": "Technical Expert",
       "active": true
     }
   ]
