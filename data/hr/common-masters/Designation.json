@@ -211,6 +211,42 @@
       "name": "Senior Account Officer",
       "description": "Senior Account Officer",
       "active": true
+    },
+    {
+      "code": "DESIG_36",
+      "name": "Accountant I",
+      "description": "Accountant I",
+      "active": true
+    },
+    {
+      "code": "DESIG_37",
+      "name": "Accountant II",
+      "description": "Accountant II",
+      "active": true
+    },
+    {
+      "code": "DESIG_38",
+      "name": "Financial Experts",
+      "description": "Financial Experts",
+      "active": true
+    },
+    {
+      "code": "DESIG_39",
+      "name": "Assistant",
+      "description": "Assistant",
+      "active": true
+    },
+    {
+      "code": "DESIG_40",
+      "name": "Account Clerk",
+      "description": "Account Clerk ",
+      "active": true
+    },
+    {
+      "code": "DESIG_40",
+      "name": "Data entry operator",
+      "description": "Data entry operator",
+      "active": true
     }
   ]
 }
