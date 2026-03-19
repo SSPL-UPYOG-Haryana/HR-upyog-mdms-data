@@ -1405,6 +1405,26 @@
       "debitGL": "4502100003",
       "creditGL": "4502100003",
       "active": true
+    },
+    {
+      "serviceCode": "MT",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "mt_FEE",
+      "componentCode": "MTCC01",
+      "debitGL": "1401100014",
+      "creditGL": "1401100014",
+      "active": true
+    },
+    {
+      "serviceCode": "MT",
+      "propertyCategory": "*",
+      "taxPeriod": "CURRENT",
+      "componentName": "bank",
+      "componentCode": "MTCC02",
+      "debitGL": "4502100003",
+      "creditGL": "4502100003",
+      "active": true
     }
   ]
 }
