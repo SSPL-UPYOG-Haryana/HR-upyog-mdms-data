@@ -1,0 +1,640 @@
+{
+  "tenantId": "hr.sadhaura",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Sadhaura",
+        "localname": "Sadhaura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.sadhaura",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR01",
+            "children": [
+              {
+                "id": "101",
+                "boundaryNum": "1",
+                "name": "Mohalla 1A",
+                "localname": "Mohalla 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR01M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR02",
+            "children": [
+              {
+                "id": "201",
+                "boundaryNum": "1",
+                "name": "Mohalla 2A",
+                "localname": "Mohalla 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR02M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR03",
+            "children": [
+              {
+                "id": "301",
+                "boundaryNum": "1",
+                "name": "Mohalla 3A",
+                "localname": "Mohalla 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR03M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR04",
+            "children": [
+              {
+                "id": "401",
+                "boundaryNum": "1",
+                "name": "Mohalla 4A",
+                "localname": "Mohalla 4A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR04M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR05",
+            "children": [
+              {
+                "id": "501",
+                "boundaryNum": "1",
+                "name": "Mohalla 5A",
+                "localname": "Mohalla 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR05M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "boundaryNum": "1",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR06",
+            "children": [
+              {
+                "id": "601",
+                "boundaryNum": "1",
+                "name": "Mohalla 6A",
+                "localname": "Mohalla 6A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR06M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": "1",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR07",
+            "children": [
+              {
+                "id": "701",
+                "boundaryNum": "1",
+                "name": "Mohalla 7A",
+                "localname": "Mohalla 7A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR07M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR08",
+            "children": [
+              {
+                "id": "801",
+                "boundaryNum": "1",
+                "name": "Mohalla 8A",
+                "localname": "Mohalla 8A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR08M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR09",
+            "children": [
+              {
+                "id": "901",
+                "boundaryNum": "1",
+                "name": "Mohalla 9A",
+                "localname": "Mohalla 9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR09M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR10",
+            "children": [
+              {
+                "id": "1001",
+                "boundaryNum": "1",
+                "name": "Mohalla 10A",
+                "localname": "Mohalla 10A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR10M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR11",
+            "children": [
+              {
+                "id": "1101",
+                "boundaryNum": "1",
+                "name": "Mohalla 11A",
+                "localname": "Mohalla 11A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR11M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR12",
+            "children": [
+              {
+                "id": "1201",
+                "boundaryNum": "1",
+                "name": "Mohalla 12A",
+                "localname": "Mohalla 12A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR12M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": "1",
+            "name": "Ward 13",
+            "localname": "Ward 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR13",
+            "children": [
+              {
+                "id": "1301",
+                "boundaryNum": "1",
+                "name": "Mohalla 13A",
+                "localname": "Mohalla 13A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR13M1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Sadhaura",
+        "localname": "Sadhaura",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.sadhaura",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR01",
+            "children": [
+              {
+                "id": "101",
+                "boundaryNum": "1",
+                "name": "Mohalla 1A",
+                "localname": "Mohalla 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR01M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR02",
+            "children": [
+              {
+                "id": "201",
+                "boundaryNum": "1",
+                "name": "Mohalla 2A",
+                "localname": "Mohalla 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR02M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR03",
+            "children": [
+              {
+                "id": "301",
+                "boundaryNum": "1",
+                "name": "Mohalla 3A",
+                "localname": "Mohalla 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR03M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR04",
+            "children": [
+              {
+                "id": "401",
+                "boundaryNum": "1",
+                "name": "Mohalla 4A",
+                "localname": "Mohalla 4A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR04M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR05",
+            "children": [
+              {
+                "id": "501",
+                "boundaryNum": "1",
+                "name": "Mohalla 5A",
+                "localname": "Mohalla 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR05M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "boundaryNum": "1",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR06",
+            "children": [
+              {
+                "id": "601",
+                "boundaryNum": "1",
+                "name": "Mohalla 6A",
+                "localname": "Mohalla 6A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR06M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": "1",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR07",
+            "children": [
+              {
+                "id": "701",
+                "boundaryNum": "1",
+                "name": "Mohalla 7A",
+                "localname": "Mohalla 7A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR07M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR08",
+            "children": [
+              {
+                "id": "801",
+                "boundaryNum": "1",
+                "name": "Mohalla 8A",
+                "localname": "Mohalla 8A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR08M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR09",
+            "children": [
+              {
+                "id": "901",
+                "boundaryNum": "1",
+                "name": "Mohalla 9A",
+                "localname": "Mohalla 9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR09M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR10",
+            "children": [
+              {
+                "id": "1001",
+                "boundaryNum": "1",
+                "name": "Mohalla 10A",
+                "localname": "Mohalla 10A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR10M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR11",
+            "children": [
+              {
+                "id": "1101",
+                "boundaryNum": "1",
+                "name": "Mohalla 11A",
+                "localname": "Mohalla 11A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR11M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR12",
+            "children": [
+              {
+                "id": "1201",
+                "boundaryNum": "1",
+                "name": "Mohalla 12A",
+                "localname": "Mohalla 12A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR12M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": "1",
+            "name": "Ward 13",
+            "localname": "Ward 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SDR13",
+            "children": [
+              {
+                "id": "1301",
+                "boundaryNum": "1",
+                "name": "Mohalla 13A",
+                "localname": "Mohalla 13A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SDR13M1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

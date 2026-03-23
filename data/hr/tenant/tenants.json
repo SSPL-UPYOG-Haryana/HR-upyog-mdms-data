@@ -110,6 +110,42 @@
       "contactNumber": "0177 280 2771"
     },
     {
+      "code": "hr.kalka",
+      "name": "Kalka",
+      "description": "Kalka",
+      "pincode": [
+        133302
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "kalka@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Kalka",
+        "localName": null,
+        "districtCode": "PANCHKULA",
+        "districtName": "Panchkula",
+        "districtTenantCode": "hr.kalka",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Council",
+        "longitude": 76.9486,
+        "latitude": 30.8397,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KALKA",
+        "ddrName": "Municipal Council Kalka"
+      },
+      "address": "Municipal Council Kalka, Panchkula, Haryana 133302",
+      "contactNumber": ""
+    },
+    {
       "code": "hr.panchkula",
       "name": "Panchkula",
       "description": "Panchkula",
@@ -306,6 +342,44 @@
       "contactNumber": "9034837507"
     },
     {
+      "code": "hr.panipat",
+      "name": "Panipat",
+      "description": "Panipat",
+      "pincode": [
+        132103,
+        132104,
+        132105
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.panipat@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Panipat",
+        "localName": null,
+        "districtCode": "PANIPAT",
+        "districtName": "Panipat",
+        "districtTenantCode": "hr.panipat",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.9635,
+        "latitude": 29.3909,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "PANIPAT",
+        "ddrName": "Municipal Corporation Panipat"
+      },
+      "address": "Municipal Corporation Panipat, Haryana 132103",
+      "contactNumber": "0180-2648400"
+    },
+    {
       "code": "hr.samalkha",
       "name": "Samalkha",
       "description": "Samalkha",
@@ -446,6 +520,42 @@
       "contactNumber": "0172-2580700"
     },
     {
+      "code": "hr.manesar",
+      "name": "Manesar",
+      "description": "Manesar",
+      "pincode": [
+        122050
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "manesar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Manesar",
+        "localName": null,
+        "districtCode": "GURUGRAM",
+        "districtName": "Gurugram",
+        "districtTenantCode": "hr.manesar",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.9416,
+        "latitude": 28.3515,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MANESAR",
+        "ddrName": "Municipal Corporation Gurugram (Manesar Area)"
+      },
+      "address": "Manesar, Gurugram, Haryana 122050",
+      "contactNumber": ""
+    },
+    {
       "code": "hr.pataudi",
       "name": "Pataudi",
       "description": "Pataudi",
@@ -549,6 +659,808 @@
       },
       "address": "Main Market, Hathin, Distt. Palwal (HR), Pin Code-121103",
       "contactNumber": "01275-290366"
+    },
+    {
+      "code": "hr.yamunanagar",
+      "name": "Yamunanagar",
+      "description": "Yamunanagar",
+      "pincode": [
+        135001,
+        135002,
+        135003
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "yamunanagar@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Yamunanagar",
+        "localName": null,
+        "districtCode": "YAMUNANAGAR",
+        "districtName": "Yamunanagar",
+        "districtTenantCode": "hr.yamunanagar",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 77.2931,
+        "latitude": 30.1290,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "YNR",
+        "ddrName": "Municipal Corporation Yamunanagar-Jagadhri"
+      },
+      "address": "Municipal Corporation Yamunanagar-Jagadhri, Haryana 135001",
+      "contactNumber": "01732-237100"
+    },
+    {
+      "code": "hr.sadhaura",
+      "name": "Sadhaura",
+      "description": "Sadhaura",
+      "pincode": [
+        133204
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "sadhaura@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Sadhaura",
+        "localName": null,
+        "districtCode": "YAMUNANAGAR",
+        "districtName": "Yamunanagar",
+        "districtTenantCode": "hr.sadhaura",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 77.2560,
+        "latitude": 30.3845,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "SADHAURA",
+        "ddrName": "Municipal Committee Sadhaura"
+      },
+      "address": "Municipal Committee Sadhaura, Yamunanagar, Haryana 133204",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.radaur",
+      "name": "Radaur",
+      "description": "Radaur",
+      "pincode": [
+        135133
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "radaur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Radaur",
+        "localName": null,
+        "districtCode": "YAMUNANAGAR",
+        "districtName": "Yamunanagar",
+        "districtTenantCode": "hr.radaur",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 77.1510,
+        "latitude": 30.0270,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "RADAUR",
+        "ddrName": "Municipal Committee Radaur"
+      },
+      "address": "Municipal Committee Radaur, Yamunanagar, Haryana 135133",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.sirsa",
+      "name": "Sirsa",
+      "description": "Sirsa",
+      "pincode": [
+        125055,
+        125056
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.sirsa@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Sirsa",
+        "localName": null,
+        "districtCode": "SIRSA",
+        "districtName": "Sirsa",
+        "districtTenantCode": "hr.sirsa",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Council",
+        "longitude": 75.0319,
+        "latitude": 29.5349,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "SIRSA",
+        "ddrName": "Municipal Council Sirsa"
+      },
+      "address": "Municipal Council Sirsa, Haryana 125055",
+      "contactNumber": "01666-220033"
+    },
+    {
+      "code": "hr.rania",
+      "name": "Rania",
+      "description": "Rania",
+      "pincode": [
+        125076
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "rania@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Rania",
+        "localName": null,
+        "districtCode": "SIRSA",
+        "districtName": "Sirsa",
+        "districtTenantCode": "hr.rania",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 74.8333,
+        "latitude": 29.5167,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "RANIA",
+        "ddrName": "Municipal Committee Rania"
+      },
+      "address": "Municipal Committee Rania, Sirsa, Haryana 125076",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.mandidabwali",
+      "name": "Mandi Dabwali",
+      "description": "Mandi Dabwali",
+      "pincode": [
+        125104
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mandidabwali@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Mandi Dabwali",
+        "localName": null,
+        "districtCode": "SIRSA",
+        "districtName": "Sirsa",
+        "districtTenantCode": "hr.mandidabwali",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Council",
+        "longitude": 74.7284,
+        "latitude": 29.9486,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "DABWALI",
+        "ddrName": "Municipal Council Mandi Dabwali"
+      },
+      "address": "Municipal Council Mandi Dabwali, Sirsa, Haryana 125104",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.kalanwali",
+      "name": "Kalanwali",
+      "description": "Kalanwali",
+      "pincode": [
+        125201
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "kalanwali@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Kalanwali",
+        "localName": null,
+        "districtCode": "SIRSA",
+        "districtName": "Sirsa",
+        "districtTenantCode": "hr.kalanwali",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 74.4667,
+        "latitude": 29.8333,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KALANWALI",
+        "ddrName": "Municipal Committee Kalanwali"
+      },
+      "address": "Municipal Committee Kalanwali, Sirsa, Haryana 125201",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.ellenabad",
+      "name": "Ellenabad",
+      "description": "Ellenabad",
+      "pincode": [
+        125102
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ellenabad@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Ellenabad",
+        "localName": null,
+        "districtCode": "SIRSA",
+        "districtName": "Sirsa",
+        "districtTenantCode": "hr.ellenabad",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 74.6617,
+        "latitude": 29.4526,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "ELLENABAD",
+        "ddrName": "Municipal Committee Ellenabad"
+      },
+      "address": "Municipal Committee Ellenabad, Sirsa, Haryana 125102",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.sonipat",
+      "name": "Sonipat",
+      "description": "Sonipat",
+      "pincode": [
+        131001,
+        131021,
+        131023
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.sonipat@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Sonipat",
+        "localName": "Sonepat",
+        "districtCode": "SONIPAT",
+        "districtName": "Sonipat",
+        "districtTenantCode": "hr.sonipat",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 77.0177,
+        "latitude": 28.9931,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "SONIPAT",
+        "ddrName": "Municipal Corporation Sonipat"
+      },
+      "address": "Municipal Corporation Sonipat, Haryana 131001",
+      "contactNumber": "0130-2230052"
+    },
+    {
+      "code": "hr.kharkhoda",
+      "name": "Kharkhoda",
+      "description": "Kharkhoda",
+      "pincode": [
+        131402
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "kharkhoda@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Kharkhoda",
+        "localName": null,
+        "districtCode": "SONIPAT",
+        "districtName": "Sonipat",
+        "districtTenantCode": "hr.kharkhoda",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 76.9150,
+        "latitude": 28.8780,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KHARKHODA",
+        "ddrName": "Municipal Committee Kharkhoda"
+      },
+      "address": "Municipal Committee Kharkhoda, Sonipat, Haryana 131402",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.gohana",
+      "name": "Gohana",
+      "description": "Gohana",
+      "pincode": [
+        131301
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "gohana@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Gohana",
+        "localName": null,
+        "districtCode": "SONIPAT",
+        "districtName": "Sonipat",
+        "districtTenantCode": "hr.gohana",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Council",
+        "longitude": 76.7025,
+        "latitude": 29.1378,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "GOHANA",
+        "ddrName": "Municipal Council Gohana"
+      },
+      "address": "Municipal Council Gohana, Sonipat, Haryana 131301",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.ganaur",
+      "name": "Ganaur",
+      "description": "Ganaur",
+      "pincode": [
+        131101
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "ganaur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Ganaur",
+        "localName": "Gannaur",
+        "districtCode": "SONIPAT",
+        "districtName": "Sonipat",
+        "districtTenantCode": "hr.ganaur",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Council",
+        "longitude": 77.0126,
+        "latitude": 29.1370,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "GANAUR",
+        "ddrName": "Municipal Council Ganaur"
+      },
+      "address": "Municipal Council Ganaur, Sonipat, Haryana 131101",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.rohtak",
+      "name": "Rohtak",
+      "description": "Rohtak",
+      "pincode": [
+        124001
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.rohtak@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Rohtak",
+        "localName": null,
+        "districtCode": "ROHTAK",
+        "districtName": "Rohtak",
+        "districtTenantCode": "hr.rohtak",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 76.5762,
+        "latitude": 28.8955,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "ROHTAK",
+        "ddrName": "Municipal Corporation Rohtak"
+      },
+      "address": "Municipal Corporation Rohtak, Haryana 124001",
+      "contactNumber": "01262-250202"
+    },
+    {
+      "code": "hr.meham",
+      "name": "Meham",
+      "description": "Meham",
+      "pincode": [
+        124112
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "meham@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Meham",
+        "localName": null,
+        "districtCode": "ROHTAK",
+        "districtName": "Rohtak",
+        "districtTenantCode": "hr.meham",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 76.2925,
+        "latitude": 28.9800,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "MEHAM",
+        "ddrName": "Municipal Committee Meham"
+      },
+      "address": "Municipal Committee Meham, Rohtak, Haryana 124112",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.kalanaur",
+      "name": "Kalanaur",
+      "description": "Kalanaur",
+      "pincode": [
+        124113
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "kalanaur@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Kalanaur",
+        "localName": null,
+        "districtCode": "ROHTAK",
+        "districtName": "Rohtak",
+        "districtTenantCode": "hr.kalanaur",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 76.4010,
+        "latitude": 28.8285,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "KALANAUR",
+        "ddrName": "Municipal Committee Kalanaur"
+      },
+      "address": "Municipal Committee Kalanaur, Rohtak, Haryana 124113",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.dharuhera",
+      "name": "Dharuhera",
+      "description": "Dharuhera",
+      "pincode": [
+        123106
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "dharuhera@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Dharuhera",
+        "localName": null,
+        "districtCode": "REWARI",
+        "districtName": "Rewari",
+        "districtTenantCode": "hr.dharuhera",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 76.7963,
+        "latitude": 28.2046,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "DHARUHERA",
+        "ddrName": "Municipal Committee Dharuhera"
+      },
+      "address": "Municipal Committee Dharuhera, Rewari, Haryana 123106",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.bawal",
+      "name": "Bawal",
+      "description": "Bawal",
+      "pincode": [
+        123501
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "bawal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Bawal",
+        "localName": null,
+        "districtCode": "REWARI",
+        "districtName": "Rewari",
+        "districtTenantCode": "hr.bawal",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 76.5833,
+        "latitude": 28.0667,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "BAWAL",
+        "ddrName": "Municipal Committee Bawal"
+      },
+      "address": "Municipal Committee Bawal, Rewari, Haryana 123501",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.hodal",
+      "name": "Hodal",
+      "description": "Hodal",
+      "pincode": [
+        121106
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "hodal@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Hodal",
+        "localName": null,
+        "districtCode": "PALWAL",
+        "districtName": "Palwal",
+        "districtTenantCode": "hr.hodal",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 77.3670,
+        "latitude": 27.8300,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "HODAL",
+        "ddrName": "Municipal Committee Hodal"
+      },
+      "address": "Municipal Committee Hodal, Palwal, Haryana 121106",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.faridabad",
+      "name": "Faridabad",
+      "description": "Faridabad",
+      "pincode": [
+        121001,
+        121002,
+        121003,
+        121004,
+        121005,
+        121006
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "mc.faridabad@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Faridabad",
+        "localName": null,
+        "districtCode": "FARIDABAD",
+        "districtName": "Faridabad",
+        "districtTenantCode": "hr.faridabad",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Corporation",
+        "longitude": 77.3178,
+        "latitude": 28.4089,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "FARIDABAD",
+        "ddrName": "Municipal Corporation Faridabad"
+      },
+      "address": "Municipal Corporation Faridabad, Haryana 121001",
+      "contactNumber": "0129-2413523"
+    },
+    {
+      "code": "hr.charkhidadri",
+      "name": "Charkhi Dadri",
+      "description": "Charkhi Dadri",
+      "pincode": [
+        127306
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "charkhidadri@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Charkhi Dadri",
+        "localName": null,
+        "districtCode": "CHARKHIDADRI",
+        "districtName": "Charkhi Dadri",
+        "districtTenantCode": "hr.charkhidadri",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Council",
+        "longitude": 76.2711,
+        "latitude": 28.5916,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "CDDR",
+        "ddrName": "Municipal Council Charkhi Dadri"
+      },
+      "address": "Municipal Council Charkhi Dadri, Haryana 127306",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.narnaund",
+      "name": "Narnaund",
+      "description": "Narnaund",
+      "pincode": [
+        125039
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "narnaund@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": false,
+      "city": {
+        "name": "Narnaund",
+        "localName": null,
+        "districtCode": "HISAR",
+        "districtName": "Hisar",
+        "districtTenantCode": "hr.narnaund",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Committee",
+        "longitude": 76.1406,
+        "latitude": 29.2203,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "NARNAUND",
+        "ddrName": "Municipal Committee Narnaund"
+      },
+      "address": "Municipal Committee Narnaund, Hisar, Haryana 125039",
+      "contactNumber": ""
+    },
+    {
+      "code": "hr.hansi",
+      "name": "Hansi",
+      "description": "Hansi",
+      "pincode": [
+        125033
+      ],
+      "logoId": null,
+      "imageId": null,
+      "domainUrl": "https://dev-hrupyog.sparrowsoftech.in",
+      "type": "CITY",
+      "twitterUrl": null,
+      "facebookUrl": null,
+      "emailId": "hansi@gmail.com",
+      "OfficeTimings": {
+        "Mon - Fri": "9.00 AM - 6.00 PM"
+      },
+      "isPopular": true,
+      "city": {
+        "name": "Hansi",
+        "localName": null,
+        "districtCode": "HISAR",
+        "districtName": "Hisar",
+        "districtTenantCode": "hr.hansi",
+        "regionName": "Haryana",
+        "ulbGrade": "Municipal Council",
+        "longitude": 75.9639,
+        "latitude": 29.1024,
+        "shapeFileLocation": null,
+        "captcha": null,
+        "code": "HANSI",
+        "ddrName": "Municipal Council Hansi"
+      },
+      "address": "Municipal Council Hansi, Hisar, Haryana 125033",
+      "contactNumber": ""
     }
   ]
 }

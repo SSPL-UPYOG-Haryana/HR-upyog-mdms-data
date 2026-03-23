@@ -1,0 +1,209 @@
+{
+  "tenantId": "hr.sirsa",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Sirsa",
+        "localname": "Sirsa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.sirsa",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR01",
+            "children": [
+              {
+                "id": "101",
+                "boundaryNum": "1",
+                "name": "Locality 1A",
+                "localname": "Locality 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SIR01L1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR02",
+            "children": [
+              {
+                "id": "201",
+                "boundaryNum": "1",
+                "name": "Locality 2A",
+                "localname": "Locality 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SIR02L1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR03",
+            "children": [
+              {
+                "id": "301",
+                "boundaryNum": "1",
+                "name": "Locality 3A",
+                "localname": "Locality 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "SIR03L1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "boundaryNum": "1",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "boundaryNum": "1",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "SIR12",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Sirsa",
+        "localname": "Sirsa",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.sirsa",
+        "children": []
+      }
+    }
+  ]
+}

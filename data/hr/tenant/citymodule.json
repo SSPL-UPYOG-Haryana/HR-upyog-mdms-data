@@ -7,7 +7,7 @@
       "code": "PT",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -63,7 +63,7 @@
       "module": "QuickPayLinks",
       "code": "QuickPayLinks",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -79,68 +79,272 @@
         }
       ]
     },
-   {
+    {
       "module": "Finance",
       "code": "Finance",
       "active": true,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
-          "code": "hr.citya"
+          "code": "hr.ambala"
         },
         {
-          "code": "hr.cityb"
+          "code": "hr.ambalasadar"
         },
         {
-          "code": "hr.cityc"
+          "code": "hr.barara"
         },
         {
-          "code": "hr.cityd"
+          "code": "hr.naraingarh"
         },
         {
-          "code": "hr.citye"
+          "code": "hr.bawanikhera"
         },
         {
-          "code": "hr.gurugram"
+          "code": "hr.bhiwani"
         },
         {
-          "code": "hr.panchkula"
+          "code": "hr.loharu"
         },
         {
-          "code": "hr.sohna"
+          "code": "hr.siwani"
         },
         {
-          "code": "hr.rewari"
+          "code": "hr.charkhidadri"
         },
         {
-          "code": "hr.thanesar"
+          "code": "hr.faridabad"
         },
         {
-          "code": "hr.farrukhnagar"
+          "code": "hr.bhuna"
         },
         {
-          "code": "hr.samalkha"
+          "code": "hr.fatehabad"
         },
         {
-          "code": "hr.sampla"
-        },
-        {
-          "code": "hr.kundli"
+          "code": "hr.jakhal"
         },
         {
           "code": "hr.ratia"
         },
         {
-          "code": "hr.pataudi"
+          "code": "hr.tohana"
         },
         {
-          "code": "hr.palwal"
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.manesar"
+        },
+        {
+          "code": "hr.pataudijataulimandi"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.barwala"
+        },
+        {
+          "code": "hr.hisar"
+        },
+        {
+          "code": "hr.uklana"
+        },
+        {
+          "code": "hr.hansi"
+        },
+        {
+          "code": "hr.narnaund"
+        },
+        {
+          "code": "hr.bahadurgarh"
+        },
+        {
+          "code": "hr.beri"
+        },
+        {
+          "code": "hr.jhajjar"
+        },
+        {
+          "code": "hr.jind"
+        },
+        {
+          "code": "hr.julana"
+        },
+        {
+          "code": "hr.narwana"
+        },
+        {
+          "code": "hr.safidon"
+        },
+        {
+          "code": "hr.uchana"
+        },
+        {
+          "code": "hr.cheeka"
+        },
+        {
+          "code": "hr.kaithal"
+        },
+        {
+          "code": "hr.kalayat"
+        },
+        {
+          "code": "hr.pundri"
+        },
+        {
+          "code": "hr.rajaund"
+        },
+        {
+          "code": "hr.siwan"
+        },
+        {
+          "code": "hr.assandh"
+        },
+        {
+          "code": "hr.gharaunda"
+        },
+        {
+          "code": "hr.indri"
+        },
+        {
+          "code": "hr.karnal"
+        },
+        {
+          "code": "hr.nilokheri"
+        },
+        {
+          "code": "hr.nissing"
+        },
+        {
+          "code": "hr.tarori"
+        },
+        {
+          "code": "hr.ismailabad"
+        },
+        {
+          "code": "hr.ladwa"
+        },
+        {
+          "code": "hr.pehowa"
+        },
+        {
+          "code": "hr.shahabad"
+        },
+        {
+          "code": "hr.thaneser"
+        },
+        {
+          "code": "hr.atelimandi"
+        },
+        {
+          "code": "hr.kanina"
+        },
+        {
+          "code": "hr.mahendergarh"
+        },
+        {
+          "code": "hr.nangalchaudhary"
+        },
+        {
+          "code": "hr.narnaul"
+        },
+        {
+          "code": "hr.firozpurzhirka"
+        },
+        {
+          "code": "hr.nuh"
+        },
+        {
+          "code": "hr.punhana"
+        },
+        {
+          "code": "hr.tauru"
+        },
+        {
+          "code": "hr.kalka"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.panipat"
+        },
+        {
+          "code": "hr.samalkha"
         },
         {
           "code": "hr.hathin"
         },
         {
-          "code": "hr"
+          "code": "hr.hodal"
+        },
+        {
+          "code": "hr.palwal"
+        },
+        {
+          "code": "hr.bawal"
+        },
+        {
+          "code": "hr.dharuhera"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.kalanaur"
+        },
+        {
+          "code": "hr.meham"
+        },
+        {
+          "code": "hr.rohtak"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.gannaur"
+        },
+        {
+          "code": "hr.gohana"
+        },
+        {
+          "code": "hr.kharkhoda"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.sonepat"
+        },
+        {
+          "code": "hr.ellenabad"
+        },
+        {
+          "code": "hr.kalanwali"
+        },
+        {
+          "code": "hr.mandidabwali"
+        },
+        {
+          "code": "hr.rania"
+        },
+        {
+          "code": "hr.sirsa"
+        },
+        {
+          "code": "hr.radaur"
+        },
+        {
+          "code": "hr.sadhaura"
+        },
+        {
+          "code": "hr.yamunanagar"
         }
       ]
     },
@@ -149,7 +353,7 @@
       "code": "TL",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/TL.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -172,7 +376,7 @@
       "module": "FireNoc",
       "code": "FireNoc",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -195,7 +399,7 @@
       "module": "UC",
       "code": "UC",
       "active": false,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -219,7 +423,7 @@
       "code": "BPAREG",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -243,7 +447,7 @@
       "code": "BPAAPPLY",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -266,7 +470,7 @@
       "module": "hrR.WHATSAPP",
       "code": "hrR.WHATSAPP",
       "active": false,
-      "order":4,
+      "order": 4,
       "tenants": [
         {
           "code": "hr.citya"
@@ -278,7 +482,7 @@
       "code": "OBPS",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/OBPS.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -302,7 +506,7 @@
       "code": "FSM",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/FSM.png",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -325,124 +529,537 @@
       "module": "Payment",
       "code": "Payment",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "hr.citya"
+          "code": "hr.ambala"
         },
         {
-          "code": "hr.cityb"
+          "code": "hr.ambalasadar"
         },
         {
-          "code": "hr.cityc"
+          "code": "hr.barara"
         },
         {
-          "code": "hr.cityd"
+          "code": "hr.naraingarh"
         },
         {
-          "code": "hr.citye"
+          "code": "hr.bawanikhera"
         },
         {
-          "code": "hr.gurugram"
+          "code": "hr.bhiwani"
         },
         {
-          "code": "hr.panchkula"
+          "code": "hr.loharu"
         },
         {
-          "code": "hr.sohna"
+          "code": "hr.siwani"
         },
         {
-          "code": "hr.rewari"
+          "code": "hr.charkhidadri"
         },
         {
-          "code": "hr.thanesar"
+          "code": "hr.faridabad"
         },
         {
-          "code": "hr.farrukhnagar"
+          "code": "hr.bhuna"
         },
         {
-          "code": "hr.samalkha"
+          "code": "hr.fatehabad"
         },
         {
-          "code": "hr.sampla"
-        },
-        {
-          "code": "hr.kundli"
+          "code": "hr.jakhal"
         },
         {
           "code": "hr.ratia"
         },
         {
-          "code": "hr.pataudi"
+          "code": "hr.tohana"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.manesar"
+        },
+        {
+          "code": "hr.pataudijataulimandi"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.barwala"
+        },
+        {
+          "code": "hr.hisar"
+        },
+        {
+          "code": "hr.uklana"
+        },
+        {
+          "code": "hr.hansi"
+        },
+        {
+          "code": "hr.narnaund"
+        },
+        {
+          "code": "hr.bahadurgarh"
+        },
+        {
+          "code": "hr.beri"
+        },
+        {
+          "code": "hr.jhajjar"
+        },
+        {
+          "code": "hr.jind"
+        },
+        {
+          "code": "hr.julana"
+        },
+        {
+          "code": "hr.narwana"
+        },
+        {
+          "code": "hr.safidon"
+        },
+        {
+          "code": "hr.uchana"
+        },
+        {
+          "code": "hr.cheeka"
+        },
+        {
+          "code": "hr.kaithal"
+        },
+        {
+          "code": "hr.kalayat"
+        },
+        {
+          "code": "hr.pundri"
+        },
+        {
+          "code": "hr.rajaund"
+        },
+        {
+          "code": "hr.siwan"
+        },
+        {
+          "code": "hr.assandh"
+        },
+        {
+          "code": "hr.gharaunda"
+        },
+        {
+          "code": "hr.indri"
+        },
+        {
+          "code": "hr.karnal"
+        },
+        {
+          "code": "hr.nilokheri"
+        },
+        {
+          "code": "hr.nissing"
+        },
+        {
+          "code": "hr.tarori"
+        },
+        {
+          "code": "hr.ismailabad"
+        },
+        {
+          "code": "hr.ladwa"
+        },
+        {
+          "code": "hr.pehowa"
+        },
+        {
+          "code": "hr.shahabad"
+        },
+        {
+          "code": "hr.thaneser"
+        },
+        {
+          "code": "hr.atelimandi"
+        },
+        {
+          "code": "hr.kanina"
+        },
+        {
+          "code": "hr.mahendergarh"
+        },
+        {
+          "code": "hr.nangalchaudhary"
+        },
+        {
+          "code": "hr.narnaul"
+        },
+        {
+          "code": "hr.firozpurzhirka"
+        },
+        {
+          "code": "hr.nuh"
+        },
+        {
+          "code": "hr.punhana"
+        },
+        {
+          "code": "hr.tauru"
+        },
+        {
+          "code": "hr.kalka"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.panipat"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.hathin"
+        },
+        {
+          "code": "hr.hodal"
         },
         {
           "code": "hr.palwal"
         },
         {
-          "code": "hr.hathin"
+          "code": "hr.bawal"
+        },
+        {
+          "code": "hr.dharuhera"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.kalanaur"
+        },
+        {
+          "code": "hr.meham"
+        },
+        {
+          "code": "hr.rohtak"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.gannaur"
+        },
+        {
+          "code": "hr.gohana"
+        },
+        {
+          "code": "hr.kharkhoda"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.sonepat"
+        },
+        {
+          "code": "hr.ellenabad"
+        },
+        {
+          "code": "hr.kalanwali"
+        },
+        {
+          "code": "hr.mandidabwali"
+        },
+        {
+          "code": "hr.rania"
+        },
+        {
+          "code": "hr.sirsa"
+        },
+        {
+          "code": "hr.radaur"
+        },
+        {
+          "code": "hr.sadhaura"
+        },
+        {
+          "code": "hr.yamunanagar"
         }
-        
       ]
     },
     {
       "module": "Receipts",
       "code": "Receipts",
       "active": true,
-      "order":3,
-      "tenants": [
+      "order": 3,
+     "tenants": [
         {
-          "code": "hr.citya"
+          "code": "hr.ambala"
         },
         {
-          "code": "hr.cityb"
+          "code": "hr.ambalasadar"
         },
         {
-          "code": "hr.cityc"
+          "code": "hr.barara"
         },
         {
-          "code": "hr.cityd"
+          "code": "hr.naraingarh"
         },
         {
-          "code": "hr.citye"
+          "code": "hr.bawanikhera"
         },
         {
-          "code": "hr.gurugram"
+          "code": "hr.bhiwani"
         },
         {
-          "code": "hr.panchkula"
+          "code": "hr.loharu"
         },
         {
-          "code": "hr.sohna"
+          "code": "hr.siwani"
         },
         {
-          "code": "hr.rewari"
+          "code": "hr.charkhidadri"
         },
         {
-          "code": "hr.thanesar"
+          "code": "hr.faridabad"
         },
         {
-          "code": "hr.farrukhnagar"
+          "code": "hr.bhuna"
         },
         {
-          "code": "hr.samalkha"
+          "code": "hr.fatehabad"
         },
         {
-          "code": "hr.sampla"
-        },
-        {
-          "code": "hr.kundli"
+          "code": "hr.jakhal"
         },
         {
           "code": "hr.ratia"
         },
         {
-          "code": "hr.pataudi"
+          "code": "hr.tohana"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.manesar"
+        },
+        {
+          "code": "hr.pataudijataulimandi"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.barwala"
+        },
+        {
+          "code": "hr.hisar"
+        },
+        {
+          "code": "hr.uklana"
+        },
+        {
+          "code": "hr.hansi"
+        },
+        {
+          "code": "hr.narnaund"
+        },
+        {
+          "code": "hr.bahadurgarh"
+        },
+        {
+          "code": "hr.beri"
+        },
+        {
+          "code": "hr.jhajjar"
+        },
+        {
+          "code": "hr.jind"
+        },
+        {
+          "code": "hr.julana"
+        },
+        {
+          "code": "hr.narwana"
+        },
+        {
+          "code": "hr.safidon"
+        },
+        {
+          "code": "hr.uchana"
+        },
+        {
+          "code": "hr.cheeka"
+        },
+        {
+          "code": "hr.kaithal"
+        },
+        {
+          "code": "hr.kalayat"
+        },
+        {
+          "code": "hr.pundri"
+        },
+        {
+          "code": "hr.rajaund"
+        },
+        {
+          "code": "hr.siwan"
+        },
+        {
+          "code": "hr.assandh"
+        },
+        {
+          "code": "hr.gharaunda"
+        },
+        {
+          "code": "hr.indri"
+        },
+        {
+          "code": "hr.karnal"
+        },
+        {
+          "code": "hr.nilokheri"
+        },
+        {
+          "code": "hr.nissing"
+        },
+        {
+          "code": "hr.tarori"
+        },
+        {
+          "code": "hr.ismailabad"
+        },
+        {
+          "code": "hr.ladwa"
+        },
+        {
+          "code": "hr.pehowa"
+        },
+        {
+          "code": "hr.shahabad"
+        },
+        {
+          "code": "hr.thaneser"
+        },
+        {
+          "code": "hr.atelimandi"
+        },
+        {
+          "code": "hr.kanina"
+        },
+        {
+          "code": "hr.mahendergarh"
+        },
+        {
+          "code": "hr.nangalchaudhary"
+        },
+        {
+          "code": "hr.narnaul"
+        },
+        {
+          "code": "hr.firozpurzhirka"
+        },
+        {
+          "code": "hr.nuh"
+        },
+        {
+          "code": "hr.punhana"
+        },
+        {
+          "code": "hr.tauru"
+        },
+        {
+          "code": "hr.kalka"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.panipat"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.hathin"
+        },
+        {
+          "code": "hr.hodal"
         },
         {
           "code": "hr.palwal"
         },
         {
-          "code": "hr.hathin"
+          "code": "hr.bawal"
+        },
+        {
+          "code": "hr.dharuhera"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.kalanaur"
+        },
+        {
+          "code": "hr.meham"
+        },
+        {
+          "code": "hr.rohtak"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.gannaur"
+        },
+        {
+          "code": "hr.gohana"
+        },
+        {
+          "code": "hr.kharkhoda"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.sonepat"
+        },
+        {
+          "code": "hr.ellenabad"
+        },
+        {
+          "code": "hr.kalanwali"
+        },
+        {
+          "code": "hr.mandidabwali"
+        },
+        {
+          "code": "hr.rania"
+        },
+        {
+          "code": "hr.sirsa"
+        },
+        {
+          "code": "hr.radaur"
+        },
+        {
+          "code": "hr.sadhaura"
+        },
+        {
+          "code": "hr.yamunanagar"
         }
       ]
     },
@@ -450,7 +1067,7 @@
       "module": "NOC",
       "code": "NOC",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
           "code": "hr.citya"
@@ -473,7 +1090,7 @@
       "module": "DSS",
       "code": "DSS",
       "active": true,
-      "order":6,
+      "order": 6,
       "tenants": [
         {
           "code": "hr.citya"
@@ -496,7 +1113,7 @@
       "module": "Engagement",
       "code": "Engagement",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
           "code": "hr.citya"
@@ -519,61 +1136,268 @@
       "module": "MCollect",
       "code": "MCollect",
       "active": true,
-      "order":1,
-      "tenants": [
+      "order": 1,
+     "tenants": [
         {
-          "code": "hr.citya"
+          "code": "hr.ambala"
         },
         {
-          "code": "hr.cityb"
+          "code": "hr.ambalasadar"
         },
         {
-          "code": "hr.cityc"
+          "code": "hr.barara"
         },
         {
-          "code": "hr.cityd"
+          "code": "hr.naraingarh"
         },
         {
-          "code": "hr.citye"
+          "code": "hr.bawanikhera"
         },
         {
-          "code": "hr.gurugram"
+          "code": "hr.bhiwani"
         },
         {
-          "code": "hr.panchkula"
+          "code": "hr.loharu"
         },
         {
-          "code": "hr.sohna"
+          "code": "hr.siwani"
         },
         {
-          "code": "hr.rewari"
+          "code": "hr.charkhidadri"
         },
         {
-          "code": "hr.thanesar"
+          "code": "hr.faridabad"
         },
         {
-          "code": "hr.farrukhnagar"
+          "code": "hr.bhuna"
         },
         {
-          "code": "hr.samalkha"
+          "code": "hr.fatehabad"
         },
         {
-          "code": "hr.sampla"
-        },
-        {
-          "code": "hr.kundli"
+          "code": "hr.jakhal"
         },
         {
           "code": "hr.ratia"
         },
         {
-          "code": "hr.pataudi"
+          "code": "hr.tohana"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.manesar"
+        },
+        {
+          "code": "hr.pataudijataulimandi"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.barwala"
+        },
+        {
+          "code": "hr.hisar"
+        },
+        {
+          "code": "hr.uklana"
+        },
+        {
+          "code": "hr.hansi"
+        },
+        {
+          "code": "hr.narnaund"
+        },
+        {
+          "code": "hr.bahadurgarh"
+        },
+        {
+          "code": "hr.beri"
+        },
+        {
+          "code": "hr.jhajjar"
+        },
+        {
+          "code": "hr.jind"
+        },
+        {
+          "code": "hr.julana"
+        },
+        {
+          "code": "hr.narwana"
+        },
+        {
+          "code": "hr.safidon"
+        },
+        {
+          "code": "hr.uchana"
+        },
+        {
+          "code": "hr.cheeka"
+        },
+        {
+          "code": "hr.kaithal"
+        },
+        {
+          "code": "hr.kalayat"
+        },
+        {
+          "code": "hr.pundri"
+        },
+        {
+          "code": "hr.rajaund"
+        },
+        {
+          "code": "hr.siwan"
+        },
+        {
+          "code": "hr.assandh"
+        },
+        {
+          "code": "hr.gharaunda"
+        },
+        {
+          "code": "hr.indri"
+        },
+        {
+          "code": "hr.karnal"
+        },
+        {
+          "code": "hr.nilokheri"
+        },
+        {
+          "code": "hr.nissing"
+        },
+        {
+          "code": "hr.tarori"
+        },
+        {
+          "code": "hr.ismailabad"
+        },
+        {
+          "code": "hr.ladwa"
+        },
+        {
+          "code": "hr.pehowa"
+        },
+        {
+          "code": "hr.shahabad"
+        },
+        {
+          "code": "hr.thaneser"
+        },
+        {
+          "code": "hr.atelimandi"
+        },
+        {
+          "code": "hr.kanina"
+        },
+        {
+          "code": "hr.mahendergarh"
+        },
+        {
+          "code": "hr.nangalchaudhary"
+        },
+        {
+          "code": "hr.narnaul"
+        },
+        {
+          "code": "hr.firozpurzhirka"
+        },
+        {
+          "code": "hr.nuh"
+        },
+        {
+          "code": "hr.punhana"
+        },
+        {
+          "code": "hr.tauru"
+        },
+        {
+          "code": "hr.kalka"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.panipat"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.hathin"
+        },
+        {
+          "code": "hr.hodal"
         },
         {
           "code": "hr.palwal"
         },
         {
-          "code": "hr.hathin"
+          "code": "hr.bawal"
+        },
+        {
+          "code": "hr.dharuhera"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.kalanaur"
+        },
+        {
+          "code": "hr.meham"
+        },
+        {
+          "code": "hr.rohtak"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.gannaur"
+        },
+        {
+          "code": "hr.gohana"
+        },
+        {
+          "code": "hr.kharkhoda"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.sonepat"
+        },
+        {
+          "code": "hr.ellenabad"
+        },
+        {
+          "code": "hr.kalanwali"
+        },
+        {
+          "code": "hr.mandidabwali"
+        },
+        {
+          "code": "hr.rania"
+        },
+        {
+          "code": "hr.sirsa"
+        },
+        {
+          "code": "hr.radaur"
+        },
+        {
+          "code": "hr.sadhaura"
+        },
+        {
+          "code": "hr.yamunanagar"
         }
       ]
     },
@@ -581,58 +1405,268 @@
       "module": "HRMS",
       "code": "HRMS",
       "active": true,
-      "order":2,
+      "order": 2,
       "tenants": [
         {
-          "code": "hr.citya"
+          "code": "hr.ambala"
         },
         {
-          "code": "hr.cityb"
+          "code": "hr.ambalasadar"
         },
         {
-          "code": "hr.cityc"
+          "code": "hr.barara"
         },
         {
-          "code": "hr.cityd"
+          "code": "hr.naraingarh"
         },
         {
-          "code": "hr.gurugram"
+          "code": "hr.bawanikhera"
         },
         {
-          "code": "hr.panchkula"
+          "code": "hr.bhiwani"
         },
         {
-          "code": "hr.sohna"
+          "code": "hr.loharu"
         },
         {
-          "code": "hr.rewari"
+          "code": "hr.siwani"
         },
         {
-          "code": "hr.thanesar"
+          "code": "hr.charkhidadri"
         },
         {
-          "code": "hr.farrukhnagar"
+          "code": "hr.faridabad"
         },
         {
-          "code": "hr.samalkha"
+          "code": "hr.bhuna"
         },
         {
-          "code": "hr.sampla"
+          "code": "hr.fatehabad"
         },
         {
-          "code": "hr.kundli"
+          "code": "hr.jakhal"
         },
         {
           "code": "hr.ratia"
         },
         {
-          "code": "hr.pataudi"
+          "code": "hr.tohana"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.manesar"
+        },
+        {
+          "code": "hr.pataudijataulimandi"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.barwala"
+        },
+        {
+          "code": "hr.hisar"
+        },
+        {
+          "code": "hr.uklana"
+        },
+        {
+          "code": "hr.hansi"
+        },
+        {
+          "code": "hr.narnaund"
+        },
+        {
+          "code": "hr.bahadurgarh"
+        },
+        {
+          "code": "hr.beri"
+        },
+        {
+          "code": "hr.jhajjar"
+        },
+        {
+          "code": "hr.jind"
+        },
+        {
+          "code": "hr.julana"
+        },
+        {
+          "code": "hr.narwana"
+        },
+        {
+          "code": "hr.safidon"
+        },
+        {
+          "code": "hr.uchana"
+        },
+        {
+          "code": "hr.cheeka"
+        },
+        {
+          "code": "hr.kaithal"
+        },
+        {
+          "code": "hr.kalayat"
+        },
+        {
+          "code": "hr.pundri"
+        },
+        {
+          "code": "hr.rajaund"
+        },
+        {
+          "code": "hr.siwan"
+        },
+        {
+          "code": "hr.assandh"
+        },
+        {
+          "code": "hr.gharaunda"
+        },
+        {
+          "code": "hr.indri"
+        },
+        {
+          "code": "hr.karnal"
+        },
+        {
+          "code": "hr.nilokheri"
+        },
+        {
+          "code": "hr.nissing"
+        },
+        {
+          "code": "hr.tarori"
+        },
+        {
+          "code": "hr.ismailabad"
+        },
+        {
+          "code": "hr.ladwa"
+        },
+        {
+          "code": "hr.pehowa"
+        },
+        {
+          "code": "hr.shahabad"
+        },
+        {
+          "code": "hr.thaneser"
+        },
+        {
+          "code": "hr.atelimandi"
+        },
+        {
+          "code": "hr.kanina"
+        },
+        {
+          "code": "hr.mahendergarh"
+        },
+        {
+          "code": "hr.nangalchaudhary"
+        },
+        {
+          "code": "hr.narnaul"
+        },
+        {
+          "code": "hr.firozpurzhirka"
+        },
+        {
+          "code": "hr.nuh"
+        },
+        {
+          "code": "hr.punhana"
+        },
+        {
+          "code": "hr.tauru"
+        },
+        {
+          "code": "hr.kalka"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.panipat"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.hathin"
+        },
+        {
+          "code": "hr.hodal"
         },
         {
           "code": "hr.palwal"
         },
         {
-          "code": "hr.hathin"
+          "code": "hr.bawal"
+        },
+        {
+          "code": "hr.dharuhera"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.kalanaur"
+        },
+        {
+          "code": "hr.meham"
+        },
+        {
+          "code": "hr.rohtak"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.gannaur"
+        },
+        {
+          "code": "hr.gohana"
+        },
+        {
+          "code": "hr.kharkhoda"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.sonepat"
+        },
+        {
+          "code": "hr.ellenabad"
+        },
+        {
+          "code": "hr.kalanwali"
+        },
+        {
+          "code": "hr.mandidabwali"
+        },
+        {
+          "code": "hr.rania"
+        },
+        {
+          "code": "hr.sirsa"
+        },
+        {
+          "code": "hr.radaur"
+        },
+        {
+          "code": "hr.sadhaura"
+        },
+        {
+          "code": "hr.yamunanagar"
         }
       ]
     },
@@ -640,7 +1674,7 @@
       "module": "CommonPT",
       "code": "CommonPT",
       "active": true,
-      "order":3,
+      "order": 3,
       "tenants": [
         {
           "code": "hr.citya"
@@ -663,7 +1697,7 @@
       "module": "NDSS",
       "code": "NDSS",
       "active": true,
-      "order":5,
+      "order": 5,
       "tenants": [
         {
           "code": "hr.citya"
@@ -740,54 +1774,267 @@
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
       "active": true,
       "order": 3,
-      "tenants": [
+     "tenants": [
         {
-          "code": "hr.citya"
+          "code": "hr.ambala"
         },
         {
-          "code": "hr.cityb"
+          "code": "hr.ambalasadar"
         },
         {
-          "code": "hr.cityc"
+          "code": "hr.barara"
         },
         {
-          "code": "hr.gurugram"
+          "code": "hr.naraingarh"
         },
         {
-          "code": "hr.panchkula"
+          "code": "hr.bawanikhera"
         },
         {
-          "code": "hr.sohna"
+          "code": "hr.bhiwani"
         },
         {
-          "code": "hr.rewari"
+          "code": "hr.loharu"
         },
         {
-          "code": "hr.thanesar"
+          "code": "hr.siwani"
         },
         {
-          "code": "hr.farrukhnagar"
+          "code": "hr.charkhidadri"
         },
         {
-          "code": "hr.samalkha"
+          "code": "hr.faridabad"
         },
         {
-          "code": "hr.sampla"
+          "code": "hr.bhuna"
         },
         {
-          "code": "hr.kundli"
+          "code": "hr.fatehabad"
+        },
+        {
+          "code": "hr.jakhal"
         },
         {
           "code": "hr.ratia"
         },
         {
-          "code": "hr.pataudi"
+          "code": "hr.tohana"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.manesar"
+        },
+        {
+          "code": "hr.pataudijataulimandi"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.barwala"
+        },
+        {
+          "code": "hr.hisar"
+        },
+        {
+          "code": "hr.uklana"
+        },
+        {
+          "code": "hr.hansi"
+        },
+        {
+          "code": "hr.narnaund"
+        },
+        {
+          "code": "hr.bahadurgarh"
+        },
+        {
+          "code": "hr.beri"
+        },
+        {
+          "code": "hr.jhajjar"
+        },
+        {
+          "code": "hr.jind"
+        },
+        {
+          "code": "hr.julana"
+        },
+        {
+          "code": "hr.narwana"
+        },
+        {
+          "code": "hr.safidon"
+        },
+        {
+          "code": "hr.uchana"
+        },
+        {
+          "code": "hr.cheeka"
+        },
+        {
+          "code": "hr.kaithal"
+        },
+        {
+          "code": "hr.kalayat"
+        },
+        {
+          "code": "hr.pundri"
+        },
+        {
+          "code": "hr.rajaund"
+        },
+        {
+          "code": "hr.siwan"
+        },
+        {
+          "code": "hr.assandh"
+        },
+        {
+          "code": "hr.gharaunda"
+        },
+        {
+          "code": "hr.indri"
+        },
+        {
+          "code": "hr.karnal"
+        },
+        {
+          "code": "hr.nilokheri"
+        },
+        {
+          "code": "hr.nissing"
+        },
+        {
+          "code": "hr.tarori"
+        },
+        {
+          "code": "hr.ismailabad"
+        },
+        {
+          "code": "hr.ladwa"
+        },
+        {
+          "code": "hr.pehowa"
+        },
+        {
+          "code": "hr.shahabad"
+        },
+        {
+          "code": "hr.thaneser"
+        },
+        {
+          "code": "hr.atelimandi"
+        },
+        {
+          "code": "hr.kanina"
+        },
+        {
+          "code": "hr.mahendergarh"
+        },
+        {
+          "code": "hr.nangalchaudhary"
+        },
+        {
+          "code": "hr.narnaul"
+        },
+        {
+          "code": "hr.firozpurzhirka"
+        },
+        {
+          "code": "hr.nuh"
+        },
+        {
+          "code": "hr.punhana"
+        },
+        {
+          "code": "hr.tauru"
+        },
+        {
+          "code": "hr.kalka"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.panipat"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.hathin"
+        },
+        {
+          "code": "hr.hodal"
         },
         {
           "code": "hr.palwal"
         },
         {
-          "code": "hr.hathin"
+          "code": "hr.bawal"
+        },
+        {
+          "code": "hr.dharuhera"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.kalanaur"
+        },
+        {
+          "code": "hr.meham"
+        },
+        {
+          "code": "hr.rohtak"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.gannaur"
+        },
+        {
+          "code": "hr.gohana"
+        },
+        {
+          "code": "hr.kharkhoda"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.sonepat"
+        },
+        {
+          "code": "hr.ellenabad"
+        },
+        {
+          "code": "hr.kalanwali"
+        },
+        {
+          "code": "hr.mandidabwali"
+        },
+        {
+          "code": "hr.rania"
+        },
+        {
+          "code": "hr.sirsa"
+        },
+        {
+          "code": "hr.radaur"
+        },
+        {
+          "code": "hr.sadhaura"
+        },
+        {
+          "code": "hr.yamunanagar"
         }
       ]
     },
@@ -844,7 +2091,7 @@
       "code": "PTR",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -868,7 +2115,7 @@
       "code": "ASSET",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -917,7 +2164,7 @@
         },
         {
           "code": "hr.hathin"
-        } 
+        }
       ]
     },
     {
@@ -925,7 +2172,7 @@
       "code": "CHB",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -950,7 +2197,7 @@
         },
         {
           "code": "hr.shimla"
-        } 
+        }
       ]
     },
     {
@@ -958,7 +2205,7 @@
       "code": "EW",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -982,7 +2229,7 @@
       "code": "VERIFICATIONSEARCH",
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/PT.png",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -998,14 +2245,14 @@
         },
         {
           "code": "hr.citye"
-        } 
+        }
       ]
     },
     {
       "module": "FNOC",
       "code": "FNOC",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -1028,7 +2275,7 @@
       "module": "SV",
       "code": "SV",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -1051,7 +2298,7 @@
       "module": "ADS",
       "code": "ADS",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
           "code": "hr.citya"
@@ -1067,7 +2314,7 @@
         },
         {
           "code": "hr.citye"
-        }, 
+        },
         {
           "code": "hr.mohali"
         },
@@ -1137,60 +2384,273 @@
           "code": "hr.hathin"
         }
       ]
-    } ,
+    },
     {
       "module": "VENDOR",
       "code": "VENDOR",
       "active": true,
-      "order":1,
+      "order": 1,
       "tenants": [
         {
-          "code": "hr.citya"
+          "code": "hr.ambala"
         },
         {
-          "code": "hr.cityb"
+          "code": "hr.ambalasadar"
         },
         {
-          "code": "hr.cityc"
+          "code": "hr.barara"
         },
         {
-          "code": "hr.gurugram"
+          "code": "hr.naraingarh"
         },
         {
-          "code": "hr.panchkula"
+          "code": "hr.bawanikhera"
         },
         {
-          "code": "hr.sohna"
+          "code": "hr.bhiwani"
         },
         {
-          "code": "hr.rewari"
+          "code": "hr.loharu"
         },
         {
-          "code": "hr.thanesar"
+          "code": "hr.siwani"
         },
         {
-          "code": "hr.farrukhnagar"
+          "code": "hr.charkhidadri"
         },
         {
-          "code": "hr.samalkha"
+          "code": "hr.faridabad"
         },
         {
-          "code": "hr.sampla"
+          "code": "hr.bhuna"
         },
         {
-          "code": "hr.kundli"
+          "code": "hr.fatehabad"
+        },
+        {
+          "code": "hr.jakhal"
         },
         {
           "code": "hr.ratia"
         },
         {
-          "code": "hr.pataudi"
+          "code": "hr.tohana"
+        },
+        {
+          "code": "hr.farrukhnagar"
+        },
+        {
+          "code": "hr.gurugram"
+        },
+        {
+          "code": "hr.manesar"
+        },
+        {
+          "code": "hr.pataudijataulimandi"
+        },
+        {
+          "code": "hr.sohna"
+        },
+        {
+          "code": "hr.barwala"
+        },
+        {
+          "code": "hr.hisar"
+        },
+        {
+          "code": "hr.uklana"
+        },
+        {
+          "code": "hr.hansi"
+        },
+        {
+          "code": "hr.narnaund"
+        },
+        {
+          "code": "hr.bahadurgarh"
+        },
+        {
+          "code": "hr.beri"
+        },
+        {
+          "code": "hr.jhajjar"
+        },
+        {
+          "code": "hr.jind"
+        },
+        {
+          "code": "hr.julana"
+        },
+        {
+          "code": "hr.narwana"
+        },
+        {
+          "code": "hr.safidon"
+        },
+        {
+          "code": "hr.uchana"
+        },
+        {
+          "code": "hr.cheeka"
+        },
+        {
+          "code": "hr.kaithal"
+        },
+        {
+          "code": "hr.kalayat"
+        },
+        {
+          "code": "hr.pundri"
+        },
+        {
+          "code": "hr.rajaund"
+        },
+        {
+          "code": "hr.siwan"
+        },
+        {
+          "code": "hr.assandh"
+        },
+        {
+          "code": "hr.gharaunda"
+        },
+        {
+          "code": "hr.indri"
+        },
+        {
+          "code": "hr.karnal"
+        },
+        {
+          "code": "hr.nilokheri"
+        },
+        {
+          "code": "hr.nissing"
+        },
+        {
+          "code": "hr.tarori"
+        },
+        {
+          "code": "hr.ismailabad"
+        },
+        {
+          "code": "hr.ladwa"
+        },
+        {
+          "code": "hr.pehowa"
+        },
+        {
+          "code": "hr.shahabad"
+        },
+        {
+          "code": "hr.thaneser"
+        },
+        {
+          "code": "hr.atelimandi"
+        },
+        {
+          "code": "hr.kanina"
+        },
+        {
+          "code": "hr.mahendergarh"
+        },
+        {
+          "code": "hr.nangalchaudhary"
+        },
+        {
+          "code": "hr.narnaul"
+        },
+        {
+          "code": "hr.firozpurzhirka"
+        },
+        {
+          "code": "hr.nuh"
+        },
+        {
+          "code": "hr.punhana"
+        },
+        {
+          "code": "hr.tauru"
+        },
+        {
+          "code": "hr.kalka"
+        },
+        {
+          "code": "hr.panchkula"
+        },
+        {
+          "code": "hr.panipat"
+        },
+        {
+          "code": "hr.samalkha"
+        },
+        {
+          "code": "hr.hathin"
+        },
+        {
+          "code": "hr.hodal"
         },
         {
           "code": "hr.palwal"
         },
         {
-          "code": "hr.hathin"
+          "code": "hr.bawal"
+        },
+        {
+          "code": "hr.dharuhera"
+        },
+        {
+          "code": "hr.rewari"
+        },
+        {
+          "code": "hr.kalanaur"
+        },
+        {
+          "code": "hr.meham"
+        },
+        {
+          "code": "hr.rohtak"
+        },
+        {
+          "code": "hr.sampla"
+        },
+        {
+          "code": "hr.gannaur"
+        },
+        {
+          "code": "hr.gohana"
+        },
+        {
+          "code": "hr.kharkhoda"
+        },
+        {
+          "code": "hr.kundli"
+        },
+        {
+          "code": "hr.sonepat"
+        },
+        {
+          "code": "hr.ellenabad"
+        },
+        {
+          "code": "hr.kalanwali"
+        },
+        {
+          "code": "hr.mandidabwali"
+        },
+        {
+          "code": "hr.rania"
+        },
+        {
+          "code": "hr.sirsa"
+        },
+        {
+          "code": "hr.radaur"
+        },
+        {
+          "code": "hr.sadhaura"
+        },
+        {
+          "code": "hr.yamunanagar"
         }
       ]
     },
@@ -1200,7 +2660,7 @@
       "active": true,
       "order": 14,
       "additionalComponent": "TqmAdminNotification",
-      "tenants":  [
+      "tenants": [
         {
           "code": "hr.citya"
         },
@@ -1217,6 +2677,6 @@
           "code": "hr.citye"
         }
       ]
-    } 
+    }
   ]
 }
