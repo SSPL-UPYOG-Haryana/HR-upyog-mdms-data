@@ -1,0 +1,1054 @@
+{
+  "tenantId": "hr.yamunanagar",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Yamunanagar",
+        "localname": "Yamunanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.yamunanagar",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR01",
+            "children": [
+              {
+                "id": "101",
+                "boundaryNum": "1",
+                "name": "Mohalla 1A",
+                "localname": "Mohalla 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR01M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR02",
+            "children": [
+              {
+                "id": "201",
+                "boundaryNum": "1",
+                "name": "Mohalla 2A",
+                "localname": "Mohalla 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR02M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR03",
+            "children": [
+              {
+                "id": "301",
+                "boundaryNum": "1",
+                "name": "Mohalla 3A",
+                "localname": "Mohalla 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR03M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR04",
+            "children": [
+              {
+                "id": "401",
+                "boundaryNum": "1",
+                "name": "Mohalla 4A",
+                "localname": "Mohalla 4A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR04M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR05",
+            "children": [
+              {
+                "id": "501",
+                "boundaryNum": "1",
+                "name": "Mohalla 5A",
+                "localname": "Mohalla 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR05M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "boundaryNum": "1",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR06",
+            "children": [
+              {
+                "id": "601",
+                "boundaryNum": "1",
+                "name": "Mohalla 6A",
+                "localname": "Mohalla 6A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR06M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": "1",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR07",
+            "children": [
+              {
+                "id": "701",
+                "boundaryNum": "1",
+                "name": "Mohalla 7A",
+                "localname": "Mohalla 7A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR07M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR08",
+            "children": [
+              {
+                "id": "801",
+                "boundaryNum": "1",
+                "name": "Mohalla 8A",
+                "localname": "Mohalla 8A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR08M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR09",
+            "children": [
+              {
+                "id": "901",
+                "boundaryNum": "1",
+                "name": "Mohalla 9A",
+                "localname": "Mohalla 9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR09M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR10",
+            "children": [
+              {
+                "id": "1001",
+                "boundaryNum": "1",
+                "name": "Mohalla 10A",
+                "localname": "Mohalla 10A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR10M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR11",
+            "children": [
+              {
+                "id": "1101",
+                "boundaryNum": "1",
+                "name": "Mohalla 11A",
+                "localname": "Mohalla 11A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR11M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR12",
+            "children": [
+              {
+                "id": "1201",
+                "boundaryNum": "1",
+                "name": "Mohalla 12A",
+                "localname": "Mohalla 12A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR12M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": "1",
+            "name": "Ward 13",
+            "localname": "Ward 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR13",
+            "children": [
+              {
+                "id": "1301",
+                "boundaryNum": "1",
+                "name": "Mohalla 13A",
+                "localname": "Mohalla 13A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR13M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": "1",
+            "name": "Ward 14",
+            "localname": "Ward 14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR14",
+            "children": [
+              {
+                "id": "1401",
+                "boundaryNum": "1",
+                "name": "Mohalla 14A",
+                "localname": "Mohalla 14A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR14M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": "1",
+            "name": "Ward 15",
+            "localname": "Ward 15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR15",
+            "children": [
+              {
+                "id": "1501",
+                "boundaryNum": "1",
+                "name": "Mohalla 15A",
+                "localname": "Mohalla 15A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR15M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": "1",
+            "name": "Ward 16",
+            "localname": "Ward 16",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR16",
+            "children": [
+              {
+                "id": "1601",
+                "boundaryNum": "1",
+                "name": "Mohalla 16A",
+                "localname": "Mohalla 16A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR16M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": "1",
+            "name": "Ward 17",
+            "localname": "Ward 17",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR17",
+            "children": [
+              {
+                "id": "1701",
+                "boundaryNum": "1",
+                "name": "Mohalla 17A",
+                "localname": "Mohalla 17A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR17M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": "1",
+            "name": "Ward 18",
+            "localname": "Ward 18",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR18",
+            "children": [
+              {
+                "id": "1801",
+                "boundaryNum": "1",
+                "name": "Mohalla 18A",
+                "localname": "Mohalla 18A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR18M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": "1",
+            "name": "Ward 19",
+            "localname": "Ward 19",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR19",
+            "children": [
+              {
+                "id": "1901",
+                "boundaryNum": "1",
+                "name": "Mohalla 19A",
+                "localname": "Mohalla 19A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR19M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": "1",
+            "name": "Ward 20",
+            "localname": "Ward 20",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR20",
+            "children": [
+              {
+                "id": "2001",
+                "boundaryNum": "1",
+                "name": "Mohalla 20A",
+                "localname": "Mohalla 20A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR20M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": "1",
+            "name": "Ward 21",
+            "localname": "Ward 21",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR21",
+            "children": [
+              {
+                "id": "2101",
+                "boundaryNum": "1",
+                "name": "Mohalla 21A",
+                "localname": "Mohalla 21A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR21M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": "1",
+            "name": "Ward 22",
+            "localname": "Ward 22",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR22",
+            "children": [
+              {
+                "id": "2201",
+                "boundaryNum": "1",
+                "name": "Mohalla 22A",
+                "localname": "Mohalla 22A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR22M1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Yamunanagar",
+        "localname": "Yamunanagar",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.yamunanagar",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR01",
+            "children": [
+              {
+                "id": "101",
+                "boundaryNum": "1",
+                "name": "Mohalla 1A",
+                "localname": "Mohalla 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR01M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR02",
+            "children": [
+              {
+                "id": "201",
+                "boundaryNum": "1",
+                "name": "Mohalla 2A",
+                "localname": "Mohalla 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR02M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR03",
+            "children": [
+              {
+                "id": "301",
+                "boundaryNum": "1",
+                "name": "Mohalla 3A",
+                "localname": "Mohalla 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR03M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR04",
+            "children": [
+              {
+                "id": "401",
+                "boundaryNum": "1",
+                "name": "Mohalla 4A",
+                "localname": "Mohalla 4A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR04M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR05",
+            "children": [
+              {
+                "id": "501",
+                "boundaryNum": "1",
+                "name": "Mohalla 5A",
+                "localname": "Mohalla 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR05M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "6",
+            "boundaryNum": "1",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR06",
+            "children": [
+              {
+                "id": "601",
+                "boundaryNum": "1",
+                "name": "Mohalla 6A",
+                "localname": "Mohalla 6A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR06M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "7",
+            "boundaryNum": "1",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR07",
+            "children": [
+              {
+                "id": "701",
+                "boundaryNum": "1",
+                "name": "Mohalla 7A",
+                "localname": "Mohalla 7A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR07M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "8",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR08",
+            "children": [
+              {
+                "id": "801",
+                "boundaryNum": "1",
+                "name": "Mohalla 8A",
+                "localname": "Mohalla 8A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR08M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR09",
+            "children": [
+              {
+                "id": "901",
+                "boundaryNum": "1",
+                "name": "Mohalla 9A",
+                "localname": "Mohalla 9A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR09M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR10",
+            "children": [
+              {
+                "id": "1001",
+                "boundaryNum": "1",
+                "name": "Mohalla 10A",
+                "localname": "Mohalla 10A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR10M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR11",
+            "children": [
+              {
+                "id": "1101",
+                "boundaryNum": "1",
+                "name": "Mohalla 11A",
+                "localname": "Mohalla 11A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR11M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR12",
+            "children": [
+              {
+                "id": "1201",
+                "boundaryNum": "1",
+                "name": "Mohalla 12A",
+                "localname": "Mohalla 12A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR12M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "13",
+            "boundaryNum": "1",
+            "name": "Ward 13",
+            "localname": "Ward 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR13",
+            "children": [
+              {
+                "id": "1301",
+                "boundaryNum": "1",
+                "name": "Mohalla 13A",
+                "localname": "Mohalla 13A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR13M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "14",
+            "boundaryNum": "1",
+            "name": "Ward 14",
+            "localname": "Ward 14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR14",
+            "children": [
+              {
+                "id": "1401",
+                "boundaryNum": "1",
+                "name": "Mohalla 14A",
+                "localname": "Mohalla 14A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR14M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "15",
+            "boundaryNum": "1",
+            "name": "Ward 15",
+            "localname": "Ward 15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR15",
+            "children": [
+              {
+                "id": "1501",
+                "boundaryNum": "1",
+                "name": "Mohalla 15A",
+                "localname": "Mohalla 15A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR15M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "16",
+            "boundaryNum": "1",
+            "name": "Ward 16",
+            "localname": "Ward 16",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR16",
+            "children": [
+              {
+                "id": "1601",
+                "boundaryNum": "1",
+                "name": "Mohalla 16A",
+                "localname": "Mohalla 16A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR16M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "17",
+            "boundaryNum": "1",
+            "name": "Ward 17",
+            "localname": "Ward 17",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR17",
+            "children": [
+              {
+                "id": "1701",
+                "boundaryNum": "1",
+                "name": "Mohalla 17A",
+                "localname": "Mohalla 17A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR17M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "18",
+            "boundaryNum": "1",
+            "name": "Ward 18",
+            "localname": "Ward 18",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR18",
+            "children": [
+              {
+                "id": "1801",
+                "boundaryNum": "1",
+                "name": "Mohalla 18A",
+                "localname": "Mohalla 18A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR18M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "19",
+            "boundaryNum": "1",
+            "name": "Ward 19",
+            "localname": "Ward 19",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR19",
+            "children": [
+              {
+                "id": "1901",
+                "boundaryNum": "1",
+                "name": "Mohalla 19A",
+                "localname": "Mohalla 19A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR19M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "20",
+            "boundaryNum": "1",
+            "name": "Ward 20",
+            "localname": "Ward 20",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR20",
+            "children": [
+              {
+                "id": "2001",
+                "boundaryNum": "1",
+                "name": "Mohalla 20A",
+                "localname": "Mohalla 20A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR20M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "21",
+            "boundaryNum": "1",
+            "name": "Ward 21",
+            "localname": "Ward 21",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR21",
+            "children": [
+              {
+                "id": "2101",
+                "boundaryNum": "1",
+                "name": "Mohalla 21A",
+                "localname": "Mohalla 21A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR21M1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "22",
+            "boundaryNum": "1",
+            "name": "Ward 22",
+            "localname": "Ward 22",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "YNR22",
+            "children": [
+              {
+                "id": "2201",
+                "boundaryNum": "1",
+                "name": "Mohalla 22A",
+                "localname": "Mohalla 22A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "YNR22M1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}

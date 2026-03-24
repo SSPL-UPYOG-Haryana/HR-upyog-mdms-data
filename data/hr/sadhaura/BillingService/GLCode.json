@@ -1,0 +1,17 @@
+{
+    "tenantId": "hr.sadhaura",
+    "moduleName": "BillingService",
+    "GLCode": [
+        {
+            "code": "BIRTH_CERT",
+            "glcode": null,
+            "cb": "hr.sadhaura"
+        },
+        {
+            "code": "DEATH_CERT",
+            "glcode": null,
+            "cb": "hr.sadhaura"
+        }
+    ]
+    
+}

@@ -1,0 +1,180 @@
+{
+  "tenantId": "hr.radaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Radaur",
+        "localname": "Radaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.radaur",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "RDR01",
+            "children": [
+              {
+                "id": "101",
+                "boundaryNum": "1",
+                "name": "Locality 1A",
+                "localname": "Locality 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "RDR01L1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "RDR02",
+            "children": [
+              {
+                "id": "201",
+                "boundaryNum": "1",
+                "name": "Locality 2A",
+                "localname": "Locality 2A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "RDR02L1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "RDR03",
+            "children": [
+              {
+                "id": "301",
+                "boundaryNum": "1",
+                "name": "Locality 3A",
+                "localname": "Locality 3A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "RDR03L1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "RDR04",
+            "children": [
+              {
+                "id": "401",
+                "boundaryNum": "1",
+                "name": "Locality 4A",
+                "localname": "Locality 4A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "RDR04L1",
+                "children": []
+              }
+            ]
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "RDR05",
+            "children": [
+              {
+                "id": "501",
+                "boundaryNum": "1",
+                "name": "Locality 5A",
+                "localname": "Locality 5A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "RDR05L1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Radaur",
+        "localname": "Radaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.radaur",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "RDR01",
+            "children": [
+              {
+                "id": "101",
+                "boundaryNum": "1",
+                "name": "Locality 1A",
+                "localname": "Locality 1A",
+                "longitude": null,
+                "latitude": null,
+                "label": "Locality",
+                "code": "RDR01L1",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    }
+  ]
+}
