@@ -17,45 +17,6 @@
         },
         {
           "code": "hr.cityc"
-        },
-        {
-          "code": "hr.gurugram"
-        },
-        {
-          "code": "hr.panchkula"
-        },
-        {
-          "code": "hr.sohna"
-        },
-        {
-          "code": "hr.rewari"
-        },
-        {
-          "code": "hr.thanesar"
-        },
-        {
-          "code": "hr.farrukhnagar"
-        },
-        {
-          "code": "hr.samalkha"
-        },
-        {
-          "code": "hr.sampla"
-        },
-        {
-          "code": "hr.kundli"
-        },
-        {
-          "code": "hr.ratia"
-        },
-        {
-          "code": "hr.pataudi"
-        },
-        {
-          "code": "hr.palwal"
-        },
-        {
-          "code": "hr.hathin"
         }
       ]
     },
@@ -799,7 +760,7 @@
       "code": "Receipts",
       "active": true,
       "order": 3,
-     "tenants": [
+      "tenants": [
         {
           "code": "hr.ambala"
         },
@@ -1137,7 +1098,7 @@
       "code": "MCollect",
       "active": true,
       "order": 1,
-     "tenants": [
+      "tenants": [
         {
           "code": "hr.ambala"
         },
@@ -1774,7 +1735,7 @@
       "bannerImage": "https://egov-uat-assets.s3.amazonaws.com/Bill.png",
       "active": true,
       "order": 3,
-     "tenants": [
+      "tenants": [
         {
           "code": "hr.ambala"
         },
@@ -2125,45 +2086,6 @@
         },
         {
           "code": "hr.cityc"
-        },
-        {
-          "code": "hr.gurugram"
-        },
-        {
-          "code": "hr.panchkula"
-        },
-        {
-          "code": "hr.sohna"
-        },
-        {
-          "code": "hr.rewari"
-        },
-        {
-          "code": "hr.thanesar"
-        },
-        {
-          "code": "hr.farrukhnagar"
-        },
-        {
-          "code": "hr.samalkha"
-        },
-        {
-          "code": "hr.sampla"
-        },
-        {
-          "code": "hr.kundli"
-        },
-        {
-          "code": "hr.ratia"
-        },
-        {
-          "code": "hr.pataudi"
-        },
-        {
-          "code": "hr.palwal"
-        },
-        {
-          "code": "hr.hathin"
         }
       ]
     },
@@ -2188,15 +2110,6 @@
         },
         {
           "code": "hr.citye"
-        },
-        {
-          "code": "hr.mohali"
-        },
-        {
-          "code": "hr.dharamshala"
-        },
-        {
-          "code": "hr.shimla"
         }
       ]
     },
@@ -2314,15 +2227,6 @@
         },
         {
           "code": "hr.citye"
-        },
-        {
-          "code": "hr.mohali"
-        },
-        {
-          "code": "hr.dharamshala"
-        },
-        {
-          "code": "hr.shimla"
         }
       ]
     },
@@ -2343,45 +2247,6 @@
         },
         {
           "code": "hr.cityd"
-        },
-        {
-          "code": "hr.gurugram"
-        },
-        {
-          "code": "hr.panchkula"
-        },
-        {
-          "code": "hr.sohna"
-        },
-        {
-          "code": "hr.rewari"
-        },
-        {
-          "code": "hr.thanesar"
-        },
-        {
-          "code": "hr.farrukhnagar"
-        },
-        {
-          "code": "hr.samalkha"
-        },
-        {
-          "code": "hr.sampla"
-        },
-        {
-          "code": "hr.kundli"
-        },
-        {
-          "code": "hr.ratia"
-        },
-        {
-          "code": "hr.pataudi"
-        },
-        {
-          "code": "hr.palwal"
-        },
-        {
-          "code": "hr.hathin"
         }
       ]
     },
