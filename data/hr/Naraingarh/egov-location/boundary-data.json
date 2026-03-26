@@ -1,0 +1,154 @@
+{
+  "tenantId": "hr.naraingarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Naraingarh",
+        "localname": "Naraingarh",
+        "label": "City",
+        "code": "hr.naraingarh",
+        "children": [
+          {
+            "id": "1",
+            "name": "Ward 1",
+            "label": "Ward",
+            "code": "NRG01",
+            "children": []
+          },
+          {
+            "id": "2",
+            "name": "Ward 2",
+            "label": "Ward",
+            "code": "NRG02",
+            "children": []
+          },
+          {
+            "id": "3",
+            "name": "Ward 3",
+            "label": "Ward",
+            "code": "NRG03",
+            "children": []
+          },
+          {
+            "id": "4",
+            "name": "Ward 4",
+            "label": "Ward",
+            "code": "NRG04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "name": "Ward 5",
+            "label": "Ward",
+            "code": "NRG05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "name": "Ward 6",
+            "label": "Ward",
+            "code": "NRG06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "name": "Ward 7",
+            "label": "Ward",
+            "code": "NRG07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "name": "Ward 8",
+            "label": "Ward",
+            "code": "NRG08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "name": "Ward 9",
+            "label": "Ward",
+            "code": "NRG09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "name": "Ward 10",
+            "label": "Ward",
+            "code": "NRG10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "name": "Ward 11",
+            "label": "Ward",
+            "code": "NRG11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "name": "Ward 12",
+            "label": "Ward",
+            "code": "NRG12",
+            "children": []
+          },
+          {
+            "id": "13",
+            "name": "Ward 13",
+            "label": "Ward",
+            "code": "NRG13",
+            "children": []
+          },
+          {
+            "id": "14",
+            "name": "Ward 14",
+            "label": "Ward",
+            "code": "NRG14",
+            "children": []
+          },
+          {
+            "id": "15",
+            "name": "Ward 15",
+            "label": "Ward",
+            "code": "NRG15",
+            "children": []
+          },
+          {
+            "id": "16",
+            "name": "Ward 16",
+            "label": "Ward",
+            "code": "NRG16",
+            "children": []
+          },
+          {
+            "id": "17",
+            "name": "Ward 17",
+            "label": "Ward",
+            "code": "NRG17",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "name": "Naraingarh",
+        "label": "City",
+        "code": "hr.naraingarh",
+        "children": []
+      }
+    }
+  ]
+}

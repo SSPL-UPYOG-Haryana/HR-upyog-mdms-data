@@ -1,0 +1,315 @@
+{
+  "tenantId": "hr.faridabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Faridabad",
+        "localname": "Faridabad",
+        "label": "City",
+        "code": "hr.faridabad",
+        "children": [
+          {
+            "id": "1",
+            "name": "Ward 1",
+            "label": "Ward",
+            "code": "FBD01",
+            "children": []
+          },
+          {
+            "id": "2",
+            "name": "Ward 2",
+            "label": "Ward",
+            "code": "FBD02",
+            "children": []
+          },
+          {
+            "id": "3",
+            "name": "Ward 3",
+            "label": "Ward",
+            "code": "FBD03",
+            "children": []
+          },
+          {
+            "id": "4",
+            "name": "Ward 4",
+            "label": "Ward",
+            "code": "FBD04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "name": "Ward 5",
+            "label": "Ward",
+            "code": "FBD05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "name": "Ward 6",
+            "label": "Ward",
+            "code": "FBD06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "name": "Ward 7",
+            "label": "Ward",
+            "code": "FBD07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "name": "Ward 8",
+            "label": "Ward",
+            "code": "FBD08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "name": "Ward 9",
+            "label": "Ward",
+            "code": "FBD09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "name": "Ward 10",
+            "label": "Ward",
+            "code": "FBD10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "name": "Ward 11",
+            "label": "Ward",
+            "code": "FBD11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "name": "Ward 12",
+            "label": "Ward",
+            "code": "FBD12",
+            "children": []
+          },
+          {
+            "id": "13",
+            "name": "Ward 13",
+            "label": "Ward",
+            "code": "FBD13",
+            "children": []
+          },
+          {
+            "id": "14",
+            "name": "Ward 14",
+            "label": "Ward",
+            "code": "FBD14",
+            "children": []
+          },
+          {
+            "id": "15",
+            "name": "Ward 15",
+            "label": "Ward",
+            "code": "FBD15",
+            "children": []
+          },
+          {
+            "id": "16",
+            "name": "Ward 16",
+            "label": "Ward",
+            "code": "FBD16",
+            "children": []
+          },
+          {
+            "id": "17",
+            "name": "Ward 17",
+            "label": "Ward",
+            "code": "FBD17",
+            "children": []
+          },
+          {
+            "id": "18",
+            "name": "Ward 18",
+            "label": "Ward",
+            "code": "FBD18",
+            "children": []
+          },
+          {
+            "id": "19",
+            "name": "Ward 19",
+            "label": "Ward",
+            "code": "FBD19",
+            "children": []
+          },
+          {
+            "id": "20",
+            "name": "Ward 20",
+            "label": "Ward",
+            "code": "FBD20",
+            "children": []
+          },
+          {
+            "id": "21",
+            "name": "Ward 21",
+            "label": "Ward",
+            "code": "FBD21",
+            "children": []
+          },
+          {
+            "id": "22",
+            "name": "Ward 22",
+            "label": "Ward",
+            "code": "FBD22",
+            "children": []
+          },
+          {
+            "id": "23",
+            "name": "Ward 23",
+            "label": "Ward",
+            "code": "FBD23",
+            "children": []
+          },
+          {
+            "id": "24",
+            "name": "Ward 24",
+            "label": "Ward",
+            "code": "FBD24",
+            "children": []
+          },
+          {
+            "id": "25",
+            "name": "Ward 25",
+            "label": "Ward",
+            "code": "FBD25",
+            "children": []
+          },
+          {
+            "id": "26",
+            "name": "Ward 26",
+            "label": "Ward",
+            "code": "FBD26",
+            "children": []
+          },
+          {
+            "id": "27",
+            "name": "Ward 27",
+            "label": "Ward",
+            "code": "FBD27",
+            "children": []
+          },
+          {
+            "id": "28",
+            "name": "Ward 28",
+            "label": "Ward",
+            "code": "FBD28",
+            "children": []
+          },
+          {
+            "id": "29",
+            "name": "Ward 29",
+            "label": "Ward",
+            "code": "FBD29",
+            "children": []
+          },
+          {
+            "id": "30",
+            "name": "Ward 30",
+            "label": "Ward",
+            "code": "FBD30",
+            "children": []
+          },
+          {
+            "id": "31",
+            "name": "Ward 31",
+            "label": "Ward",
+            "code": "FBD31",
+            "children": []
+          },
+          {
+            "id": "32",
+            "name": "Ward 32",
+            "label": "Ward",
+            "code": "FBD32",
+            "children": []
+          },
+          {
+            "id": "33",
+            "name": "Ward 33",
+            "label": "Ward",
+            "code": "FBD33",
+            "children": []
+          },
+          {
+            "id": "34",
+            "name": "Ward 34",
+            "label": "Ward",
+            "code": "FBD34",
+            "children": []
+          },
+          {
+            "id": "35",
+            "name": "Ward 35",
+            "label": "Ward",
+            "code": "FBD35",
+            "children": []
+          },
+          {
+            "id": "36",
+            "name": "Ward 36",
+            "label": "Ward",
+            "code": "FBD36",
+            "children": []
+          },
+          {
+            "id": "37",
+            "name": "Ward 37",
+            "label": "Ward",
+            "code": "FBD37",
+            "children": []
+          },
+          {
+            "id": "38",
+            "name": "Ward 38",
+            "label": "Ward",
+            "code": "FBD38",
+            "children": []
+          },
+          {
+            "id": "39",
+            "name": "Ward 39",
+            "label": "Ward",
+            "code": "FBD39",
+            "children": []
+          },
+          {
+            "id": "40",
+            "name": "Ward 40",
+            "label": "Ward",
+            "code": "FBD40",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "name": "Faridabad",
+        "label": "City",
+        "code": "hr.faridabad",
+        "children": []
+      }
+    }
+  ]
+}

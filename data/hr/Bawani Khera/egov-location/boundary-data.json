@@ -1,0 +1,126 @@
+{
+  "tenantId": "hr.bawanikhera",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Bawani Khera",
+        "localname": "Bawani Khera",
+        "label": "City",
+        "code": "hr.bawanikhera",
+        "children": [
+          {
+            "id": "1",
+            "name": "Ward 1",
+            "label": "Ward",
+            "code": "BWK01",
+            "children": []
+          },
+          {
+            "id": "2",
+            "name": "Ward 2",
+            "label": "Ward",
+            "code": "BWK02",
+            "children": []
+          },
+          {
+            "id": "3",
+            "name": "Ward 3",
+            "label": "Ward",
+            "code": "BWK03",
+            "children": []
+          },
+          {
+            "id": "4",
+            "name": "Ward 4",
+            "label": "Ward",
+            "code": "BWK04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "name": "Ward 5",
+            "label": "Ward",
+            "code": "BWK05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "name": "Ward 6",
+            "label": "Ward",
+            "code": "BWK06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "name": "Ward 7",
+            "label": "Ward",
+            "code": "BWK07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "name": "Ward 8",
+            "label": "Ward",
+            "code": "BWK08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "name": "Ward 9",
+            "label": "Ward",
+            "code": "BWK09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "name": "Ward 10",
+            "label": "Ward",
+            "code": "BWK10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "name": "Ward 11",
+            "label": "Ward",
+            "code": "BWK11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "name": "Ward 12",
+            "label": "Ward",
+            "code": "BWK12",
+            "children": []
+          },
+          {
+            "id": "13",
+            "name": "Ward 13",
+            "label": "Ward",
+            "code": "BWK13",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "name": "Bawani Khera",
+        "label": "City",
+        "code": "hr.bawanikhera",
+        "children": []
+      }
+    }
+  ]
+}

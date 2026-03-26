@@ -1,0 +1,252 @@
+{
+  "tenantId": "hr.bhiwani",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Bhiwani",
+        "localname": "Bhiwani",
+        "label": "City",
+        "code": "hr.bhiwani",
+        "children": [
+          {
+            "id": "1",
+            "name": "Ward 1",
+            "label": "Ward",
+            "code": "BHW01",
+            "children": []
+          },
+          {
+            "id": "2",
+            "name": "Ward 2",
+            "label": "Ward",
+            "code": "BHW02",
+            "children": []
+          },
+          {
+            "id": "3",
+            "name": "Ward 3",
+            "label": "Ward",
+            "code": "BHW03",
+            "children": []
+          },
+          {
+            "id": "4",
+            "name": "Ward 4",
+            "label": "Ward",
+            "code": "BHW04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "name": "Ward 5",
+            "label": "Ward",
+            "code": "BHW05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "name": "Ward 6",
+            "label": "Ward",
+            "code": "BHW06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "name": "Ward 7",
+            "label": "Ward",
+            "code": "BHW07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "name": "Ward 8",
+            "label": "Ward",
+            "code": "BHW08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "name": "Ward 9",
+            "label": "Ward",
+            "code": "BHW09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "name": "Ward 10",
+            "label": "Ward",
+            "code": "BHW10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "name": "Ward 11",
+            "label": "Ward",
+            "code": "BHW11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "name": "Ward 12",
+            "label": "Ward",
+            "code": "BHW12",
+            "children": []
+          },
+          {
+            "id": "13",
+            "name": "Ward 13",
+            "label": "Ward",
+            "code": "BHW13",
+            "children": []
+          },
+          {
+            "id": "14",
+            "name": "Ward 14",
+            "label": "Ward",
+            "code": "BHW14",
+            "children": []
+          },
+          {
+            "id": "15",
+            "name": "Ward 15",
+            "label": "Ward",
+            "code": "BHW15",
+            "children": []
+          },
+          {
+            "id": "16",
+            "name": "Ward 16",
+            "label": "Ward",
+            "code": "BHW16",
+            "children": []
+          },
+          {
+            "id": "17",
+            "name": "Ward 17",
+            "label": "Ward",
+            "code": "BHW17",
+            "children": []
+          },
+          {
+            "id": "18",
+            "name": "Ward 18",
+            "label": "Ward",
+            "code": "BHW18",
+            "children": []
+          },
+          {
+            "id": "19",
+            "name": "Ward 19",
+            "label": "Ward",
+            "code": "BHW19",
+            "children": []
+          },
+          {
+            "id": "20",
+            "name": "Ward 20",
+            "label": "Ward",
+            "code": "BHW20",
+            "children": []
+          },
+          {
+            "id": "21",
+            "name": "Ward 21",
+            "label": "Ward",
+            "code": "BHW21",
+            "children": []
+          },
+          {
+            "id": "22",
+            "name": "Ward 22",
+            "label": "Ward",
+            "code": "BHW22",
+            "children": []
+          },
+          {
+            "id": "23",
+            "name": "Ward 23",
+            "label": "Ward",
+            "code": "BHW23",
+            "children": []
+          },
+          {
+            "id": "24",
+            "name": "Ward 24",
+            "label": "Ward",
+            "code": "BHW24",
+            "children": []
+          },
+          {
+            "id": "25",
+            "name": "Ward 25",
+            "label": "Ward",
+            "code": "BHW25",
+            "children": []
+          },
+          {
+            "id": "26",
+            "name": "Ward 26",
+            "label": "Ward",
+            "code": "BHW26",
+            "children": []
+          },
+          {
+            "id": "27",
+            "name": "Ward 27",
+            "label": "Ward",
+            "code": "BHW27",
+            "children": []
+          },
+          {
+            "id": "28",
+            "name": "Ward 28",
+            "label": "Ward",
+            "code": "BHW28",
+            "children": []
+          },
+          {
+            "id": "29",
+            "name": "Ward 29",
+            "label": "Ward",
+            "code": "BHW29",
+            "children": []
+          },
+          {
+            "id": "30",
+            "name": "Ward 30",
+            "label": "Ward",
+            "code": "BHW30",
+            "children": []
+          },
+          {
+            "id": "31",
+            "name": "Ward 31",
+            "label": "Ward",
+            "code": "BHW31",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "name": "Bhiwani",
+        "label": "City",
+        "code": "hr.bhiwani",
+        "children": []
+      }
+    }
+  ]
+}

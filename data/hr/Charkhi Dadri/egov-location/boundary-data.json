@@ -1,0 +1,175 @@
+{
+  "tenantId": "hr.charkhidadri",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Charkhi Dadri",
+        "localname": "Charkhi Dadri",
+        "label": "City",
+        "code": "hr.charkhidadri",
+        "children": [
+          {
+            "id": "1",
+            "name": "Ward 1",
+            "label": "Ward",
+            "code": "CDD01",
+            "children": []
+          },
+          {
+            "id": "2",
+            "name": "Ward 2",
+            "label": "Ward",
+            "code": "CDD02",
+            "children": []
+          },
+          {
+            "id": "3",
+            "name": "Ward 3",
+            "label": "Ward",
+            "code": "CDD03",
+            "children": []
+          },
+          {
+            "id": "4",
+            "name": "Ward 4",
+            "label": "Ward",
+            "code": "CDD04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "name": "Ward 5",
+            "label": "Ward",
+            "code": "CDD05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "name": "Ward 6",
+            "label": "Ward",
+            "code": "CDD06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "name": "Ward 7",
+            "label": "Ward",
+            "code": "CDD07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "name": "Ward 8",
+            "label": "Ward",
+            "code": "CDD08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "name": "Ward 9",
+            "label": "Ward",
+            "code": "CDD09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "name": "Ward 10",
+            "label": "Ward",
+            "code": "CDD10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "name": "Ward 11",
+            "label": "Ward",
+            "code": "CDD11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "name": "Ward 12",
+            "label": "Ward",
+            "code": "CDD12",
+            "children": []
+          },
+          {
+            "id": "13",
+            "name": "Ward 13",
+            "label": "Ward",
+            "code": "CDD13",
+            "children": []
+          },
+          {
+            "id": "14",
+            "name": "Ward 14",
+            "label": "Ward",
+            "code": "CDD14",
+            "children": []
+          },
+          {
+            "id": "15",
+            "name": "Ward 15",
+            "label": "Ward",
+            "code": "CDD15",
+            "children": []
+          },
+          {
+            "id": "16",
+            "name": "Ward 16",
+            "label": "Ward",
+            "code": "CDD16",
+            "children": []
+          },
+          {
+            "id": "17",
+            "name": "Ward 17",
+            "label": "Ward",
+            "code": "CDD17",
+            "children": []
+          },
+          {
+            "id": "18",
+            "name": "Ward 18",
+            "label": "Ward",
+            "code": "CDD18",
+            "children": []
+          },
+          {
+            "id": "19",
+            "name": "Ward 19",
+            "label": "Ward",
+            "code": "CDD19",
+            "children": []
+          },
+          {
+            "id": "20",
+            "name": "Ward 20",
+            "label": "Ward",
+            "code": "CDD20",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "name": "Charkhi Dadri",
+        "label": "City",
+        "code": "hr.charkhidadri",
+        "children": []
+      }
+    }
+  ]
+}
