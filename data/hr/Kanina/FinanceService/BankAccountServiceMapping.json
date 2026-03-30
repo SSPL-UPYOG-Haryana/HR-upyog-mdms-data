@@ -1,0 +1,41 @@
+{
+  "tenantId": "hr.kanina",
+  "moduleName": "FinanceModule",
+  "BankAccountServiceMapping": [
+    {
+      "businessDetails": "REV_GRANTS",
+      "bankAccount": "000000000001",
+      "bank": "Allahabad UP Gramin Bank",
+      "bankBranch": "001",
+      "tenantId": "hr.kanina"
+    },
+    {
+      "businessDetails": "TL",
+      "bankAccount": "63897421",
+      "bank": "HDFC Bank",
+      "bankBranch": "HDFC147",
+      "tenantId": "hr.kanina"
+    },
+    {
+      "businessDetails": "TL",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
+      "tenantId": "hr.kanina"
+    },
+    {
+      "businessDetails": "FIRENOC",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
+      "tenantId": "hr.kanina"
+    },
+    {
+      "businessDetails": "chb-services",
+      "bankAccount": "2042417454076",
+      "bank": "ICICI Bank",
+      "bankBranch": "ICIC550",
+      "tenantId": "hr.kanina"
+    }  
+  ]
+}

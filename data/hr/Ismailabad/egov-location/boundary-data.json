@@ -1,0 +1,52 @@
+{
+  "tenantId": "hr.ismailabad",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Ismailabad",
+        "localname": "Ismailabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.ismailabad",
+        "children": [
+          { "id": "1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB01", "children": [] },
+          { "id": "2", "boundaryNum": "1", "name": "Ward 2", "localname": "Ward 2", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB02", "children": [] },
+          { "id": "3", "boundaryNum": "1", "name": "Ward 3", "localname": "Ward 3", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB03", "children": [] },
+          { "id": "4", "boundaryNum": "1", "name": "Ward 4", "localname": "Ward 4", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB04", "children": [] },
+          { "id": "5", "boundaryNum": "1", "name": "Ward 5", "localname": "Ward 5", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB05", "children": [] },
+          { "id": "6", "boundaryNum": "1", "name": "Ward 6", "localname": "Ward 6", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB06", "children": [] },
+          { "id": "7", "boundaryNum": "1", "name": "Ward 7", "localname": "Ward 7", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB07", "children": [] },
+          { "id": "8", "boundaryNum": "1", "name": "Ward 8", "localname": "Ward 8", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB08", "children": [] },
+          { "id": "9", "boundaryNum": "1", "name": "Ward 9", "localname": "Ward 9", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB09", "children": [] },
+          { "id": "10", "boundaryNum": "1", "name": "Ward 10", "localname": "Ward 10", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB10", "children": [] },
+          { "id": "11", "boundaryNum": "1", "name": "Ward 11", "localname": "Ward 11", "longitude": null, "latitude": null, "label": "Ward", "code": "IMB11", "children": [] }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Ismailabad",
+        "localname": "Ismailabad",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.ismailabad",
+        "children": []
+      }
+    }
+  ]
+}
