@@ -1,0 +1,59 @@
+{
+  "tenantId": "hr.kalka",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Kalka",
+        "localname": "Kalka",
+        "longitude": "76.930000",
+        "latitude": "30.830000",
+        "label": "City",
+        "code": "hr.kalka",
+        "children": [
+          { "id": "1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL01", "children": [] },
+          { "id": "2", "boundaryNum": "2", "name": "Ward 2", "localname": "Ward 2", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL02", "children": [] },
+          { "id": "3", "boundaryNum": "3", "name": "Ward 3", "localname": "Ward 3", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL03", "children": [] },
+          { "id": "4", "boundaryNum": "4", "name": "Ward 4", "localname": "Ward 4", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL04", "children": [] },
+          { "id": "5", "boundaryNum": "5", "name": "Ward 5", "localname": "Ward 5", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL05", "children": [] },
+          { "id": "6", "boundaryNum": "6", "name": "Ward 6", "localname": "Ward 6", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL06", "children": [] },
+          { "id": "7", "boundaryNum": "7", "name": "Ward 7", "localname": "Ward 7", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL07", "children": [] },
+          { "id": "8", "boundaryNum": "8", "name": "Ward 8", "localname": "Ward 8", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL08", "children": [] },
+          { "id": "9", "boundaryNum": "9", "name": "Ward 9", "localname": "Ward 9", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL09", "children": [] },
+          { "id": "10", "boundaryNum": "10", "name": "Ward 10", "localname": "Ward 10", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL10", "children": [] },
+          { "id": "11", "boundaryNum": "11", "name": "Ward 11", "localname": "Ward 11", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL11", "children": [] },
+          { "id": "12", "boundaryNum": "12", "name": "Ward 12", "localname": "Ward 12", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL12", "children": [] },
+          { "id": "13", "boundaryNum": "13", "name": "Ward 13", "localname": "Ward 13", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL13", "children": [] },
+          { "id": "14", "boundaryNum": "14", "name": "Ward 14", "localname": "Ward 14", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL14", "children": [] },
+          { "id": "15", "boundaryNum": "15", "name": "Ward 15", "localname": "Ward 15", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL15", "children": [] },
+          { "id": "16", "boundaryNum": "16", "name": "Ward 16", "localname": "Ward 16", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL16", "children": [] },
+          { "id": "17", "boundaryNum": "17", "name": "Ward 17", "localname": "Ward 17", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL17", "children": [] },
+          { "id": "18", "boundaryNum": "18", "name": "Ward 18", "localname": "Ward 18", "longitude": null, "latitude": null, "label": "Ward", "code": "KAL18", "children": [] }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Kalka",
+        "localname": "Kalka",
+        "longitude": "76.930000",
+        "latitude": "30.830000",
+        "label": "City",
+        "code": "hr.kalka",
+        "children": []
+      }
+    }
+  ]
+}

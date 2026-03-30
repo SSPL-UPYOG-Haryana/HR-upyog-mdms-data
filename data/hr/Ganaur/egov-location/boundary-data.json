@@ -1,0 +1,228 @@
+{
+  "tenantId": "hr.ganaur",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Ganaur",
+        "localname": "Ganaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.ganaur",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN01",
+            "children": []
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN02",
+            "children": []
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN03",
+            "children": []
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "boundaryNum": "1",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "boundaryNum": "1",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN12",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": "1",
+            "name": "Ward 13",
+            "localname": "Ward 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN13",
+            "children": []
+          },
+          {
+            "id": "14",
+            "boundaryNum": "1",
+            "name": "Ward 14",
+            "localname": "Ward 14",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN14",
+            "children": []
+          },
+          {
+            "id": "15",
+            "boundaryNum": "1",
+            "name": "Ward 15",
+            "localname": "Ward 15",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN15",
+            "children": []
+          },
+          {
+            "id": "16",
+            "boundaryNum": "1",
+            "name": "Ward 16",
+            "localname": "Ward 16",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN16",
+            "children": []
+          },
+          {
+            "id": "17",
+            "boundaryNum": "1",
+            "name": "Ward 17",
+            "localname": "Ward 17",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "GAN17",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Ganaur",
+        "localname": "Ganaur",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.ganaur",
+        "children": []
+      }
+    }
+  ]
+}

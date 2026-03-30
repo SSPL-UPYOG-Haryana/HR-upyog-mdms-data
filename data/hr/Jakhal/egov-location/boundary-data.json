@@ -1,0 +1,184 @@
+{
+  "tenantId": "hr.jakhal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Jakhal Mandi",
+        "localname": "Jakhal Mandi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.jakhal",
+        "children": [
+          {
+            "id": "1",
+            "boundaryNum": "1",
+            "name": "Ward 1",
+            "localname": "Ward 1",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL01",
+            "children": []
+          },
+          {
+            "id": "2",
+            "boundaryNum": "1",
+            "name": "Ward 2",
+            "localname": "Ward 2",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL02",
+            "children": []
+          },
+          {
+            "id": "3",
+            "boundaryNum": "1",
+            "name": "Ward 3",
+            "localname": "Ward 3",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL03",
+            "children": []
+          },
+          {
+            "id": "4",
+            "boundaryNum": "1",
+            "name": "Ward 4",
+            "localname": "Ward 4",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL04",
+            "children": []
+          },
+          {
+            "id": "5",
+            "boundaryNum": "1",
+            "name": "Ward 5",
+            "localname": "Ward 5",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL05",
+            "children": []
+          },
+          {
+            "id": "6",
+            "boundaryNum": "1",
+            "name": "Ward 6",
+            "localname": "Ward 6",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL06",
+            "children": []
+          },
+          {
+            "id": "7",
+            "boundaryNum": "1",
+            "name": "Ward 7",
+            "localname": "Ward 7",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL07",
+            "children": []
+          },
+          {
+            "id": "8",
+            "boundaryNum": "1",
+            "name": "Ward 8",
+            "localname": "Ward 8",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL08",
+            "children": []
+          },
+          {
+            "id": "9",
+            "boundaryNum": "1",
+            "name": "Ward 9",
+            "localname": "Ward 9",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL09",
+            "children": []
+          },
+          {
+            "id": "10",
+            "boundaryNum": "1",
+            "name": "Ward 10",
+            "localname": "Ward 10",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL10",
+            "children": []
+          },
+          {
+            "id": "11",
+            "boundaryNum": "1",
+            "name": "Ward 11",
+            "localname": "Ward 11",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL11",
+            "children": []
+          },
+          {
+            "id": "12",
+            "boundaryNum": "1",
+            "name": "Ward 12",
+            "localname": "Ward 12",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL12",
+            "children": []
+          },
+          {
+            "id": "13",
+            "boundaryNum": "1",
+            "name": "Ward 13",
+            "localname": "Ward 13",
+            "longitude": null,
+            "latitude": null,
+            "label": "Ward",
+            "code": "JKL13",
+            "children": []
+          }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Jakhal Mandi",
+        "localname": "Jakhal Mandi",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.jakhal",
+        "children": []
+      }
+    }
+  ]
+}

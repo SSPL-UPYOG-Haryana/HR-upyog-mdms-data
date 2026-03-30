@@ -1,0 +1,72 @@
+{
+  "tenantId": "hr.bahadurgarh",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Bahadurgarh",
+        "localname": "Bahadurgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.bahadurgarh",
+        "children": [
+          { "id": "1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG01", "children": [] },
+          { "id": "2", "boundaryNum": "1", "name": "Ward 2", "localname": "Ward 2", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG02", "children": [] },
+          { "id": "3", "boundaryNum": "1", "name": "Ward 3", "localname": "Ward 3", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG03", "children": [] },
+          { "id": "4", "boundaryNum": "1", "name": "Ward 4", "localname": "Ward 4", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG04", "children": [] },
+          { "id": "5", "boundaryNum": "1", "name": "Ward 5", "localname": "Ward 5", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG05", "children": [] },
+          { "id": "6", "boundaryNum": "1", "name": "Ward 6", "localname": "Ward 6", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG06", "children": [] },
+          { "id": "7", "boundaryNum": "1", "name": "Ward 7", "localname": "Ward 7", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG07", "children": [] },
+          { "id": "8", "boundaryNum": "1", "name": "Ward 8", "localname": "Ward 8", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG08", "children": [] },
+          { "id": "9", "boundaryNum": "1", "name": "Ward 9", "localname": "Ward 9", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG09", "children": [] },
+          { "id": "10", "boundaryNum": "1", "name": "Ward 10", "localname": "Ward 10", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG10", "children": [] },
+          { "id": "11", "boundaryNum": "1", "name": "Ward 11", "localname": "Ward 11", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG11", "children": [] },
+          { "id": "12", "boundaryNum": "1", "name": "Ward 12", "localname": "Ward 12", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG12", "children": [] },
+          { "id": "13", "boundaryNum": "1", "name": "Ward 13", "localname": "Ward 13", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG13", "children": [] },
+          { "id": "14", "boundaryNum": "1", "name": "Ward 14", "localname": "Ward 14", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG14", "children": [] },
+          { "id": "15", "boundaryNum": "1", "name": "Ward 15", "localname": "Ward 15", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG15", "children": [] },
+          { "id": "16", "boundaryNum": "1", "name": "Ward 16", "localname": "Ward 16", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG16", "children": [] },
+          { "id": "17", "boundaryNum": "1", "name": "Ward 17", "localname": "Ward 17", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG17", "children": [] },
+          { "id": "18", "boundaryNum": "1", "name": "Ward 18", "localname": "Ward 18", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG18", "children": [] },
+          { "id": "19", "boundaryNum": "1", "name": "Ward 19", "localname": "Ward 19", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG19", "children": [] },
+          { "id": "20", "boundaryNum": "1", "name": "Ward 20", "localname": "Ward 20", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG20", "children": [] },
+          { "id": "21", "boundaryNum": "1", "name": "Ward 21", "localname": "Ward 21", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG21", "children": [] },
+          { "id": "22", "boundaryNum": "1", "name": "Ward 22", "localname": "Ward 22", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG22", "children": [] },
+          { "id": "23", "boundaryNum": "1", "name": "Ward 23", "localname": "Ward 23", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG23", "children": [] },
+          { "id": "24", "boundaryNum": "1", "name": "Ward 24", "localname": "Ward 24", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG24", "children": [] },
+          { "id": "25", "boundaryNum": "1", "name": "Ward 25", "localname": "Ward 25", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG25", "children": [] },
+          { "id": "26", "boundaryNum": "1", "name": "Ward 26", "localname": "Ward 26", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG26", "children": [] },
+          { "id": "27", "boundaryNum": "1", "name": "Ward 27", "localname": "Ward 27", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG27", "children": [] },
+          { "id": "28", "boundaryNum": "1", "name": "Ward 28", "localname": "Ward 28", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG28", "children": [] },
+          { "id": "29", "boundaryNum": "1", "name": "Ward 29", "localname": "Ward 29", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG29", "children": [] },
+          { "id": "30", "boundaryNum": "1", "name": "Ward 30", "localname": "Ward 30", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG30", "children": [] },
+          { "id": "31", "boundaryNum": "1", "name": "Ward 31", "localname": "Ward 31", "longitude": null, "latitude": null, "label": "Ward", "code": "BDG31", "children": [] }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Bahadurgarh",
+        "localname": "Bahadurgarh",
+        "longitude": null,
+        "latitude": null,
+        "label": "City",
+        "code": "hr.bahadurgarh",
+        "children": []
+      }
+    }
+  ]
+}

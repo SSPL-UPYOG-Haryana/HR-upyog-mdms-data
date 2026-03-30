@@ -1,0 +1,54 @@
+{
+  "tenantId": "hr.bawal",
+  "moduleName": "egov-location",
+  "TenantBoundary": [
+    {
+      "hierarchyType": {
+        "code": "REVENUE",
+        "name": "REVENUE"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Bawal",
+        "localname": "Bawal",
+        "longitude": "76.58",
+        "latitude": "28.08",
+        "label": "City",
+        "code": "hr.bawal",
+        "children": [
+          { "id": "1", "boundaryNum": "1", "name": "Ward 1", "localname": "Ward 1", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW01", "children": [] },
+          { "id": "2", "boundaryNum": "2", "name": "Ward 2", "localname": "Ward 2", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW02", "children": [] },
+          { "id": "3", "boundaryNum": "3", "name": "Ward 3", "localname": "Ward 3", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW03", "children": [] },
+          { "id": "4", "boundaryNum": "4", "name": "Ward 4", "localname": "Ward 4", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW04", "children": [] },
+          { "id": "5", "boundaryNum": "5", "name": "Ward 5", "localname": "Ward 5", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW05", "children": [] },
+          { "id": "6", "boundaryNum": "6", "name": "Ward 6", "localname": "Ward 6", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW06", "children": [] },
+          { "id": "7", "boundaryNum": "7", "name": "Ward 7", "localname": "Ward 7", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW07", "children": [] },
+          { "id": "8", "boundaryNum": "8", "name": "Ward 8", "localname": "Ward 8", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW08", "children": [] },
+          { "id": "9", "boundaryNum": "9", "name": "Ward 9", "localname": "Ward 9", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW09", "children": [] },
+          { "id": "10", "boundaryNum": "10", "name": "Ward 10", "localname": "Ward 10", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW10", "children": [] },
+          { "id": "11", "boundaryNum": "11", "name": "Ward 11", "localname": "Ward 11", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW11", "children": [] },
+          { "id": "12", "boundaryNum": "12", "name": "Ward 12", "localname": "Ward 12", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW12", "children": [] },
+          { "id": "13", "boundaryNum": "13", "name": "Ward 13", "localname": "Ward 13", "longitude": null, "latitude": null, "label": "Ward", "code": "BAW13", "children": [] }
+        ]
+      }
+    },
+    {
+      "hierarchyType": {
+        "code": "ADMIN",
+        "name": "ADMIN"
+      },
+      "boundary": {
+        "id": "1",
+        "boundaryNum": "1",
+        "name": "Bawal",
+        "localname": "Bawal",
+        "longitude": "76.58",
+        "latitude": "28.08",
+        "label": "City",
+        "code": "hr.bawal",
+        "children": []
+      }
+    }
+  ]
+}
