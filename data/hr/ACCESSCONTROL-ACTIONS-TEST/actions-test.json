@@ -4646,34 +4646,6 @@
       "path": "Finance.Revenue Accounting.Cheque Remittance"
     },
     {
-      "id": 1704,
-      "name": "Service Bankaccount",
-      "url": "url",
-      "displayName": "Create Bankaccount Mapping",
-      "orderNumber": 5,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "Collections",
-      "code": "null",
-      "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-newform.action",
-      "leftIcon": "image:collections",
-      "path": "Finance.Masters.Bank Account Mapping.Create Bankaccount Mapping"
-    },
-    {
-      "id": 1705,
-      "name": "Service Bankaccount",
-      "url": "url",
-      "displayName": "View Bankaccount Mapping",
-      "orderNumber": 6,
-      "parentModule": "",
-      "enabled": false,
-      "serviceCode": "Collections",
-      "code": "null",
-      "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
-      "leftIcon": "image:collections",
-      "path": "Finance.Masters.Bank Account Mapping.View Bankaccount Mapping"
-    },
-    {
       "id": 1706,
       "name": "TL Report",
       "url": "/report/rainmaker-tl/_get",
