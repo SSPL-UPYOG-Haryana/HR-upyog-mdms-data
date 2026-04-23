@@ -3304,18 +3304,6 @@
       "rightIcon": ""
     },
     {
-      "id": 1587,
-      "name": "bankAccountServiceMapping search",
-      "url": "/collection-services/bankAccountServiceMapping/_search",
-      "displayName": "BankAccountServiceMapping Create",
-      "orderNumber": 1,
-      "parentModule": null,
-      "enabled": false,
-      "serviceCode": "collection-masters",
-      "code": "collection-masters.bankAccountServiceMapping",
-      "path": ""
-    },
-    {
       "id": 1588,
       "name": "pgR Report",
       "url": "/report/rainmaker-pgr/_get",
