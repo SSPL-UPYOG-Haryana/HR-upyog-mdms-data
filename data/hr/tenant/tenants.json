@@ -1549,7 +1549,7 @@
       },
       "isPopular": false,
       "city": {
-        "name": "Firozpur Jhirka",
+        "name": "Firozpur Zhirka",
         "localName": null,
         "districtCode": "NUH",
         "districtName": "Nuh",
@@ -1560,10 +1560,10 @@
         "latitude": 27.7863,
         "shapeFileLocation": null,
         "captcha": null,
-        "code": "FIROZPURJHIRKA",
-        "ddrName": "Municipal Committee Firozpur Jhirka"
+        "code": "FIROZPURZHIRKA",
+        "ddrName": "Municipal Committee Firozpur Zhirka"
       },
-      "address": "Municipal Committee Firozpur Jhirka, Nuh, Haryana 122104",
+      "address": "Municipal Committee Firozpur Zhirka, Nuh, Haryana 122104",
       "contactNumber": ""
     },
     {
