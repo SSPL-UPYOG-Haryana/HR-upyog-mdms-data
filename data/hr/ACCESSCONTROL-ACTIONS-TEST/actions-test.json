@@ -19715,9 +19715,9 @@
 	{
       "id": 2929,
       "name": "Data Migration",
-      "navigationURL": "services/LDM/home",
+      "navigationURL": "services/EGF/migration",
       "url": "url",
-      "parentModule": "LDM",
+      "parentModule": "EGF",
       "displayName": "Data Migration",
       "orderNumber": 1,
       "enabled": true,
