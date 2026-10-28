@@ -19753,6 +19753,20 @@
       "navigationURL": "services/collection/service/serviceTypeToBankAccountMapping-list.action",
       "leftIcon": "image:collections",
       "path": "Finance.Masters.Bank Account Mapping.View Bankaccount Mapping"
+    },
+    {
+      "id": 2930,
+      "name": "User Activity",
+      "url": "url",
+      "parentModule": "EGF",
+      "displayName": "User Activity Report",
+      "orderNumber": 6,
+      "enabled": true,
+      "serviceCode": "FinanceReport",
+      "code": "null",
+      "path": "Finance.Report Generation.Budget Reports.User Activity Report",
+      "navigationURL": "services/EGF/masters/master-entry-report",
+      "leftIcon": "editor:insert-chart"
     }
   ]
 }
